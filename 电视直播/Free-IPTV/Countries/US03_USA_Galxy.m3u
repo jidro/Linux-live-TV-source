@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*** USA GALXY TV - github.com/Free-IPTV" group-title="USA GALXY TV" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA GALXY TV - github.com/Free-IPTV
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Business Rockstars" tvg-logo="https://i.imgur.com/5UDyshA.png" group-title="USA GALXY TV",Business Rockstars
+https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CinePride" tvg-logo="https://i.imgur.com/GUQHNAP.png" group-title="USA GALXY TV",Cinepride
+https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dungeon" tvg-logo="https://i.imgur.com/mDRWtq0.png" group-title="USA GALXY TV",Dungeon
+https://content.uplynk.com/channel/5688add7ce704ce1a27ab62bb44044b9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Conflecto" tvg-logo="https://i.imgur.com/9jtoSQf.png" group-title="USA GALXY TV",El Conflecto
+https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FrightFlix" tvg-logo="https://i.imgur.com/9qamuVj.png" group-title="USA GALXY TV",FrightFlix
+https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Galxy TV" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="USA GALXY TV",Galxy TV
+https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Watch it Kid" tvg-logo="https://i.imgur.com/DAhbkLv.png" group-title="USA GALXY TV",Watch it Kid
+https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Watch it Scream" tvg-logo="https://i.imgur.com/OyorkGV.png" group-title="USA GALXY TV",Watch it Scream
+https://content.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8

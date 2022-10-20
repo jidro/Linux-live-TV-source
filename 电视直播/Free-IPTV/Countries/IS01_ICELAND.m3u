@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*** ICELAND - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/4DcfPZp.png" group-title="ICELAND",*** ICELAND - github.com/Free-IPTV
+https://
+#EXTINF:-1 tvg-name="KVF Faroe Island" tvg-id="KVF Faroe Island" tvg-logo="https://i.imgur.com/7p5ew4e.jpg" group-title="ICELAND",KVF Faroe Island
+https://w2.kringvarp.fo/uttanlands/480/manifest.m3u8
+#EXTINF:-1 tvg-name="N4" tvg-id="N4 - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/bLA64K0.png" group-title="ICELAND",N4 - github.com/Free-IPTV
+https://live.tv.c.is/n4/index.m3u8

@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*** SWITZERLAND - github.com/Free-IPTV" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/eqVr8td.jpg",*** SWITZERLAND - github.com/Free-IPTV
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="Canal 9" tvg-id="Kanal9.ch" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/nQVDOVb.png",Canal 9
+https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
+#EXTINF:-1 tvg-id="CanalAlphaJU.ch" tvg-name="Canal Alpha Jura" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="SWITZERLAND",Canal Alpha Jura
+https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Alpha Neuchatel" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="SWITZERLAND",Canal Alpha Neuchatel
+https://edge3.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Die Neue Zeit" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="SWITZERLAND",Die Neue Zeit
+https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dieu TV" tvg-logo="https://i.imgur.com/3sWAEuY.jpg" group-title="SWITZERLAND",Dieu TV
+https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 9" tvg-logo="https://i.imgur.com/nQVDOVb.png" group-title="SWITZERLAND",Kanal 9
+https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La Tele" tvg-logo="https://i.imgur.com/JiAnDPu.png" group-title="SWITZERLAND",La Tele
+https://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Leman Bleu - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/gzmkYlE.jpg" group-title="SWITZERLAND",Leman Bleu  - github.com/Free-IPTV
+https://edge2.vedge.infomaniak.com/livecast/ik:naxoo/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LFM TV" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="SWITZERLAND",LFM TV
+https://edge4.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8?spark=cf45faac-ae15-4c71-92c5-6c3527ed8e0f&token=
+#EXTINF:-1 tvg-id="" tvg-name="Meteonews" tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="SWITZERLAND",Meteonews
+https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="One TV" tvg-logo="https://i.imgur.com/YEQ957V.png" group-title="SWITZERLAND",One TV
+https://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QS24" tvg-logo="https://i.imgur.com/sxrRSXb.jpg" group-title="SWITZERLAND",QS24
+http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio 3i (Webradio)" tvg-logo="https://i.imgur.com/lp23ChL.jpg" group-title="SWITZERLAND",Radio 3i (Webradio)
+https://livestream.gruppocdt.ch/hls/radio3i.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Argovia 90.3 FM Aarau (Webradio)" tvg-logo="https://i.imgur.com/dANlbjX.png" group-title="SWITZERLAND",Radio Argovia 90.3 FM Aarau (Webradio)
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_uv9hs4ww/sd/6000/t/wrKSSij4alVi5jiCA3spVQ/index-s32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Pilatus (Webradio)" tvg-logo="https://i.imgur.com/lQzG2lg.png" group-title="SWITZERLAND",Radio Pilatus (Webradio)
+https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Rouge TV - github.com/Free-IPTV" tvg-id="RougeTV.ch" tvg-logo="https://i.imgur.com/PzF6q9I.png" group-title="SWITZERLAND",Rouge TV - github.com/Free-IPTV
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTS Couleur 3 (Webradio)" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="SWITZERLAND",RTS Couleur 3 (Webradio)
+https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/master.m3u8
+#EXTINF:-1 tvg-name="Schweiz 5" tvg-id="SCHWEIZ5.ch" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/AoWrARg.png",Schweiz 5
+https://stream.schweiz5.ch/schweiz52020/stream.m3u8
+#EXTINF:-1 tvg-name="SWISS Sport TV 24/7" tvg-id="" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/lTqP4Ij.jpg",SWISS Sport TV 24/7
+https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/master.m3u8
+#EXTINF:-1 tvg-name="Tele 1" tvg-id="Tele1.ch" group-title="SWITZERLAND" tvg-logo="https://icanlive.tv/pictures/tele1.jpg",Tele 1
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1 tvg-name="Tele M1 HD" tvg-id="TeleM1.ch" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/ctqC5dp.png",Tele M1 HD
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1 tvg-id="Telebasel HD CH" tvg-name="Telebasel" tvg-logo="https://i.imgur.com/mMXYqtm.png" group-title="SWITZERLAND",Telebasel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+#EXTINF:-1 tvg-name="TeleBarn" tvg-id="TeleBarn.ch" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg",TeleBarn
+http://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_0mc3z57p/st/0/t/H7i-ISuONrDR9Xn78tI2iw/index-s32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TeleBielingue" tvg-logo="https://i.imgur.com/bPpWJj2.png" group-title="SWITZERLAND",TeleBielingue
+https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8
+#EXTINF:-1 tvg-id="TeleTicino.ch" tvg-name="TeleTicino" tvg-logo="https://i.imgur.com/HuPkeOg.jpg" group-title="SWITZERLAND",TeleTicino
+https://livestream.gruppocdt.ch/hls/teleticino.m3u8
+#EXTINF:-1 tvg-name="Telezürich" tvg-id="TeleZuri.ch" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/Cm9W0kh.png",Telezürich
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_4dmq7avs/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1 tvg-name="TVM 3" tvg-id="TVM3.ch"tvg-logo="https://i.imgur.com/rpTT8QD.png" group-title="SWITZERLAND",TVM 3
+http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 tvg-name="TVO (CH)" tvg-id="TVO.ch" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/gbX8z28.png",TVO (CH)
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1 tvg-name="*** RK CH - github.com/Free-IPTV" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/7krfGOy.jpg",*** RK CH - github.com/Free-IPTV
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies - CH" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="SWITZERLAND",Action Movies - CH
+https://rakuten-actionmovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies - CH" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="SWITZERLAND",Comedy Movies - CH
+https://rakuten-comedymovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Drama - CH" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="SWITZERLAND",Drama - CH
+https://rakuten-tvshows-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Der Serienkanal - CH (stop at ads)" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" group-title="SWITZERLAND",Der Serienkanal - CH (stop at ads)
+https://endemol-derserienkanal-1-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Family - CH" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="SWITZERLAND",Family - CH
+https://rakuten-family-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spotlight - CH" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="SWITZERLAND",Spotlight - CH
+https://rakuten-spotlight-4-ch.samsung.wurl.com/manifest/playlist.m3u8

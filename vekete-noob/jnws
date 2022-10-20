@@ -1,0 +1,3 @@
+#!/bin/sh
+
+smplayer http://stream4.jlntv.cn/test2/sd/live.m3u8

@@ -1,0 +1,4 @@
+#! /bin/sh
+
+smplayer http://zbzy.sczytv.com/live/23074_0438d2a1e35c11e9b04e6c92bf487b62.m3u8
+

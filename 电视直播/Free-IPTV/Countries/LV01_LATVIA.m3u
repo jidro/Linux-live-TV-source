@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*** LATVIA  - github.com/Free-IPTV" group-title="LATVIA" tvg-logo="https://i.imgur.com/KrIyaMf.png",*** LATVIA  - github.com/Free-IPTV
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chau TV" tvg-logo="https://i.imgur.com/c4q2PQj.png" group-title="LATVIA",Chau TV
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latvijas Radio 1 (Webradio)" tvg-logo="https://i.imgur.com/hsspORI.png" group-title="LATVIA",Latvijas Radio 1 (Webradio)
+http://5a44e5b800a41.streamlock.net:1935/liveVLR1/mp4:LR1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latvijas Radio 3 Klasika (Webradio)" tvg-logo="https://i.imgur.com/MxAVEYZ.png" group-title="LATVIA",Latvijas Radio 3 Klasika (Webradio)
+http://5a44e5b800a41.streamlock.net:1935/liveVLR3/mp4:Klasika/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RE TV" tvg-logo="https://i.imgur.com/TkXZ0wT.png" group-title="LATVIA",RE TV
+https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 3 Latvia" tvg-logo="https://i.imgur.com/TnROrbD.png" group-title="LATVIA",TV 3 Latvia
+https://cdn6.tvplayhome.lt/live/eds/TV3_LV_SD/H1s_0utput/TV3_LV_SD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV6 Latvia" tvg-logo="https://i.imgur.com/GwQQqCj.png" group-title="LATVIA",TV6 Latvia  - github.com/Free-IPTV
+https://cdn6.tvplayhome.lt/live/eds/TV6_LV_SD/H1s_0utput/TV6_LV_SD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVNET - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/B4HuyOk.png" group-title="LATVIA",TVNET - github.com/Free-IPTV
+https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8

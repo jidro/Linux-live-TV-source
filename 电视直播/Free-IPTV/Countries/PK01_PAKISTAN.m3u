@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-name=vg-name="*** PAKISTAN - github.com/Free-IPTV" group-title="PAKISTAN" tvg-logo="https://i.imgur.com/mX0sUfc.png",*** PAKISTAN - github.com/Free-IPTV
+http://
+#EXTINF:-1 tvg-id="" tvg-name="92 News" tvg-logo="https://i.imgur.com/Ji563Ed.jpg" group-title="PAKISTAN",92 News
+https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARY Digita" tvg-logo="https://i.imgur.com/TVP7g03.png" group-title="PAKISTAN",ARY Digital
+https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARY News" tvg-logo="https://i.imgur.com/R4KtTbJ.jpg" group-title="PAKISTAN",ARY News
+https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Avt Khyber" tvg-logo="https://i.imgur.com/k3skdFb.jpg" group-title="PAKISTAN",Avt Khyber
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dunya News" tvg-logo="https://i.imgur.com/NtZKzM6.png" group-title="PAKISTAN",Dunya News
+https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kay2 TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/ORHUv4C.jpg" group-title="PAKISTAN",Kay2 TV - github.com/Free-IPTV
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Khyber Middle East" tvg-logo="https://i.imgur.com/Wzvdqu9.png" group-title="PAKISTAN",Khyber Middle East
+https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Khyber News" tvg-logo="https://i.imgur.com/Cj2pLFf.png" group-title="PAKISTAN",Khyber News
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Minhaj TV" tvg-logo="https://i.imgur.com/3YKWGUq.png" group-title="PAKISTAN",Minhaj TV
+https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Noor TV" tvg-logo="https://i.imgur.com/PmHwo63.jpg" group-title="PAKISTAN",Noor TV
+https://ls1.serverdump.com/stream3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV Home" tvg-logo="https://i.imgur.com/YKiV4yR.png" group-title="PAKISTAN",PTV Home
+https://live.ptv.com.pk/live/stream/ptvhome/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV Sports" tvg-logo="https://i.imgur.com/SgzkCOG.jpg" group-title="PAKISTAN",PTV Sports
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV World" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="PAKISTAN",PTV World
+https://live.ptv.com.pk/live/ptvworld/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zindagi TV" tvg-logo="https://i.imgur.com/BUktuHW.png" group-title="PAKISTAN",Zindagi TV
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8

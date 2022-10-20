@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*** ESTONIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/mE9gSDt.png" group-title="ESTONIA",*** ESTONIA - github.com/Free-IPTV
+https://
+#EXTINF:-1 tvg-id="" tvg-name="ETV+" tvg-logo="https://i.imgur.com/L8fGd9d.png" group-title="ESTONIA",ETV+
+https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ETV" tvg-logo="https://i.imgur.com/SAOGSmL.png" group-title="ESTONIA",ETV
+https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ETV 2" tvg-logo="https://i.imgur.com/wY6Pz37.png" group-title="ESTONIA",ETV 2
+https://errstreams4.cdn.eurovisioncdn.net/live/etv2-kval2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Life TV" tvg-logo="https://i.imgur.com/RBUmENQ.png" group-title="ESTONIA",Life TV
+https://lifetv.bitflip.ee/live/stream1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Riigikogu - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/xuySaSN.png" group-title="ESTONIA",Riigikogu - github.com/Free-IPTV
+https://riigikogu.babahhcdn.com/bb1027/smil:riigikogu_ch1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Taevas TV 7 " tvg-logo="https://i.imgur.com/FaQQdzz.png" group-title="ESTONIA",Taevas TV 7 
+https://vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8

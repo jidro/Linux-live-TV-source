@@ -1,0 +1,3 @@
+#!/bin/sh
+
+smplayer http://39.134.168.70/PLTV/1/224/3221225548/index.m3u8

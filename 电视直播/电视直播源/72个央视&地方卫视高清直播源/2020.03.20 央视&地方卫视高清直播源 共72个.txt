@@ -1,0 +1,217 @@
+﻿http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+CCTV-1 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+CCTV-2 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+CCTV-3 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+CCTV-4 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+CCTV-5 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
+CCTV-5+HD
+
+http://112.17.40.48:80/PLTV/88888888/224/3221226433/1.m3u8
+CCTV-6 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+CCTV-7 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+CCTV-8 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+CCTV-9 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
+CCTV-10 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+CCTV-11 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+CCTV-12 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV-13 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
+CCTV-14 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+CCTV-15 HD
+
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+CCTV-16 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+CCTV-17 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+CCTV4K  HD
+
+http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+纯享4K   UHD
+
+http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
+冬奥纪实 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
+湖南卫视 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
+江苏卫视 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
+浙江卫视 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
+东方卫视 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
+北京卫视 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
+广东卫视 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
+深圳卫视 HD
+
+http://112.50.243.8/PLTV/88888888/224/3221225830/1.m3u8
+天津卫视 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
+安徽卫视 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
+山东卫视 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
+湖北卫视 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
+辽宁卫视 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
+重庆卫视 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294103.m3u8
+江西卫视 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
+河北卫视 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
+贵州卫视 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
+四川卫视 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
+河南卫视 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
+广西卫视 HD
+
+http://39.135.15.70:6610/PLTV/88888888/224/3221225753/1/index.m3u8
+吉林卫视 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
+海南卫视 HD
+
+http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
+厦门卫视 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
+东南卫视 HD
+
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
+海峡卫视 HD
+
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226116/10000100000000060000000002358068_0.smil
+福建新闻 HD
+
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
+黑龙江卫视 HD
+
+http://112.50.243.8/PLTV/88888888/224/3221225850/1.m3u8
+陕西卫视
+
+http://112.50.243.8/PLTV/88888888/224/3221225839/1.m3u8
+山西卫视
+
+http://112.50.243.8/PLTV/88888888/224/3221225845/1.m3u8
+甘肃卫视
+
+http://112.50.243.8/PLTV/88888888/224/3221225841/1.m3u8
+青海卫视
+
+http://112.50.243.8/PLTV/88888888/224/3221225853/1.m3u8
+云南卫视
+
+http://112.50.243.8/PLTV/88888888/224/3221225849/1.m3u8
+宁夏卫视
+
+http://112.50.243.8/PLTV/88888888/224/3221225852/1.m3u8
+新疆卫视
+
+http://112.50.243.8/PLTV/88888888/224/3221225846/1.m3u8
+内蒙古卫视
+
+http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+凤凰中文 HD
+
+http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+凤凰资讯 HD
+
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+凤凰香港 HD
+
+http://112.50.243.8/PLTV/88888888/224/3221225879/1.m3u8
+Newtv动作电影
+
+http://112.50.243.8/PLTV/88888888/224/3221225885/1.m3u8
+Newtv惊悚悬疑
+
+http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
+Newtv明星大片
+
+http://112.50.243.8/PLTV/88888888/224/3221225882/1.m3u8
+Newtv家庭剧场
+
+http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8
+Newtv精品大剧
+
+http://112.50.243.8/PLTV/88888888/224/3221225880/1.m3u8
+Newtv古装剧场
+
+http://112.50.243.8/PLTV/88888888/224/3221225877/1.m3u8
+Newtv爱情喜剧
+
+http://112.50.243.8/PLTV/88888888/224/3221225887/1.m3u8
+Newtv军旅剧场
+
+http://112.50.243.8/PLTV/88888888/224/3221225890/1.m3u8
+Newtv军事评论
+
+http://112.50.243.8/PLTV/88888888/224/3221225884/1.m3u8
+Newtv金牌综艺
+
+http://112.50.243.8/PLTV/88888888/224/3221225886/1.m3u8
+Newtv精品体育
+
+http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
+Newtv精品记录
+
+http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
+黑莓电影
+
+http://112.50.243.8/PLTV/88888888/224/3221225878/1.m3u8
+黑莓动画
+
+2020.03.20 

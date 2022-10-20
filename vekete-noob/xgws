@@ -1,0 +1,3 @@
+#!/bin/sh
+
+smplayer http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8

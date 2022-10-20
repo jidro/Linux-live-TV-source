@@ -1,0 +1,109 @@
+HALL OF SHAME and Stupid Forking 
+
+HALL OF SHAME No. 1:
+
+They can be really proud to landing here! 
+
+https://github.com/iptv-org/iptv
+
+Now that our rules have been violated twice, a well-known repo has now also made it into this list!
+Why do yourself work when you can simply copy the work of others!
+
+https://github.com/iptv-org/iptv/pull/2282#issuecomment-808138484
+
+https://github.com/iptv-org/iptv/issues/2317
+
+This repo is already known, because of a rule violation (Illegal streams, Copyright violation), it is NOT the first time!
+
+HALL OF SHAME No. 2:
+
+Hi @alirezaaziz,
+
+You can be really proud to have ended up here! You have copied complete entries of our m3u's, you can see well with all streams with the IP 51.210.199.x.
+
+https://github.com/iptv-org/iptv/pull/2282#issuecomment-808138484
+
+The ID (link) for tvg-logo = is generated when the link for the graphic is created on the imgur homepage. This link is an UNIQUE link and is only generated once, it never appears again!!!
+
+You are even so three, you have now created your own repo, in which all the copied entries 1:1 can also be found!
+
+https://github.com/alirezaaziz/deu/blob/main/iran.m3u
+
+If you are not able to create something yourself here at Github, but only to copy it stupidly from others, you are at the wrong place here at Github! If I catch you here on Github again that you are experiencing something without my permission, I promise you a shit storm and you will be reported on Github!
+
+Finally read the Readme in my Repo carefully and write it behind your ears!!!
+
+https://github.com/alirezaaziz/deu/issues/1
+
+HALL OF SHAME No. 3:
+
+iptvmate - This guy is especially thirsty! He was warned by me!
+
+He copies the complete M3Us from me without permission, he doesn't even change the file names. 
+The M3U's are a 1: 1 copy of my files as of the status (date) in the respective articles. 
+We made enough print screens beforehand from this!
+
+https://imgur.com/a/dwf4MuW
+
+After the guy was informed, he changed them all on March 25th!!!
+
+https://iptvmate.net/united-states-iptv-channels-playlists/
+
+It is really poor that some guys only stop stealing once they have been published!
+
+We will continue to keep an eye on his doings.
+
+https://iptvmate.net
+
+HALL OF SHAME No. 4:
+
+Maggy - The user was warned publicly by me and other!
+
+Until recently he used many of my M3U's without my permission to then offer them as something of his own in this forum!
+
+Not only I, others such as Apsat have already warned him!
+
+https://forums.whirlpool.net.au/thread/9nk6qzy3?p=9#r175 
+
+What this insolent user in the vuplus forum did not know before, i have an account in the forum! I downloaded the files adapted
+for VU +, except for the iptv_xumo.rar, copied everything from my repo without asking me!
+
+Link removed, on March 26th, 2021 the postings with the entries of our m3u's copied by us are no longer to be seen in the forum. But there are also areas that are not visible to visitors, we also keep an eye on them, with a user account in the forum! But WE keep an eye on the user Maggy!
+
+At the 28. March, he continued to copy m3u´s and entries from others: Geonsey, tdtchannels.com, FluxusTV and Prenj but NO backlinks to their work! This is an absolute No-Go!!!
+
+https://www.vuplus-support.org/wbb4/index.php?thread/143235-astra-19-2e-sat-settings-free-tv-streams/&postID=2092054#post2092054
+
+I think it won't be long before everyone in this despicable forum gets to know this hustle and bustle!
+
+EVERYONE I catch copying my M3Us without my permission, distributing them on the Internet or misusing them 
+for the purposes of their own profiling will end up here on this page! Also here within Github there are 2 specialists
+who have a keen eye on!
+
+---
+
+STUPID FORKING
+
+What annoys not only me but also others is the stupid creation of a fork!
+
+You can read here what also annoys others about the forks
+
+At the moment there are 56 forks from my repo. Again, most of them were just created stupidly as without using the sense of a fork.
+
+https://github.com/isaacs/github/issues/1280
+
+At the moment there are more than 60 forks from my repo. Again, most of them were just created stupidly as without using the sense of a fork.
+
+Anyone who creates a fork of my repo and does NOT have the status Contributor after a few days will be blocked from now on!
+
+There are a few specialists at Github who have nothing of their own, only have forks and are not the forks contributors to any.
+
+Only these users are contributors: 
+
+https://github.com/Free-IPTV/Countries/graphs/contributors
+
+Only 3 users  (not contributor) have at least participated via issues. With the MOST forks, nothing happened!
+
+I'm really tired of this stupid forking, from now on it will be blocked. I'll block these more than 50 users shortly, it's annoying!
+
+

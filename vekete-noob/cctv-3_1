@@ -1,0 +1,3 @@
+#!/bin/sh
+
+smplayer http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225754/index.m3u8

@@ -1,0 +1,3 @@
+#!/bin/sh
+
+smplayer http://liveplay-kk.rtxapp.com/live/program/live/cctv3/1300000/mnf.m3u8

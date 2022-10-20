@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*** TAIWAN - github.com/Free-IPTV" group-title="TAIWAN" tvg-logo="https://i.imgur.com/KXcPGuA.png",*** TAIWAN - github.com/Free-IPTV
+http://
+#EXTINF:-1 tvg-id="" tvg-name="CTS" tvg-logo="https://i.imgur.com/VMLLsWs.jpg" group-title="TAIWAN",CTS
+plugin://plugin.video.youtube/play/?video_id=PQLMD4iHhG8
+#EXTINF:-1 tvg-id="" tvg-name="CTV News " tvg-logo="https://i.imgur.com/NKFqN5z.png" group-title="TAIWAN",CTV News 
+plugin://plugin.video.youtube/play/?video_id=lSZZ3YRsW1w
+#EXTINF:-1 tvg-id="" tvg-name="Da Ai TV" tvg-logo="https://i.imgur.com/jz3KV6a.png" group-title="TAIWAN",Da Ai TV
+plugin://plugin.video.youtube/play/?video_id=oV_i3Hsl_zg
+#EXTINF:-1 tvg-id="" tvg-name="EBC News" tvg-logo="https://i.imgur.com/BP9EMLw.png" group-title="TAIWAN",EBC News
+plugin://plugin.video.youtube/play/?video_id=63RmMXCd_bQ
+#EXTINF:-1 tvg-id="" tvg-name="Formosa" tvg-logo="https://i.imgur.com/SSaCVNV.jpg" group-title="TAIWAN",Formosa
+plugin://plugin.video.youtube/play/?video_id=XxJKnDLYZz4
+#EXTINF:-1 tvg-id="" tvg-name="FTV News" tvg-logo="https://i.imgur.com/8JPOdS8.png" group-title="TAIWAN",FTV News
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Indigenous TV" tvg-logo="https://i.imgur.com/RuAYuSM.png" group-title="TAIWAN",Indigenous TV
+http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Legislative Yuan" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="TAIWAN",Legislative Yuan
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Set News - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/d5s3EwA.png" group-title="TAIWAN",Set News - github.com/Free-IPTV
+plugin://plugin.video.youtube/play/?video_id=4ZVUmEUFwaY
+#EXTINF:-1 tvg-id="" tvg-name="TTV NEWS" tvg-logo="https://cdn.teleon.tv/logo/ttv-news-tw.png" group-title="TAIWAN",TTV NEWS
+plugin://plugin.video.youtube/play/?video_id=xL0ch83RAK8
+#EXTINF:-1 tvg-id="TVBS" tvg-name="" tvg-logo="https://i.imgur.com/YHMXeqI.jpg" group-title="TAIWAN",TVBS
+plugin://plugin.video.youtube/play/?video_id=XxJKnDLYZz4

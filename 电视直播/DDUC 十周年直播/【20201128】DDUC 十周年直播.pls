@@ -1,0 +1,22 @@
+[playlist]
+NumberOfEntries=10
+File1=https://doc.shangzhibo.tv/resources/100016/10203504/84e6def612b240f5a5ecf051949dbfaa.m3u8
+Title1=IT Big Coffee Said
+File2=https://video.isc.360.com/iscvideo_live/vod-iscvideo-vod-101179-beijing/isc_dduc_1128_HD_1606553234.m3u8
+Title2=ISC Live
+File3=https://vlive-bj.csdnimg.cn/8b20d392ba3c435aa12c1fcf0ee0969b/5c98d72e7b5144728eea65edc37b96fa.m3u8
+Title3=CSDN Live Broadcast-Test 
+File4=https://vlive-bj.csdnimg.cn/8b20d392ba3c435aa12c1fcf0ee0969b/video/5c98d72e7b5144728eea65edc37b96fa-ab0f19c55209c644285a783e3d387e36-video-4k.m3u8
+Title4=CSDN Live Broadcast-Test 4K
+File5=https://vlive-bj.csdnimg.cn/8eb3f86664084fa7a6b07316eebd13fb/efc3ae30f7f743ef910333a986cae083.m3u8
+Title5=CSDN Live Broadcast-Morning
+File6=https://vlive-bj.csdnimg.cn/8eb3f86664084fa7a6b07316eebd13fb/video/efc3ae30f7f743ef910333a986cae083-ab0f19c55209c644285a783e3d387e36-video-4k.m3u8
+Title6=CSDN Live Broadcast-Morning 4K
+File7=https://vlive-bj.csdnimg.cn/6ac8ffc9bb7c48d6b4218020590b8a65/eeffc377b5824e67ba5bf65c949b7a15.m3u8
+Title7=CSDN Live Broadcast-Afternoon
+File8=https://vlive-bj.csdnimg.cn/6ac8ffc9bb7c48d6b4218020590b8a65/video/eeffc377b5824e67ba5bf65c949b7a15-ab0f19c55209c644285a783e3d387e36-video-4k.m3u8
+Title8=CSDN Live Broadcast-Afternoon 4K
+File9=https://vlive-bj.csdnimg.cn/6ac8ffc9bb7c48d6b4218020590b8a65/video/eeffc377b5824e67ba5bf65c949b7a15-5dd5d59d26234da65dec6db5c8b3b4fa-video-sd.m3u8
+Title9=CSDN Live Broadcast-Afternoon SD
+File10=https://vlive-bj.csdnimg.cn/6ac8ffc9bb7c48d6b4218020590b8a65/video/eeffc377b5824e67ba5bf65c949b7a15-5e5436c1a7a7dd62ae9881ac3e5d51fb-video-hd.m3u8
+Title10=CSDN Live Broadcast-Afternoon HD

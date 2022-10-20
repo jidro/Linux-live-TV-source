@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*** HUNGARY - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/l7pTHPu.png" group-title="HUNGARY",*** HUNGARY - github.com/Free-IPTV
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1Music Hungary" tvg-logo="https://i.imgur.com/6CNlnpY.jpg" group-title="HUNGARY",1Music Hungary
+http://1music.hu/1music.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://i.imgur.com/ovtI4G4.png" group-title="HUNGARY",ATV
+http://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Balaton TV" tvg-logo="https://i.imgur.com/ip8L5Vt.jpg" group-title="HUNGARY",Balaton TV
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bonum TV" tvg-logo="https://i.imgur.com/NkCCRzI.png" group-title="HUNGARY",Bonum TV
+https://stream.y5.hu/stream/stream_bonum/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Budakalasz" tvg-logo="https://i.imgur.com/MGkvVQg.png" group-title="HUNGARY",Budakalasz
+https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H!T Music HU" tvg-logo="https://i.imgur.com/rw2C3DY.jpg" group-title="HUNGARY",H!T Music HU
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Halom TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/F2bSjDY.png" group-title="HUNGARY",Halom TV - github.com/Free-IPTV
+http://stream.battanet.hu:8080/hls/livestream1/1_2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hatoscsatorna" tvg-logo="https://i.imgur.com/vraAfd7.png" group-title="HUNGARY",Hatoscsatorna
+rtmp://lpmedia.hu:1935/Hatoscsatorna/livestream
+#EXTINF:-1 tvg-id="" tvg-name="Komlos TV" tvg-logo="https://i.imgur.com/MDYb5yz.png" group-title="HUNGARY",Komlos TV
+https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC +" tvg-logo="https://i.imgur.com/yKJmkNk.png" group-title="HUNGARY",MUSIC +
+http://s02.diazol.hu:10192/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ozdi Varosi TV" tvg-logo="https://i.imgur.com/5cOpdRp.jpg" group-title="HUNGARY",Ozdi Varosi TV
+https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pannon RTV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/iD5tCjX.png" group-title="HUNGARY",Pannon RTV - github.com/Free-IPTV
+https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV7 Bekescsaba" tvg-logo="https://i.imgur.com/G9Ib5K3.png" group-title="HUNGARY",TV7 Bekescsaba
+https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VTV Füzesabony" tvg-logo="https://i.imgur.com/7ZPYJJ0.jpg" group-title="HUNGARY",VTV Füzesabony
+https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8

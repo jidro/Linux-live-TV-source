@@ -1,0 +1,3 @@
+#!/bin/sh
+
+smplayer http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8

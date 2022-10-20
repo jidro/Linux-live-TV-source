@@ -1,0 +1,3 @@
+#!/bin/sh
+
+smplayer http://sjlivecdn9.cbg.cn/999999999999/app_2/_definst_/ls_12.stream/chunklist.m3u8

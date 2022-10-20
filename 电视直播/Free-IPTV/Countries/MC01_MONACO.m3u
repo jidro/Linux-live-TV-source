@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*** MONACO - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/BvK2VEz.png" group-title="MONACO",*** MONACO - github.com/Free-IPTV
+https://
+#EXTINF:-1 tvg-id="" tvg-name="Monaco Info" tvg-logo="https://i.imgur.com/h3Polon.jpg" group-title="MONACO",Monaco Info
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
