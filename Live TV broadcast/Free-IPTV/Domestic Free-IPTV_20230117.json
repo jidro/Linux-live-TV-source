@@ -1,0 +1,6493 @@
+[
+  {
+    "id": 1,
+    "name": "Aniu TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "1_0",
+        "name": "Aniu TV",
+        "url": "http://cclive.aniu.tv/live/anzb.m3u8",
+        "isActive": true,
+        "channelID": 1,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 2,
+    "name": "Sanming Public Channel 1",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "2_0",
+        "name": "Sanming Public Channel 1",
+        "url": "http://stream.smntv.cn/smtv1/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 2,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 3,
+    "name": "Sanming Public Channel 2",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "3_0",
+        "name": "Sanming Public Channel 2",
+        "url": "http://stream.smntv.cn/smtv2/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 3,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 4,
+    "name": "CCTV1",
+    "isActive": true,
+    "group": "央视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "4_0",
+        "name": "CCTV-1高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8",
+        "isActive": true,
+        "channelID": 4,
+        "status": "可用"
+      },
+      {
+        "id": "4_1",
+        "name": "CCTV-1高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8",
+        "isActive": true,
+        "channelID": 4,
+        "status": "可用"
+      },
+      {
+        "id": "4_2",
+        "name": "CCTV-1",
+        "url": "http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8",
+        "isActive": true,
+        "channelID": 4,
+        "status": "可用"
+      },
+      {
+        "id": "4_3",
+        "name": "CCTV-1",
+        "url": "http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8",
+        "isActive": true,
+        "channelID": 4,
+        "status": "可用"
+      },
+      {
+        "id": "4_4",
+        "name": "CCTV-1",
+        "url": "http://39.135.138.58:18890/PLTV/88888888/224/3221225630/index.m3u8",
+        "isActive": true,
+        "channelID": 4,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 5
+  },
+  {
+    "id": 5,
+    "name": "CCTV2",
+    "isActive": true,
+    "group": "央视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "5_0",
+        "name": "CCTV-2高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8",
+        "isActive": true,
+        "channelID": 5,
+        "status": "可用"
+      },
+      {
+        "id": "5_1",
+        "name": "CCTV-2高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8",
+        "isActive": true,
+        "channelID": 5,
+        "status": "可用"
+      },
+      {
+        "id": "5_2",
+        "name": "CCTV-2",
+        "url": "http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8",
+        "isActive": true,
+        "channelID": 5,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 3
+  },
+  {
+    "id": 6,
+    "name": "CCTV3",
+    "isActive": true,
+    "group": "央视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "6_0",
+        "name": "CCTV-3高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8",
+        "isActive": true,
+        "channelID": 6,
+        "status": "可用"
+      },
+      {
+        "id": "6_1",
+        "name": "CCTV-3高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8",
+        "isActive": true,
+        "channelID": 6,
+        "status": "可用"
+      },
+      {
+        "id": "6_2",
+        "name": "CCTV-3",
+        "url": "http://39.134.67.226/PLTV/88888888/224/3221225799/index.m3u8",
+        "isActive": true,
+        "channelID": 6,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 3
+  },
+  {
+    "id": 7,
+    "name": "CCTV4",
+    "isActive": true,
+    "group": "央视",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "7_0",
+        "name": "CCTV-4高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8",
+        "isActive": true,
+        "channelID": 7,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 8,
+    "name": "CCTV5",
+    "isActive": true,
+    "group": "央视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "8_0",
+        "name": "CCTV-5高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8",
+        "isActive": true,
+        "channelID": 8,
+        "status": "可用"
+      },
+      {
+        "id": "8_1",
+        "name": "CCTV-5高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8",
+        "isActive": true,
+        "channelID": 8,
+        "status": "可用"
+      },
+      {
+        "id": "8_2",
+        "name": "CCTV-5+高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8",
+        "isActive": true,
+        "channelID": 8,
+        "status": "可用"
+      },
+      {
+        "id": "8_3",
+        "name": "CCTV-5+高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225706/index.m3u8",
+        "isActive": true,
+        "channelID": 8,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 4
+  },
+  {
+    "id": 9,
+    "name": "CCTV6",
+    "isActive": true,
+    "group": "央视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "9_0",
+        "name": "CCTV-6高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8",
+        "isActive": true,
+        "channelID": 9,
+        "status": "可用"
+      },
+      {
+        "id": "9_1",
+        "name": "CCTV-6高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8",
+        "isActive": true,
+        "channelID": 9,
+        "status": "可用"
+      },
+      {
+        "id": "9_2",
+        "name": "CCTV-6",
+        "url": "http://39.134.65.181/PLTV/88888888/224/3221225814/1.m3u8",
+        "isActive": true,
+        "channelID": 9,
+        "status": "可用"
+      },
+      {
+        "id": "9_3",
+        "name": "CCTV-6",
+        "url": "http://39.134.65.173/PLTV/88888888/224/3221225814/1.m3u8",
+        "isActive": true,
+        "channelID": 9,
+        "status": "可用"
+      },
+      {
+        "id": "9_4",
+        "name": "CCTV-6",
+        "url": "http://39.134.65.183/PLTV/88888888/224/3221225814/1.m3u8",
+        "isActive": true,
+        "channelID": 9,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 5
+  },
+  {
+    "id": 10,
+    "name": "CCTV7",
+    "isActive": true,
+    "group": "央视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "10_0",
+        "name": "CCTV-7高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8",
+        "isActive": true,
+        "channelID": 10,
+        "status": "可用"
+      },
+      {
+        "id": "10_1",
+        "name": "CCTV-7高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225644/index.m3u8",
+        "isActive": true,
+        "channelID": 10,
+        "status": "可用"
+      },
+      {
+        "id": "10_2",
+        "name": "CCTV-7",
+        "url": "http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8",
+        "isActive": true,
+        "channelID": 10,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 3
+  },
+  {
+    "id": 11,
+    "name": "CCTV8",
+    "isActive": true,
+    "group": "央视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "11_0",
+        "name": "CCTV-8高清",
+        "url": "http://183.207.248.35:80/PLTV/3/224/3221227205/index.m3u8?servicetype=1&amp;icpid=88888888&amp;from=1&amp;hms_devid=3464",
+        "isActive": true,
+        "channelID": 11,
+        "status": "可用"
+      },
+      {
+        "id": "11_1",
+        "name": "CCTV-8高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8",
+        "isActive": true,
+        "channelID": 11,
+        "status": "可用"
+      },
+      {
+        "id": "11_2",
+        "name": "CCTV-8高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8",
+        "isActive": true,
+        "channelID": 11,
+        "status": "可用"
+      },
+      {
+        "id": "11_3",
+        "name": "CCTV-8",
+        "url": "http://39.134.65.173/PLTV/88888888/224/3221225795/1.m3u8",
+        "isActive": true,
+        "channelID": 11,
+        "status": "可用"
+      },
+      {
+        "id": "11_4",
+        "name": "CCTV-8",
+        "url": "http://39.134.65.183/PLTV/88888888/224/3221225795/1.m3u8",
+        "isActive": true,
+        "channelID": 11,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 5
+  },
+  {
+    "id": 12,
+    "name": "CCTV9",
+    "isActive": true,
+    "group": "央视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "12_0",
+        "name": "CCTV-9高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8",
+        "isActive": true,
+        "channelID": 12,
+        "status": "可用"
+      },
+      {
+        "id": "12_1",
+        "name": "CCTV-9高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225646/index.m3u8",
+        "isActive": true,
+        "channelID": 12,
+        "status": "可用"
+      },
+      {
+        "id": "12_2",
+        "name": "CCTV-9",
+        "url": "http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8",
+        "isActive": true,
+        "channelID": 12,
+        "status": "可用"
+      },
+      {
+        "id": "12_3",
+        "name": "CCTV-9",
+        "url": "http://39.135.138.58:18890/PLTV/88888888/224/3221225626/index.m3u8",
+        "isActive": true,
+        "channelID": 12,
+        "status": "可用"
+      },
+      {
+        "id": "12_4",
+        "name": "CCTV-9",
+        "url": "http://39.135.138.58:18890/PLTV/88888888/224/3221225646/index.m3u8",
+        "isActive": true,
+        "channelID": 12,
+        "status": "可用"
+      },
+      {
+        "id": "12_5",
+        "name": "CCTV-9",
+        "url": "http://39.134.65.179/PLTV/88888888/224/3221225676/1.m3u8",
+        "isActive": true,
+        "channelID": 12,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 6
+  },
+  {
+    "id": 13,
+    "name": "CCTV10",
+    "isActive": true,
+    "group": "央视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "13_0",
+        "name": "CCTV-10高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8",
+        "isActive": true,
+        "channelID": 13,
+        "status": "可用"
+      },
+      {
+        "id": "13_1",
+        "name": "CCTV-10高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225636/index.m3u8",
+        "isActive": true,
+        "channelID": 13,
+        "status": "可用"
+      },
+      {
+        "id": "13_2",
+        "name": "CCTV-10",
+        "url": "http://39.134.66.110/PLTV/88888888/224/3221225677/index.m3u8",
+        "isActive": true,
+        "channelID": 13,
+        "status": "可用"
+      },
+      {
+        "id": "13_3",
+        "name": "CCTV-10",
+        "url": "http://39.134.65.164/PLTV/88888888/224/3221225677/1.m3u8",
+        "isActive": true,
+        "channelID": 13,
+        "status": "可用"
+      },
+      {
+        "id": "13_4",
+        "name": "CCTV-10",
+        "url": "http://39.134.65.181/PLTV/88888888/224/3221225677/1.m3u8",
+        "isActive": true,
+        "channelID": 13,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 5
+  },
+  {
+    "id": 14,
+    "name": "CCTV11",
+    "isActive": true,
+    "group": "央视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "14_0",
+        "name": "CCTV-11高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8",
+        "isActive": true,
+        "channelID": 14,
+        "status": "可用"
+      },
+      {
+        "id": "14_1",
+        "name": "CCTV-11",
+        "url": "http://39.134.65.179/PLTV/88888888/224/3221225517/1.m3u8",
+        "isActive": true,
+        "channelID": 14,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 15,
+    "name": "CCTV12",
+    "isActive": true,
+    "group": "央视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "15_0",
+        "name": "CCTV-12高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8",
+        "isActive": true,
+        "channelID": 15,
+        "status": "可用"
+      },
+      {
+        "id": "15_1",
+        "name": "CCTV-12高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225637/index.m3u8",
+        "isActive": true,
+        "channelID": 15,
+        "status": "可用"
+      },
+      {
+        "id": "15_2",
+        "name": "CCTV-12",
+        "url": "http://39.134.65.179/PLTV/88888888/224/3221225669/1.m3u8",
+        "isActive": true,
+        "channelID": 15,
+        "status": "可用"
+      },
+      {
+        "id": "15_3",
+        "name": "CCTV-12",
+        "url": "http://39.134.65.164/PLTV/88888888/224/3221225669/1.m3u8",
+        "isActive": true,
+        "channelID": 15,
+        "status": "可用"
+      },
+      {
+        "id": "15_4",
+        "name": "CCTV-12",
+        "url": "http://39.134.65.181/PLTV/88888888/224/3221225669/1.m3u8",
+        "isActive": true,
+        "channelID": 15,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 5
+  },
+  {
+    "id": 16,
+    "name": "CCTV13",
+    "isActive": true,
+    "group": "央视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "16_0",
+        "name": "CCTV-13高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8",
+        "isActive": true,
+        "channelID": 16,
+        "status": "可用"
+      },
+      {
+        "id": "16_2",
+        "name": "CCTV-13",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8",
+        "isActive": true,
+        "channelID": 16,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 17,
+    "name": "CCTV14",
+    "isActive": true,
+    "group": "央视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "17_0",
+        "name": "CCTV-14高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8",
+        "isActive": true,
+        "channelID": 17,
+        "status": "可用"
+      },
+      {
+        "id": "17_1",
+        "name": "CCTV-14高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225640/index.m3u8",
+        "isActive": true,
+        "channelID": 17,
+        "status": "可用"
+      },
+      {
+        "id": "17_2",
+        "name": "CCTV-14",
+        "url": "http://39.135.138.58:18890/PLTV/88888888/224/3221225640/index.m3u8",
+        "isActive": true,
+        "channelID": 17,
+        "status": "可用"
+      },
+      {
+        "id": "17_3",
+        "name": "CCTV-14",
+        "url": "http://111.40.196.9/PLTV/88888888/224/3221225573/index.m3u8",
+        "isActive": true,
+        "channelID": 17,
+        "status": "可用"
+      },
+      {
+        "id": "17_4",
+        "name": "CCTV-14",
+        "url": "http://39.134.65.179/PLTV/88888888/224/3221225674/1.m3u8",
+        "isActive": true,
+        "channelID": 17,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 5
+  },
+  {
+    "id": 18,
+    "name": "CCTV15",
+    "isActive": true,
+    "group": "央视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "18_0",
+        "name": "CCTV-15高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8",
+        "isActive": true,
+        "channelID": 18,
+        "status": "可用"
+      },
+      {
+        "id": "18_1",
+        "name": "CCTV-15",
+        "url": "http://39.134.65.181/PLTV/88888888/224/3221225513/1.m3u8",
+        "isActive": true,
+        "channelID": 18,
+        "status": "可用"
+      },
+      {
+        "id": "18_2",
+        "name": "CCTV-15",
+        "url": "http://39.134.65.173/PLTV/88888888/224/3221225513/1.m3u8",
+        "isActive": true,
+        "channelID": 18,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 3
+  },
+  {
+    "id": 19,
+    "name": "CCTV17",
+    "isActive": true,
+    "group": "央视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "19_0",
+        "name": "CCTV-17高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8",
+        "isActive": true,
+        "channelID": 19,
+        "status": "可用"
+      },
+      {
+        "id": "19_1",
+        "name": "CCTV-17",
+        "url": "http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8",
+        "isActive": true,
+        "channelID": 19,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 20,
+    "name": "北京卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "20_0",
+        "name": "北京卫视高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225674/index.m3u8",
+        "isActive": true,
+        "channelID": 20,
+        "status": "可用"
+      },
+      {
+        "id": "20_1",
+        "name": "北京卫视高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225673/index.m3u8",
+        "isActive": true,
+        "channelID": 20,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 21,
+    "name": "北京纪实",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "21_0",
+        "name": "北京纪实高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225675/index.m3u8",
+        "isActive": true,
+        "channelID": 21,
+        "status": "可用"
+      },
+      {
+        "id": "21_1",
+        "name": "北京纪实高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225676/index.m3u8",
+        "isActive": true,
+        "channelID": 21,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 22,
+    "name": "湖南卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "22_0",
+        "name": "湖南卫视高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8",
+        "isActive": true,
+        "channelID": 22,
+        "status": "可用"
+      },
+      {
+        "id": "22_1",
+        "name": "湖南卫视高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225704/index.m3u8",
+        "isActive": true,
+        "channelID": 22,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 23,
+    "name": "湖北卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "23_0",
+        "name": "湖北卫视高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8",
+        "isActive": true,
+        "channelID": 23,
+        "status": "可用"
+      },
+      {
+        "id": "23_1",
+        "name": "湖北卫视",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8?fmt=ts2hls",
+        "isActive": true,
+        "channelID": 23,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 24,
+    "name": "东方卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "24_0",
+        "name": "东方卫视高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8",
+        "isActive": true,
+        "channelID": 24,
+        "status": "可用"
+      },
+      {
+        "id": "24_1",
+        "name": "东方卫视高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225658/index.m3u8",
+        "isActive": true,
+        "channelID": 24,
+        "status": "可用"
+      },
+      {
+        "id": "24_2",
+        "name": "东方卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8?fmt=ts2hls",
+        "isActive": true,
+        "channelID": 24,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 3
+  },
+  {
+    "id": 25,
+    "name": "江苏卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "25_0",
+        "name": "江苏卫视高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225743/index.m3u8",
+        "isActive": true,
+        "channelID": 25,
+        "status": "可用"
+      },
+      {
+        "id": "25_1",
+        "name": "江苏卫视高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225702/index.m3u8",
+        "isActive": true,
+        "channelID": 25,
+        "status": "可用"
+      },
+      {
+        "id": "25_2",
+        "name": "江苏卫视高清",
+        "url": "http://117.169.120.140:8080/live/hdjiangsustv/.m3u8",
+        "isActive": true,
+        "channelID": 25,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 3
+  },
+  {
+    "id": 26,
+    "name": "浙江卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "26_0",
+        "name": "浙江卫视高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225703/index.m3u8",
+        "isActive": true,
+        "channelID": 26,
+        "status": "可用"
+      },
+      {
+        "id": "26_1",
+        "name": "浙江卫视高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8",
+        "isActive": true,
+        "channelID": 26,
+        "status": "可用"
+      },
+      {
+        "id": "26_2",
+        "name": "浙江卫视",
+        "url": "http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8",
+        "isActive": true,
+        "channelID": 26,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 3
+  },
+  {
+    "id": 27,
+    "name": "上海纪实",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "27_0",
+        "name": "上海纪实高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225654/index.m3u8",
+        "isActive": true,
+        "channelID": 27,
+        "status": "可用"
+      },
+      {
+        "id": "27_1",
+        "name": "上海纪实高清8M",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8",
+        "isActive": true,
+        "channelID": 27,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 28,
+    "name": "深圳卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "28_0",
+        "name": "深圳卫视高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225741/index.m3u8",
+        "isActive": true,
+        "channelID": 28,
+        "status": "可用"
+      },
+      {
+        "id": "28_1",
+        "name": "深圳卫视高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225700/index.m3u8",
+        "isActive": true,
+        "channelID": 28,
+        "status": "可用"
+      },
+      {
+        "id": "28_2",
+        "name": "深圳卫视高清",
+        "url": "http://117.169.120.140:8080/live/hdshenzhenstv/.m3u8",
+        "isActive": true,
+        "channelID": 28,
+        "status": "可用"
+      },
+      {
+        "id": "28_3",
+        "name": "深圳卫视",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225741/index.m3u8?fmt=ts2hls",
+        "isActive": true,
+        "channelID": 28,
+        "status": "可用"
+      },
+      {
+        "id": "28_4",
+        "name": "深圳卫视",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225700/index.m3u8?fmt=ts2hls",
+        "isActive": true,
+        "channelID": 28,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 5
+  },
+  {
+    "id": 29,
+    "name": "广东卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "29_0",
+        "name": "广东卫视高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225701/index.m3u8",
+        "isActive": true,
+        "channelID": 29,
+        "status": "可用"
+      },
+      {
+        "id": "29_1",
+        "name": "广东卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8",
+        "isActive": true,
+        "channelID": 29,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 30,
+    "name": "安徽卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "30_0",
+        "name": "安徽卫视高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8",
+        "isActive": true,
+        "channelID": 30,
+        "status": "可用"
+      },
+      {
+        "id": "30_1",
+        "name": "安徽卫视高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225737/index.m3u8",
+        "isActive": true,
+        "channelID": 30,
+        "status": "可用"
+      },
+      {
+        "id": "30_2",
+        "name": "安徽卫视",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8?fmt=ts2hls",
+        "isActive": true,
+        "channelID": 30,
+        "status": "可用"
+      },
+      {
+        "id": "30_3",
+        "name": "安徽卫视",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225737/index.m3u8?fmt=ts2hls",
+        "isActive": true,
+        "channelID": 30,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 4
+  },
+  {
+    "id": 31,
+    "name": "河北卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "31_0",
+        "name": "河北卫视高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225732/index.m3u8",
+        "isActive": true,
+        "channelID": 31,
+        "status": "可用"
+      },
+      {
+        "id": "31_1",
+        "name": "河北卫视高清",
+        "url": "http://live2.plus.hebtv.com/hbwsx/hd/live.m3u8",
+        "isActive": true,
+        "channelID": 31,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 32,
+    "name": "东南卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "32_0",
+        "name": "东南卫视高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8",
+        "isActive": true,
+        "channelID": 32,
+        "status": "可用"
+      },
+      {
+        "id": "32_1",
+        "name": "东南卫视高清",
+        "url": "http://117.169.120.140:8080/live/dongnanstv/.m3u8",
+        "isActive": true,
+        "channelID": 32,
+        "status": "可用"
+      },
+      {
+        "id": "32_2",
+        "name": "东南卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8",
+        "isActive": true,
+        "channelID": 32,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 3
+  },
+  {
+    "id": 33,
+    "name": "四川卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "33_0",
+        "name": "四川卫视高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225733/index.m3u8",
+        "isActive": true,
+        "channelID": 33,
+        "status": "可用"
+      },
+      {
+        "id": "33_1",
+        "name": "四川卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8",
+        "isActive": true,
+        "channelID": 33,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 34,
+    "name": "江西卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "34_0",
+        "name": "江西卫视高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225746/index.m3u8",
+        "isActive": true,
+        "channelID": 34,
+        "status": "可用"
+      },
+      {
+        "id": "34_1",
+        "name": "江西卫视高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225705/index.m3u8",
+        "isActive": true,
+        "channelID": 34,
+        "status": "可用"
+      },
+      {
+        "id": "34_2",
+        "name": "江西卫视高清",
+        "url": "http://117.169.120.140:8080/live/jiangxistv/.m3u8",
+        "isActive": true,
+        "channelID": 34,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 3
+  },
+  {
+    "id": 35,
+    "name": "重庆卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "35_0",
+        "name": "重庆卫视高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225734/index.m3u8",
+        "isActive": true,
+        "channelID": 35,
+        "status": "可用"
+      },
+      {
+        "id": "35_1",
+        "name": "重庆卫视高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225692/index.m3u8",
+        "isActive": true,
+        "channelID": 35,
+        "status": "可用"
+      },
+      {
+        "id": "35_2",
+        "name": "重庆卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8",
+        "isActive": true,
+        "channelID": 35,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 3
+  },
+  {
+    "id": 36,
+    "name": "山东卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "36_0",
+        "name": "山东卫视高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225738/index.m3u8",
+        "isActive": true,
+        "channelID": 36,
+        "status": "可用"
+      },
+      {
+        "id": "36_1",
+        "name": "山东卫视高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8",
+        "isActive": true,
+        "channelID": 36,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 37,
+    "name": "天津卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "37_0",
+        "name": "天津卫视高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225698/index.m3u8",
+        "isActive": true,
+        "channelID": 37,
+        "status": "可用"
+      },
+      {
+        "id": "37_1",
+        "name": "天津卫视高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225739/index.m3u8",
+        "isActive": true,
+        "channelID": 37,
+        "status": "可用"
+      },
+      {
+        "id": "37_2",
+        "name": "天津卫视高清",
+        "url": "http://117.169.120.140:8080/live/hdtianjinstv/.m3u8",
+        "isActive": true,
+        "channelID": 37,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 3
+  },
+  {
+    "id": 38,
+    "name": "辽宁卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "38_0",
+        "name": "辽宁卫视高清",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225735/index.m3u8",
+        "isActive": true,
+        "channelID": 38,
+        "status": "可用"
+      },
+      {
+        "id": "38_1",
+        "name": "辽宁卫视高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8",
+        "isActive": true,
+        "channelID": 38,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 39,
+    "name": "黑龙江卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "39_0",
+        "name": "黑龙江卫视高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225736/index.m3u8",
+        "isActive": true,
+        "channelID": 39,
+        "status": "可用"
+      },
+      {
+        "id": "39_1",
+        "name": "黑龙江卫视高清",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225690/index.m3u8",
+        "isActive": true,
+        "channelID": 39,
+        "status": "可用"
+      },
+      {
+        "id": "39_2",
+        "name": "黑龙江卫视",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225736/index.m3u8?fmt=ts2hls",
+        "isActive": true,
+        "channelID": 39,
+        "status": "可用"
+      },
+      {
+        "id": "39_3",
+        "name": "黑龙江卫视",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225690/index.m3u8?fmt=ts2hls",
+        "isActive": true,
+        "channelID": 39,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 4
+  },
+  {
+    "id": 40,
+    "name": "内蒙古卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "40_0",
+        "name": "内蒙古卫视高清",
+        "url": "http://117.169.120.140:8080/live/neimenggustv/.m3u8",
+        "isActive": true,
+        "channelID": 40,
+        "status": "可用"
+      },
+      {
+        "id": "40_1",
+        "name": "内蒙古卫视",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225667/index.m3u8",
+        "isActive": true,
+        "channelID": 40,
+        "status": "可用"
+      },
+      {
+        "id": "40_2",
+        "name": "内蒙古卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8",
+        "isActive": true,
+        "channelID": 40,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 3
+  },
+  {
+    "id": 41,
+    "name": "青海卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "41_0",
+        "name": "青海卫视",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225727/index.m3u8",
+        "isActive": true,
+        "channelID": 41,
+        "status": "可用"
+      },
+      {
+        "id": "41_1",
+        "name": "青海卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8",
+        "isActive": true,
+        "channelID": 41,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 42,
+    "name": "贵州卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "42_0",
+        "name": "贵州卫视",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225728/index.m3u8",
+        "isActive": true,
+        "channelID": 42,
+        "status": "可用"
+      },
+      {
+        "id": "42_1",
+        "name": "贵州卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8",
+        "isActive": true,
+        "channelID": 42,
+        "status": "可用"
+      },
+      {
+        "id": "42_2",
+        "name": "贵州卫视",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225728/index.m3u8?fmt=ts2hls",
+        "isActive": true,
+        "channelID": 42,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 3
+  },
+  {
+    "id": 43,
+    "name": "宁夏卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "43_0",
+        "name": "宁夏卫视",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225726/index.m3u8",
+        "isActive": true,
+        "channelID": 43,
+        "status": "可用"
+      },
+      {
+        "id": "43_1",
+        "name": "宁夏卫视",
+        "url": "http://117.169.120.140:8080/live/ningxiastv/.m3u8",
+        "isActive": true,
+        "channelID": 43,
+        "status": "可用"
+      },
+      {
+        "id": "43_2",
+        "name": "宁夏卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8",
+        "isActive": true,
+        "channelID": 43,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 3
+  },
+  {
+    "id": 44,
+    "name": "山西卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "44_0",
+        "name": "山西卫视",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225730/index.m3u8",
+        "isActive": true,
+        "channelID": 44,
+        "status": "可用"
+      },
+      {
+        "id": "44_1",
+        "name": "山西卫视",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225730/index.m3u8?fmt=ts2hlsts",
+        "isActive": true,
+        "channelID": 44,
+        "status": "可用"
+      },
+      {
+        "id": "44_2",
+        "name": "山西卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8?fmt=ts2hlsts",
+        "isActive": true,
+        "channelID": 44,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 3
+  },
+  {
+    "id": 45,
+    "name": "云南卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "45_0",
+        "name": "云南卫视",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225664/index.m3u8",
+        "isActive": true,
+        "channelID": 45,
+        "status": "可用"
+      },
+      {
+        "id": "45_1",
+        "name": "云南卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8",
+        "isActive": true,
+        "channelID": 45,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 46,
+    "name": "吉林卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "46_0",
+        "name": "吉林卫视",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8",
+        "isActive": true,
+        "channelID": 46,
+        "status": "可用"
+      },
+      {
+        "id": "46_1",
+        "name": "吉林卫视",
+        "url": "http://stream4.jlntv.cn/test2/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 46,
+        "status": "可用"
+      },
+      {
+        "id": "46_2",
+        "name": "吉林卫视高清",
+        "url": "http://117.169.120.140:8080/live/jilinstv/.m3u8",
+        "isActive": true,
+        "channelID": 46,
+        "status": "可用"
+      },
+      {
+        "id": "46_3",
+        "name": "吉林卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8",
+        "isActive": true,
+        "channelID": 46,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 4
+  },
+  {
+    "id": 47,
+    "name": "旅游卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "47_0",
+        "name": "旅游卫视",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225722/index.m3u8",
+        "isActive": true,
+        "channelID": 47,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 48,
+    "name": "新疆卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "48_0",
+        "name": "新疆卫视",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225725/index.m3u8",
+        "isActive": true,
+        "channelID": 48,
+        "status": "可用"
+      },
+      {
+        "id": "48_1",
+        "name": "新疆卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8",
+        "isActive": true,
+        "channelID": 48,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 49,
+    "name": "西藏卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "49_0",
+        "name": "西藏卫视",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225723/index.m3u8",
+        "isActive": true,
+        "channelID": 49,
+        "status": "可用"
+      },
+      {
+        "id": "49_1",
+        "name": "西藏卫视",
+        "url": "http://117.169.120.140:8080/live/xizangstv/.m3u8",
+        "isActive": true,
+        "channelID": 49,
+        "status": "可用"
+      },
+      {
+        "id": "49_2",
+        "name": "西藏卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8",
+        "isActive": true,
+        "channelID": 49,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 3
+  },
+  {
+    "id": 50,
+    "name": "纯享",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "50_0",
+        "name": "纯享4K",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8",
+        "isActive": true,
+        "channelID": 50,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 51,
+    "name": "CNC中文",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "51_0",
+        "name": "CNC中文",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8",
+        "isActive": true,
+        "channelID": 51,
+        "status": "可用"
+      },
+      {
+        "id": "51_1",
+        "name": "CNC中文",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8",
+        "isActive": true,
+        "channelID": 51,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 52,
+    "name": "CNC英文",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "52_0",
+        "name": "CNC英文",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8",
+        "isActive": true,
+        "channelID": 52,
+        "status": "可用"
+      },
+      {
+        "id": "52_1",
+        "name": "CNC英文",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225693/index.m3u8",
+        "isActive": true,
+        "channelID": 52,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 53,
+    "name": "超级体育4M",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "53_0",
+        "name": "超级体育4M",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8",
+        "isActive": true,
+        "channelID": 53,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 54,
+    "name": "超级电影4M",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "54_0",
+        "name": "超级电影4M",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8",
+        "isActive": true,
+        "channelID": 54,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 55,
+    "name": "超级电视剧4M",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "55_0",
+        "name": "超级电视剧4M",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225625/index.m3u8",
+        "isActive": true,
+        "channelID": 55,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 56,
+    "name": "超级综艺4M",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "56_0",
+        "name": "超级综艺4M",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225620/index.m3u8",
+        "isActive": true,
+        "channelID": 56,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 57,
+    "name": "超级体育",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "57_0",
+        "name": "超级体育",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225767/index.m3u8",
+        "isActive": true,
+        "channelID": 57,
+        "status": "可用"
+      },
+      {
+        "id": "57_1",
+        "name": "超级体育",
+        "url": "http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8",
+        "isActive": true,
+        "channelID": 57,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 58,
+    "name": "超级电影",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "58_0",
+        "name": "超级电影",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225766/index.m3u8",
+        "isActive": true,
+        "channelID": 58,
+        "status": "可用"
+      },
+      {
+        "id": "58_1",
+        "name": "超级电影",
+        "url": "http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8",
+        "isActive": true,
+        "channelID": 58,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 59,
+    "name": "超级电视剧",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "59_0",
+        "name": "超级电视剧",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8",
+        "isActive": true,
+        "channelID": 59,
+        "status": "可用"
+      },
+      {
+        "id": "59_1",
+        "name": "超级电视剧",
+        "url": "http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8",
+        "isActive": true,
+        "channelID": 59,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 60,
+    "name": "超级综艺",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "60_0",
+        "name": "超级综艺",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225768/index.m3u8",
+        "isActive": true,
+        "channelID": 60,
+        "status": "可用"
+      },
+      {
+        "id": "60_1",
+        "name": "超级综艺",
+        "url": "http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8",
+        "isActive": true,
+        "channelID": 60,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 61,
+    "name": "NewTV电竞",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "61_0",
+        "name": "NewTV电竞",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225653/index.m3u8",
+        "isActive": true,
+        "channelID": 61,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 62,
+    "name": "精品体育",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "62_0",
+        "name": "精品体育",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8",
+        "isActive": true,
+        "channelID": 62,
+        "status": "可用"
+      },
+      {
+        "id": "62_1",
+        "name": "精品体育",
+        "url": "http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8",
+        "isActive": true,
+        "channelID": 62,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 63,
+    "name": "精品大剧",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "63_0",
+        "name": "精品大剧",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225714/index.m3u8",
+        "isActive": true,
+        "channelID": 63,
+        "status": "可用"
+      },
+      {
+        "id": "63_1",
+        "name": "精品大剧",
+        "url": "http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8",
+        "isActive": true,
+        "channelID": 63,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 64,
+    "name": "精品电影",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "64_0",
+        "name": "精品电影",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8",
+        "isActive": true,
+        "channelID": 64,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 65,
+    "name": "精品纪录",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "65_0",
+        "name": "精品纪录",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225710/index.m3u8",
+        "isActive": true,
+        "channelID": 65,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 66,
+    "name": "金牌综艺",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "66_0",
+        "name": "金牌综艺",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225711/index.m3u8",
+        "isActive": true,
+        "channelID": 66,
+        "status": "可用"
+      },
+      {
+        "id": "66_1",
+        "name": "金牌综艺",
+        "url": "http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8",
+        "isActive": true,
+        "channelID": 66,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 67,
+    "name": "金鹰卡通",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "67_0",
+        "name": "金鹰卡通",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225721/index.m3u8",
+        "isActive": true,
+        "channelID": 67,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 68,
+    "name": "卡酷少儿",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "68_0",
+        "name": "卡酷少儿",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225677/index.m3u8",
+        "isActive": true,
+        "channelID": 68,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 69,
+    "name": "古装剧场",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "69_0",
+        "name": "古装剧场",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225678/index.m3u8",
+        "isActive": true,
+        "channelID": 69,
+        "status": "可用"
+      },
+      {
+        "id": "69_1",
+        "name": "古装剧场",
+        "url": "http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8",
+        "isActive": true,
+        "channelID": 69,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 70,
+    "name": "动画王国",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "70_0",
+        "name": "动画王国",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8",
+        "isActive": true,
+        "channelID": 70,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 71,
+    "name": "农业致富",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "71_0",
+        "name": "农业致富",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225670/index.m3u8",
+        "isActive": true,
+        "channelID": 71,
+        "status": "可用"
+      },
+      {
+        "id": "71_1",
+        "name": "农业致富",
+        "url": "http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8",
+        "isActive": true,
+        "channelID": 71,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 72,
+    "name": "军旅剧场",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "72_0",
+        "name": "军旅剧场",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225669/index.m3u8",
+        "isActive": true,
+        "channelID": 72,
+        "status": "可用"
+      },
+      {
+        "id": "72_1",
+        "name": "军旅剧场",
+        "url": "http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8",
+        "isActive": true,
+        "channelID": 72,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 73,
+    "name": "优漫卡通",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "73_0",
+        "name": "优漫卡通",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225665/index.m3u8",
+        "isActive": true,
+        "channelID": 73,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 74,
+    "name": "明星大片",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "74_0",
+        "name": "明星大片",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225716/index.m3u8",
+        "isActive": true,
+        "channelID": 74,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 75,
+    "name": "中国功夫",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "75_0",
+        "name": "中国功夫",
+        "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225660/index.m3u8",
+        "isActive": true,
+        "channelID": 75,
+        "status": "可用"
+      },
+      {
+        "id": "75_1",
+        "name": "中国功夫",
+        "url": "http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8",
+        "isActive": true,
+        "channelID": 75,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 76,
+    "name": "中国教育-1",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "76_0",
+        "name": "中国教育-1",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225661/index.m3u8",
+        "isActive": true,
+        "channelID": 76,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 77,
+    "name": "炫动卡通",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "77_0",
+        "name": "炫动卡通",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225720/index.m3u8",
+        "isActive": true,
+        "channelID": 77,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 78,
+    "name": "炫舞未来",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "78_0",
+        "name": "炫舞未来",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225707/index.m3u8",
+        "isActive": true,
+        "channelID": 78,
+        "status": "可用"
+      },
+      {
+        "id": "78_1",
+        "name": "炫舞未来",
+        "url": "http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8",
+        "isActive": true,
+        "channelID": 78,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 79,
+    "name": "精品记录",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "79_0",
+        "name": "精品记录",
+        "url": "http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8",
+        "isActive": true,
+        "channelID": 79,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 80,
+    "name": "爱情喜剧",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "80_0",
+        "name": "爱情喜剧",
+        "url": "http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8",
+        "isActive": true,
+        "channelID": 80,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 81,
+    "name": "潮妈辣婆",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "81_0",
+        "name": "潮妈辣婆",
+        "url": "http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8",
+        "isActive": true,
+        "channelID": 81,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 82,
+    "name": "家庭剧场",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "82_0",
+        "name": "家庭剧场",
+        "url": "http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8",
+        "isActive": true,
+        "channelID": 82,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 83,
+    "name": "军事评论",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "83_0",
+        "name": "军事评论",
+        "url": "http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8",
+        "isActive": true,
+        "channelID": 83,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 84,
+    "name": "黑莓电竞",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "84_0",
+        "name": "黑莓电竞",
+        "url": "http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8",
+        "isActive": true,
+        "channelID": 84,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 85,
+    "name": "自由搏击",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "85_0",
+        "name": "自由搏击",
+        "url": "http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8",
+        "isActive": true,
+        "channelID": 85,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 86,
+    "name": "健康有约",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "86_0",
+        "name": "健康有约",
+        "url": "http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8",
+        "isActive": true,
+        "channelID": 86,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 87,
+    "name": "北京冬奥纪实",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "87_0",
+        "name": "北京冬奥纪实",
+        "url": "http://39.135.138.58:18890/PLTV/88888910/224/3221225676/index.m3u8",
+        "isActive": true,
+        "channelID": 87,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 88,
+    "name": "咪咕视频·PP体育1",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "88_0",
+        "name": "咪咕视频·PP体育1",
+        "url": "http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8",
+        "isActive": true,
+        "channelID": 88,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 89,
+    "name": "北京东奥",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "89_0",
+        "name": "北京东奥",
+        "url": "http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8",
+        "isActive": true,
+        "channelID": 89,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 90,
+    "name": "徐州TV-4",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "90_0",
+        "name": "徐州TV-4高清",
+        "url": "http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8",
+        "isActive": true,
+        "channelID": 90,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 91,
+    "name": "万州三峡移民",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "91_0",
+        "name": "万州三峡移民",
+        "url": "http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8",
+        "isActive": true,
+        "channelID": 91,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 92,
+    "name": "万州影视",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "92_0",
+        "name": "万州影视",
+        "url": "http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8",
+        "isActive": true,
+        "channelID": 92,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 93,
+    "name": "上海金山电视台",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "93_0",
+        "name": "上海金山电视台",
+        "url": "http://live.mudu.tv/watch/4zbn2f.m3u8",
+        "isActive": true,
+        "channelID": 93,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 94,
+    "name": "上虞1新闻综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "94_0",
+        "name": "上虞1新闻综合",
+        "url": "http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8",
+        "isActive": true,
+        "channelID": 94,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 95,
+    "name": "上虞3新商都",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "95_0",
+        "name": "上虞3新商都",
+        "url": "http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8",
+        "isActive": true,
+        "channelID": 95,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 96,
+    "name": "中国气象",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "96_0",
+        "name": "中国气象",
+        "url": "http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8",
+        "isActive": true,
+        "channelID": 96,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 97,
+    "name": "余姚新闻综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "97_0",
+        "name": "余姚新闻综合",
+        "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8",
+        "isActive": true,
+        "channelID": 97,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 98,
+    "name": "北碚综合频道",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "98_0",
+        "name": "北碚综合频道",
+        "url": "http://222.178.181.121:12034/beibei01.m3u8",
+        "isActive": true,
+        "channelID": 98,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 99,
+    "name": "南京信息",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "99_0",
+        "name": "南京信息",
+        "url": "http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8",
+        "isActive": true,
+        "channelID": 99,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 100,
+    "name": "南京十八",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "100_0",
+        "name": "南京十八",
+        "url": "http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8",
+        "isActive": true,
+        "channelID": 100,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 101,
+    "name": "南京娱乐",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "101_0",
+        "name": "南京娱乐",
+        "url": "http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8",
+        "isActive": true,
+        "channelID": 101,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 102,
+    "name": "南京少儿",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "102_0",
+        "name": "南京少儿",
+        "url": "http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8",
+        "isActive": true,
+        "channelID": 102,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 103,
+    "name": "南京教科",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "103_0",
+        "name": "南京教科",
+        "url": "http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8",
+        "isActive": true,
+        "channelID": 103,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 104,
+    "name": "南京新闻综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "104_0",
+        "name": "南京新闻综合",
+        "url": "http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8",
+        "isActive": true,
+        "channelID": 104,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 105,
+    "name": "南京生活",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "105_0",
+        "name": "南京生活",
+        "url": "http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8",
+        "isActive": true,
+        "channelID": 105,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 106,
+    "name": "吉林乡村",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "106_0",
+        "name": "吉林乡村",
+        "url": "http://stream1.jlntv.cn/xcpd/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 106,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 107,
+    "name": "吉林公共新闻",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "107_0",
+        "name": "吉林公共新闻",
+        "url": "http://stream1.jlntv.cn/ggpd/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 107,
+        "status": "可用"
+      },
+      {
+        "id": "107_1",
+        "name": "吉林公共新闻",
+        "url": "http://stream1.jlntv.cn/ggpd/sd/live.m3u8?_upt=b95938311531576098",
+        "isActive": true,
+        "channelID": 107,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 108,
+    "name": "吉林山村",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "108_0",
+        "name": "吉林山村",
+        "url": "http://stream1.jlntv.cn/xcpd/sd/live.m3u8?_upt=ed8b01841531576074",
+        "isActive": true,
+        "channelID": 108,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 109,
+    "name": "吉林生活",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "109_0",
+        "name": "吉林生活",
+        "url": "http://stream1.jlntv.cn/shpd/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 109,
+        "status": "可用"
+      },
+      {
+        "id": "109_1",
+        "name": "吉林生活",
+        "url": "http://stream1.jlntv.cn/shpd/sd/live.m3u8?_upt=212b47d81531576020",
+        "isActive": true,
+        "channelID": 109,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 110,
+    "name": "吉林都市",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "110_0",
+        "name": "吉林都市",
+        "url": "http://stream1.jlntv.cn/dspd/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 110,
+        "status": "可用"
+      },
+      {
+        "id": "110_1",
+        "name": "吉林都市",
+        "url": "http://stream1.jlntv.cn/dspd/sd/live.m3u8?_upt=4f4899d21531575987",
+        "isActive": true,
+        "channelID": 110,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 111,
+    "name": "唯心電視",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "111_0",
+        "name": "唯心電視",
+        "url": "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8",
+        "isActive": true,
+        "channelID": 111,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 112,
+    "name": "大愛1",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "112_0",
+        "name": "大愛1",
+        "url": "https://pulltv1.wanfudaluye.com/live/tv1.m3u8",
+        "isActive": true,
+        "channelID": 112,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 113,
+    "name": "宿州公共频道",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "113_0",
+        "name": "宿州公共频道",
+        "url": "http://live.ahsz.tv/video/s10001-ggpd/index.m3u8",
+        "isActive": true,
+        "channelID": 113,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 114,
+    "name": "宿州新闻综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "114_0",
+        "name": "宿州新闻综合",
+        "url": "http://live.ahsz.tv/video/s10001-szzh/index.m3u8",
+        "isActive": true,
+        "channelID": 114,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 115,
+    "name": "宿州科教",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "115_0",
+        "name": "宿州科教",
+        "url": "http://live.ahsz.tv/video/s10001-kxjy/index.m3u8",
+        "isActive": true,
+        "channelID": 115,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 116,
+    "name": "嵊州综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "116_0",
+        "name": "嵊州综合",
+        "url": "http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8",
+        "isActive": true,
+        "channelID": 116,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 117,
+    "name": "平乡电视台",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "117_0",
+        "name": "平乡电视台",
+        "url": "http://hbpx.chinashadt.com:2036/live/px1.stream/chunklist.m3u8",
+        "isActive": true,
+        "channelID": 117,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 118,
+    "name": "延边卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "118_0",
+        "name": "延边卫视",
+        "url": "http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8",
+        "isActive": true,
+        "channelID": 118,
+        "status": "可用"
+      },
+      {
+        "id": "118_1",
+        "name": "延边卫视",
+        "url": "http://live.ybtvyun.com/video/s10006-b316b550fd1f/index.m3u8",
+        "isActive": true,
+        "channelID": 118,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 119,
+    "name": "张家口一套",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "119_0",
+        "name": "张家口一套",
+        "url": "http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8",
+        "isActive": true,
+        "channelID": 119,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 120,
+    "name": "张家界1",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "120_0",
+        "name": "张家界1高清",
+        "url": "http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8",
+        "isActive": true,
+        "channelID": 120,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 121,
+    "name": "晋中公共",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "121_0",
+        "name": "晋中公共",
+        "url": "http://jzlive.jztvnews.com:90/live/jzgg.m3u8",
+        "isActive": true,
+        "channelID": 121,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 122,
+    "name": "晋中综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "122_0",
+        "name": "晋中综合",
+        "url": "http://jzlive.jztvnews.com:90/live/jzzh.m3u8",
+        "isActive": true,
+        "channelID": 122,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 123,
+    "name": "武进新闻频道",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "123_0",
+        "name": "武进新闻频道",
+        "url": "http://live.wjyanghu.com/live/CH1.m3u8",
+        "isActive": true,
+        "channelID": 123,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 124,
+    "name": "武进生活频道",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "124_0",
+        "name": "武进生活频道",
+        "url": "http://live.wjyanghu.com/live/CH2.m3u8",
+        "isActive": true,
+        "channelID": 124,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 125,
+    "name": "江津文化旅游",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "125_0",
+        "name": "江津文化旅游",
+        "url": "http://222.179.155.21:1935/ch2.m3u8",
+        "isActive": true,
+        "channelID": 125,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 126,
+    "name": "江津新闻综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "126_0",
+        "name": "江津新闻综合",
+        "url": "http://222.179.155.21:1935/ch1.m3u8",
+        "isActive": true,
+        "channelID": 126,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 127,
+    "name": "江津经济生活",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "127_0",
+        "name": "江津经济生活",
+        "url": "http://222.179.155.21:1935/ch0.m3u8",
+        "isActive": true,
+        "channelID": 127,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 128,
+    "name": "江苏新闻广播",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "128_0",
+        "name": "江苏新闻广播",
+        "url": "http://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8",
+        "isActive": true,
+        "channelID": 128,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 129,
+    "name": "江苏经典流行音乐广播",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "129_0",
+        "name": "江苏经典流行音乐广播",
+        "url": "http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8",
+        "isActive": true,
+        "channelID": 129,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 130,
+    "name": "江苏金陵之声",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "130_0",
+        "name": "江苏金陵之声",
+        "url": "http://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8",
+        "isActive": true,
+        "channelID": 130,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 131,
+    "name": "河北公共",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "131_0",
+        "name": "河北公共",
+        "url": "http://live7.plus.hebtv.com/hbggx/hd/live.m3u8",
+        "isActive": true,
+        "channelID": 131,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 132,
+    "name": "河北影视剧",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "132_0",
+        "name": "河北影视剧",
+        "url": "http://live6.plus.hebtv.com/hbysx/hd/live.m3u8",
+        "isActive": true,
+        "channelID": 132,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 133,
+    "name": "河北都市",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "133_0",
+        "name": "河北都市",
+        "url": "http://live3.plus.hebtv.com/hbdsx/hd/live.m3u8",
+        "isActive": true,
+        "channelID": 133,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 134,
+    "name": "济宁公共频道",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "134_0",
+        "name": "济宁公共频道",
+        "url": "http://lives.jnnews.tv/video/s10001-JTV3/index.m3u8",
+        "isActive": true,
+        "channelID": 134,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 135,
+    "name": "济宁图文频道",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "135_0",
+        "name": "济宁图文频道",
+        "url": "http://lives.jnnews.tv/video/s10001-JTV4/index.m3u8",
+        "isActive": true,
+        "channelID": 135,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 136,
+    "name": "济宁教育频道",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "136_0",
+        "name": "济宁教育频道",
+        "url": "http://lives.jnnews.tv/video/s10001-JTV2/index.m3u8",
+        "isActive": true,
+        "channelID": 136,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 137,
+    "name": "浙江国际",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "137_0",
+        "name": "浙江国际",
+        "url": "http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
+        "isActive": true,
+        "channelID": 137,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 138,
+    "name": "浙江少儿",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "138_0",
+        "name": "浙江少儿",
+        "url": "http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
+        "isActive": true,
+        "channelID": 138,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 139,
+    "name": "浙江影视",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "139_0",
+        "name": "浙江影视",
+        "url": "http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8",
+        "isActive": true,
+        "channelID": 139,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 140,
+    "name": "浙江教科影视",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "140_0",
+        "name": "浙江教科影视",
+        "url": "http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
+        "isActive": true,
+        "channelID": 140,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 141,
+    "name": "浙江数码时代",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "141_0",
+        "name": "浙江数码时代",
+        "url": "http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8",
+        "isActive": true,
+        "channelID": 141,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 142,
+    "name": "浙江新闻",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "142_0",
+        "name": "浙江新闻",
+        "url": "http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8",
+        "isActive": true,
+        "channelID": 142,
+        "status": "可用"
+      },
+      {
+        "id": "142_1",
+        "name": "浙江新闻",
+        "url": "http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8",
+        "isActive": true,
+        "channelID": 142,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 143,
+    "name": "浙江民生休闲",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "143_0",
+        "name": "浙江民生休闲",
+        "url": "http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
+        "isActive": true,
+        "channelID": 143,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 144,
+    "name": "浙江经济生活",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "144_0",
+        "name": "浙江经济生活",
+        "url": "http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
+        "isActive": true,
+        "channelID": 144,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 145,
+    "name": "浙江钱江频道",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "145_0",
+        "name": "浙江钱江频道",
+        "url": "http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
+        "isActive": true,
+        "channelID": 145,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 146,
+    "name": "海盐新闻频道",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "146_0",
+        "name": "海盐新闻频道",
+        "url": "http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 146,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 147,
+    "name": "海西州综合频道",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "147_0",
+        "name": "海西州综合频道",
+        "url": "http://stream.haixitv.cn/1/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 147,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 148,
+    "name": "滨州公共电视剧",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "148_0",
+        "name": "滨州公共电视剧",
+        "url": "http://stream.bzcm.net/1/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 148,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 149,
+    "name": "滨州新闻综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "149_0",
+        "name": "滨州新闻综合",
+        "url": "http://stream.bzcm.net/2/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 149,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 150,
+    "name": "滨州测试频道",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "150_0",
+        "name": "滨州测试频道",
+        "url": "http://stream.bzcm.net/4/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 150,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 151,
+    "name": "漳州新闻综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "151_0",
+        "name": "漳州新闻综合",
+        "url": "http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8",
+        "isActive": true,
+        "channelID": 151,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 152,
+    "name": "石景山电视台",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "152_0",
+        "name": "石景山电视台",
+        "url": "http://live.sjsrm.com/bjsjs/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 152,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 153,
+    "name": "芜湖公共频道",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "153_0",
+        "name": "芜湖公共频道",
+        "url": "http://live1.wuhubtv.com/channel3/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 153,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 154,
+    "name": "芜湖新闻综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "154_0",
+        "name": "芜湖新闻综合",
+        "url": "http://live1.wuhubtv.com/channel1/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 154,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 155,
+    "name": "芜湖生活频道",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "155_0",
+        "name": "芜湖生活频道",
+        "url": "http://live1.wuhubtv.com/channel2/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 155,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 156,
+    "name": "荣昌综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "156_0",
+        "name": "荣昌综合",
+        "url": "http://183.64.181.25:40023/rongchang01.m3u8",
+        "isActive": true,
+        "channelID": 156,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 157,
+    "name": "萧山新闻综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "157_0",
+        "name": "萧山新闻综合",
+        "url": "http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8",
+        "isActive": true,
+        "channelID": 157,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 158,
+    "name": "蓬安新闻综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "158_0",
+        "name": "蓬安新闻综合",
+        "url": "http://palive.patv123.com:8091/live/xwpd_800K.m3u8",
+        "isActive": true,
+        "channelID": 158,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 159,
+    "name": "西安健康",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "159_0",
+        "name": "西安健康",
+        "url": "http://stream2.xiancity.cn/xatv5/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 159,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 160,
+    "name": "西安影视",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "160_0",
+        "name": "西安影视",
+        "url": "http://stream2.xiancity.cn/xatv4/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 160,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 161,
+    "name": "西安新闻",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "161_0",
+        "name": "西安新闻",
+        "url": "http://stream2.xiancity.cn/xatv1/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 161,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 162,
+    "name": "西安白鸽",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "162_0",
+        "name": "西安白鸽",
+        "url": "http://stream2.xiancity.cn/xatv2/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 162,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 163,
+    "name": "西安资讯",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "163_0",
+        "name": "西安资讯",
+        "url": "http://stream2.xiancity.cn/xatv3/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 163,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 164,
+    "name": "西安音乐综艺",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "164_0",
+        "name": "西安音乐综艺",
+        "url": "http://stream2.xiancity.cn/xatv6/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 164,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 165,
+    "name": "西青新闻综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "165_0",
+        "name": "西青新闻综合",
+        "url": "http://221.238.209.44:81/hls/live1.m3u8",
+        "isActive": true,
+        "channelID": 165,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 166,
+    "name": "邯郸公共",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "166_0",
+        "name": "邯郸公共",
+        "url": "http://live.hd.hdbs.cn/video/s10001-hdggpd/index.m3u8",
+        "isActive": true,
+        "channelID": 166,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 167,
+    "name": "邯郸新闻综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "167_0",
+        "name": "邯郸新闻综合",
+        "url": "http://live.hd.hdbs.cn/video/s10001-hdxwpd/index.m3u8",
+        "isActive": true,
+        "channelID": 167,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 168,
+    "name": "邯郸科技教育",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "168_0",
+        "name": "邯郸科技教育",
+        "url": "http://live.hd.hdbs.cn/video/s10001-hdkjpd/index.m3u8",
+        "isActive": true,
+        "channelID": 168,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 169,
+    "name": "黔西南公共",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "169_0",
+        "name": "黔西南公共",
+        "url": "http://live.qxndt.com/channel3/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 169,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 170,
+    "name": "黔西南综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "170_0",
+        "name": "黔西南综合",
+        "url": "http://live.qxndt.com/channel2/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 170,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 171,
+    "name": "龙岩公共",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "171_0",
+        "name": "龙岩公共",
+        "url": "http://live.lytv.net.cn/ggpd/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 171,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 172,
+    "name": "龙岩综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "172_0",
+        "name": "龙岩综合",
+        "url": "http://stream.lytv.net.cn/2/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 172,
+        "status": "可用"
+      },
+      {
+        "id": "172_1",
+        "name": "龙岩综合",
+        "url": "http://live.lytv.net.cn/zhpwd/hd/live.m3u8",
+        "isActive": true,
+        "channelID": 172,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 173,
+    "name": "CCTV16",
+    "isActive": true,
+    "group": "央视",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "173_0",
+        "name": "CCTV-16",
+        "url": "http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8",
+        "isActive": true,
+        "channelID": 173,
+        "status": "可用"
+      },
+      {
+        "id": "173_1",
+        "name": "CCTV-16",
+        "url": "http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8",
+        "isActive": true,
+        "channelID": 173,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 174,
+    "name": "广西卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "174_0",
+        "name": "广西卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8?fmt=ts2hls",
+        "isActive": true,
+        "channelID": 174,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 175,
+    "name": "陕西卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "175_0",
+        "name": "陕西卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8",
+        "isActive": true,
+        "channelID": 175,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 176,
+    "name": "甘肃卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "176_0",
+        "name": "甘肃卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8",
+        "isActive": true,
+        "channelID": 176,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 177,
+    "name": "海南卫视",
+    "isActive": true,
+    "group": "卫视",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "177_0",
+        "name": "海南卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8",
+        "isActive": true,
+        "channelID": 177,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 178,
+    "name": "上海都市",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "178_0",
+        "name": "上海都市",
+        "url": "http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8?fmt=ts2hls",
+        "isActive": true,
+        "channelID": 178,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 179,
+    "name": "湘潭公共频道",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "179_0",
+        "name": "湘潭公共频道",
+        "url": "http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8",
+        "isActive": true,
+        "channelID": 179,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 180,
+    "name": "浙江教育",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "180_0",
+        "name": "浙江教育",
+        "url": "http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8",
+        "isActive": true,
+        "channelID": 180,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 181,
+    "name": "浙江钱江",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "181_0",
+        "name": "浙江钱江",
+        "url": "http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8",
+        "isActive": true,
+        "channelID": 181,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 182,
+    "name": "浙江休闲",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "182_0",
+        "name": "浙江休闲",
+        "url": "http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8",
+        "isActive": true,
+        "channelID": 182,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 183,
+    "name": "浙江经济",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "183_0",
+        "name": "浙江经济",
+        "url": "http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8",
+        "isActive": true,
+        "channelID": 183,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 184,
+    "name": "绍兴综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "184_0",
+        "name": "绍兴综合",
+        "url": "http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8",
+        "isActive": true,
+        "channelID": 184,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 185,
+    "name": "湖州综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "185_0",
+        "name": "湖州综合",
+        "url": "http://live.plus.hugd.com/xwzhpd/sd/live.m3u8",
+        "isActive": true,
+        "channelID": 185,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 186,
+    "name": "萧山生活",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "186_0",
+        "name": "萧山生活",
+        "url": "http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8",
+        "isActive": true,
+        "channelID": 186,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 187,
+    "name": "象山综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "187_0",
+        "name": "象山综合",
+        "url": "http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8",
+        "isActive": true,
+        "channelID": 187,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 188,
+    "name": "永嘉综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "188_0",
+        "name": "永嘉综合",
+        "url": "http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8",
+        "isActive": true,
+        "channelID": 188,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 189,
+    "name": "余杭综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "189_0",
+        "name": "余杭综合",
+        "url": "http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8",
+        "isActive": true,
+        "channelID": 189,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 190,
+    "name": "万州综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "190_0",
+        "name": "万州综合",
+        "url": "http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8",
+        "isActive": true,
+        "channelID": 190,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 191,
+    "name": "璧山综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "191_0",
+        "name": "璧山综合",
+        "url": "http://222.179.42.129:8181/hls1.m3u8",
+        "isActive": true,
+        "channelID": 191,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 192,
+    "name": "广东文化",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "192_0",
+        "name": "广东文化",
+        "url": "https://glive.grtn.cn/live/wenhua_test0203.m3u8",
+        "isActive": true,
+        "channelID": 192,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 196,
+    "name": "济宁综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "196_0",
+        "name": "济宁综合",
+        "url": "http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8",
+        "isActive": true,
+        "channelID": 196,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 197,
+    "name": "河北经济",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "197_0",
+        "name": "河北经济",
+        "url": "http://live2.plus.hebtv.com/jjshx/hd/live.m3u8",
+        "isActive": true,
+        "channelID": 197,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 198,
+    "name": "延安综合",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "198_0",
+        "name": "延安综合",
+        "url": "http://live.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8",
+        "isActive": true,
+        "channelID": 198,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 199,
+    "name": "延安公共",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "199_0",
+        "name": "延安公共",
+        "url": "http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8",
+        "isActive": true,
+        "channelID": 199,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 200,
+    "name": "延边朝语",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "200_0",
+        "name": "延边朝语",
+        "url": "http://live.ybtvyun.com/video/s10006-bcdce1b448cc/index.m3u8",
+        "isActive": true,
+        "channelID": 200,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 201,
+    "name": "延边文化",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "201_0",
+        "name": "延边文化",
+        "url": "http://live.ybtvyun.com/video/s10006-3b9a54a11148/index.m3u8",
+        "isActive": true,
+        "channelID": 201,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 202,
+    "name": "点掌财经",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "202_0",
+        "name": "点掌财经",
+        "url": "http://cclive2.aniu.tv/live/anzb.m3u8",
+        "isActive": true,
+        "channelID": 202,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 203,
+    "name": "大爱2台",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "203_0",
+        "name": "大爱2台",
+        "url": "https://pulltv2.wanfudaluye.com/live/tv2.m3u8",
+        "isActive": true,
+        "channelID": 203,
+        "status": "可用"
+      },
+      {
+        "id": "203_1",
+        "name": "大爱2台",
+        "url": "https://pulltv1.wanfudaluye.com/live/tv2.m3u8",
+        "isActive": true,
+        "channelID": 203,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 204,
+    "name": "黑莓电影",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "204_0",
+        "name": "黑莓电影",
+        "url": "http://111.40.196.9/PLTV/88888888/224/3221225610/index.m3u8",
+        "isActive": true,
+        "channelID": 204,
+        "status": "可用"
+      },
+      {
+        "id": "204_1",
+        "name": "黑莓电影",
+        "url": "http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8",
+        "isActive": true,
+        "channelID": 204,
+        "status": "可用"
+      },
+      {
+        "id": "204_2",
+        "name": "黑莓电影",
+        "url": "http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8",
+        "isActive": true,
+        "channelID": 204,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 3
+  },
+  {
+    "id": 213,
+    "name": "oe24",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "213_0",
+        "name": "oe24",
+        "url": "https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist_b1900000.m3u8",
+        "isActive": true,
+        "channelID": 213,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 217,
+    "name": "RTV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "217_0",
+        "name": "RTV",
+        "url": "http://iptv.rtv-ooe.at/stream.m3u8",
+        "isActive": true,
+        "channelID": 217,
+        "status": "可用"
+      },
+      {
+        "id": "217_5",
+        "name": "RTV Noord",
+        "url": "https://media.rtvnoord.nl/live/rtvnoord/tv/3e8fe3c1-0868-49b0-b2f3-7dd6eb30651f/index.m3u8",
+        "isActive": true,
+        "channelID": 217,
+        "status": "可用"
+      },
+      {
+        "id": "217_6",
+        "name": "RTV Drenthe",
+        "url": "https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/1080p/prog_index.m3u8",
+        "isActive": true,
+        "channelID": 217,
+        "status": "可用"
+      },
+      {
+        "id": "217_10",
+        "name": "San Marino Rtv",
+        "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8",
+        "isActive": true,
+        "channelID": 217,
+        "status": "可用"
+      },
+      {
+        "id": "217_11",
+        "name": "San Marino Rtv Sport",
+        "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8",
+        "isActive": true,
+        "channelID": 217,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 5
+  },
+  {
+    "id": 221,
+    "name": "1Mus",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "221_0",
+        "name": "1Mus",
+        "url": "http://hz1.teleport.cc/HLS/HD.m3u8",
+        "isActive": true,
+        "channelID": 221,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 224,
+    "name": "CTV Belarus Ⓢ",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "224_0",
+        "name": "CTV Belarus Ⓢ",
+        "url": "http://212.98.171.116/HLS/ctvby/playlist.m3u8",
+        "isActive": true,
+        "channelID": 224,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 226,
+    "name": "Radio HIT Orsk",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "226_0",
+        "name": "Radio HIT Orsk",
+        "url": "http://hithd.camsh.orsk.ru/hls/hithd.m3u8",
+        "isActive": true,
+        "channelID": 226,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 227,
+    "name": "Vitebsk Telekanal",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "227_0",
+        "name": "Vitebsk Telekanal",
+        "url": "https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8",
+        "isActive": true,
+        "channelID": 227,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 238,
+    "name": "Futura",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "238_0",
+        "name": "Futura",
+        "url": "https://tv.unisc.br/hls/test.m3u8",
+        "isActive": true,
+        "channelID": 238,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 242,
+    "name": "ISTV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "242_0",
+        "name": "ISTV",
+        "url": "https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8",
+        "isActive": true,
+        "channelID": 242,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 244,
+    "name": "TV Câmara",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "244_0",
+        "name": "TV Câmara",
+        "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+        "isActive": true,
+        "channelID": 244,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 247,
+    "name": "Citytv",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "247_1",
+        "name": "CityTV (Belváros Lipótváros)",
+        "url": "https://citytv.hu/media/live/stream.m3u8",
+        "isActive": true,
+        "channelID": 247,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 255,
+    "name": "CTV News",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "255_0",
+        "name": "CTV News",
+        "url": "https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8",
+        "isActive": true,
+        "channelID": 255,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 261,
+    "name": "Savoir Média",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "261_0",
+        "name": "Savoir Média",
+        "url": "https://hls.savoir.media/live/stream.m3u8",
+        "isActive": true,
+        "channelID": 261,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 263,
+    "name": "RTL",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "263_4",
+        "name": "Heartland",
+        "url": "https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/profile_1/chunklist.m3u8",
+        "isActive": true,
+        "channelID": 263,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 265,
+    "name": "CMC TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "265_0",
+        "name": "CMC TV",
+        "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8",
+        "isActive": true,
+        "channelID": 265,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 268,
+    "name": "Prima Ⓢ Ⓖ",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "268_0",
+        "name": "Prima Ⓢ Ⓖ",
+        "url": "https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_family/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0",
+        "isActive": true,
+        "channelID": 268,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 269,
+    "name": "CNN Prima News Ⓢ",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "269_0",
+        "name": "CNN Prima News Ⓢ",
+        "url": "https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0",
+        "isActive": true,
+        "channelID": 269,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 270,
+    "name": "Prima Zoom Ⓢ Ⓖ",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "270_0",
+        "name": "Prima Zoom Ⓢ Ⓖ",
+        "url": "https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0",
+        "isActive": true,
+        "channelID": 270,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 271,
+    "name": "Prima Love Ⓢ Ⓖ",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "271_0",
+        "name": "Prima Love Ⓢ Ⓖ",
+        "url": "https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_love/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0",
+        "isActive": true,
+        "channelID": 271,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 272,
+    "name": "Prima STAR Ⓢ Ⓖ",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "272_0",
+        "name": "Prima STAR Ⓢ Ⓖ",
+        "url": "https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_star/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0",
+        "isActive": true,
+        "channelID": 272,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 273,
+    "name": "Prima Krimi Ⓢ Ⓖ",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "273_0",
+        "name": "Prima Krimi Ⓢ Ⓖ",
+        "url": "https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_krimi/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0",
+        "isActive": true,
+        "channelID": 273,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 274,
+    "name": "Prima MAX Ⓢ Ⓖ",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "274_0",
+        "name": "Prima MAX Ⓢ Ⓖ",
+        "url": "https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0",
+        "isActive": true,
+        "channelID": 274,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 275,
+    "name": "Prima Cool Ⓢ Ⓖ",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "275_0",
+        "name": "Prima Cool Ⓢ Ⓖ",
+        "url": "https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0",
+        "isActive": true,
+        "channelID": 275,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 276,
+    "name": "Prima Show Ⓢ Ⓖ",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "276_0",
+        "name": "Prima Show Ⓢ Ⓖ",
+        "url": "https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_show/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0",
+        "isActive": true,
+        "channelID": 276,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 331,
+    "name": "SWR Rheinland-Pfalz Ⓖ",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "331_0",
+        "name": "SWR Rheinland-Pfalz Ⓖ",
+        "url": "https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8",
+        "isActive": true,
+        "channelID": 331
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "name": "Star Ⓖ",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "350_0",
+        "name": "Star Ⓖ",
+        "url": "https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8",
+        "isActive": true,
+        "channelID": 350,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 355,
+    "name": "ERT World",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "355_0",
+        "name": "ERT World",
+        "url": "http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8",
+        "isActive": true,
+        "channelID": 355,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 363,
+    "name": "ATV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "363_1",
+        "name": "RadioItaliaTV",
+        "url": "https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8",
+        "isActive": true,
+        "channelID": 363,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 365,
+    "name": "EWTN TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "365_0",
+        "name": "EWTN TV",
+        "url": "https://stream.y5.hu/stream/stream_bonum/stream.m3u8",
+        "isActive": true,
+        "channelID": 365,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 370,
+    "name": "Balaton TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "370_0",
+        "name": "Balaton TV",
+        "url": "https://stream.iptvservice.eu/hls/balatontv.m3u8",
+        "isActive": true,
+        "channelID": 370,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 373,
+    "name": "Ozdi Városi TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "373_0",
+        "name": "Ozdi Városi TV",
+        "url": "https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8",
+        "isActive": true,
+        "channelID": 373,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 374,
+    "name": "TV7 Bekescsaba",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "374_0",
+        "name": "TV7 Bekescsaba",
+        "url": "https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8",
+        "isActive": true,
+        "channelID": 374,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 375,
+    "name": "VTV Füzesabony",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "375_0",
+        "name": "VTV Füzesabony",
+        "url": "https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8",
+        "isActive": true,
+        "channelID": 375,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 376,
+    "name": "Hegyvidék TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "376_0",
+        "name": "Hegyvidék TV",
+        "url": "https://tv.hegyvidek.hu/hvtv/hvstream.m3u8",
+        "isActive": true,
+        "channelID": 376,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 381,
+    "name": "Kecskemét TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "381_0",
+        "name": "Kecskemét TV",
+        "url": "https://eurobioinvest.hu:444/live/ktv.m3u8",
+        "isActive": true,
+        "channelID": 381,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 385,
+    "name": "Tisza TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "385_0",
+        "name": "Tisza TV",
+        "url": "https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8",
+        "isActive": true,
+        "channelID": 385,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 386,
+    "name": "DTV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "386_0",
+        "name": "DTV",
+        "url": "http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8",
+        "isActive": true,
+        "channelID": 386,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 391,
+    "name": "Al-Rasheed",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "391_0",
+        "name": "Al-Rasheed",
+        "url": "https://media1.livaat.com/AL-RASHEED-HD/tracks-v1a1/playlist.m3u8",
+        "isActive": true,
+        "channelID": 391,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 394,
+    "name": "Dijlah Tarab",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "394_0",
+        "name": "Dijlah Tarab",
+        "url": "https://ghaasiflu.online/tarab/tracks-v1a1/playlist.m3u8",
+        "isActive": true,
+        "channelID": 394,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 395,
+    "name": "Dijlah TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "395_0",
+        "name": "Dijlah TV",
+        "url": "https://ghaasiflu.online/Dijlah/tracks-v1a1/playlist.m3u8",
+        "isActive": true,
+        "channelID": 395,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 409,
+    "name": "QVC",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "409_1",
+        "name": "QVC Ⓢ",
+        "url": "http://cdn-live1.qvc.jp/iPhone/800/800.m3u8",
+        "isActive": true,
+        "channelID": 409,
+        "status": "可用"
+      },
+      {
+        "id": "409_2",
+        "name": "QVC",
+        "url": "https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8",
+        "isActive": true,
+        "channelID": 409,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 442,
+    "name": "Abc Tv",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "442_0",
+        "name": "Abc Tv",
+        "url": "https://streamlive.arcapuglia.it:8080/live/abctv/index.m3u8",
+        "isActive": true,
+        "channelID": 442,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 449,
+    "name": "Antenna Sud",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "449_0",
+        "name": "Antenna Sud",
+        "url": "https://live.antennasudwebtv.it:9443/hls/vod.m3u8",
+        "isActive": true,
+        "channelID": 449,
+        "status": "可用"
+      },
+      {
+        "id": "449_1",
+        "name": "Antenna Sud Extra",
+        "url": "https://live.antennasudwebtv.it:9443/hls/vod92.m3u8",
+        "isActive": true,
+        "channelID": 449,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 450,
+    "name": "Apulia Web Tv",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "450_0",
+        "name": "Apulia Web Tv",
+        "url": "https://cp1.server89.com:19360/apuliawebtv/apuliawebtv.m3u8",
+        "isActive": true,
+        "channelID": 450,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 474,
+    "name": "Ciao USA",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "474_0",
+        "name": "Ciao USA",
+        "url": "http://joe.livebox.co.in/iotieviTVhls/CIAOUSA.m3u8",
+        "isActive": true,
+        "channelID": 474,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 498,
+    "name": "Giovanni Paolo Tv",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "498_0",
+        "name": "Giovanni Paolo Tv",
+        "url": "https://media2021.rtvweb.com/giovannipaolotv/web/chunklist_w663456797.m3u8",
+        "isActive": true,
+        "channelID": 498,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 504,
+    "name": "Idea Plus",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "504_0",
+        "name": "Idea Plus",
+        "url": "https://rst.saiuzwebnetwork.it:19360/teleidea/teleidea.m3u8",
+        "isActive": true,
+        "channelID": 504,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 507,
+    "name": "Italia Channel",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "507_0",
+        "name": "Italia Channel",
+        "url": "https://stream1.aswifi.it/italiachannel/stream/index.m3u8",
+        "isActive": true,
+        "channelID": 507,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 510,
+    "name": "La Grande Italia",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "510_0",
+        "name": "La Grande Italia",
+        "url": "https://5f22d76e220e1.streamlock.net/GrandeItalia/GrandeItalia/chunklist_w748924424.m3u8",
+        "isActive": true,
+        "channelID": 510,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 517,
+    "name": "Le Cronache Lucane Tv",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "517_0",
+        "name": "Le Cronache Lucane Tv",
+        "url": "http://stucazz.com:8888/hls/cronache.m3u8",
+        "isActive": true,
+        "channelID": 517,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 526,
+    "name": "Medjugorje Tv Puglia",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "526_0",
+        "name": "Medjugorje Tv Puglia",
+        "url": "https://streamlive.arcapuglia.it:8080/live/medjugorietv/index.m3u8",
+        "isActive": true,
+        "channelID": 526,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 533,
+    "name": "Nuova Tv 1",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "533_0",
+        "name": "Nuova Tv 1",
+        "url": "https://nuovatv.net:8443/tv/stream.m3u8",
+        "isActive": true,
+        "channelID": 533,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 534,
+    "name": "Nuova Tv 2",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "534_0",
+        "name": "Nuova Tv 2",
+        "url": "https://nuovatv.net:8443/tv2/stream.m3u8",
+        "isActive": true,
+        "channelID": 534,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 546,
+    "name": "Parole di Vita",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "546_0",
+        "name": "Parole di Vita",
+        "url": "https://5db313b643fd8.streamlock.net/Paroledivita/Paroledivita/chunklist_w2067011949.m3u8",
+        "isActive": true,
+        "channelID": 546,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 547,
+    "name": "Passione Lotto Tv",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "547_0",
+        "name": "Passione Lotto Tv",
+        "url": "http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8",
+        "isActive": true,
+        "channelID": 547,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 548,
+    "name": "Pop Tv",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "548_0",
+        "name": "Pop Tv",
+        "url": "https://stream1.aswifi.it/poptelevision/live/index.m3u8",
+        "isActive": true,
+        "channelID": 548,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 550,
+    "name": "Prima Napoli Tv",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "550_0",
+        "name": "Prima Napoli Tv",
+        "url": "https://stream1.aswifi.it/primatvnapoli/live/index.m3u8",
+        "isActive": true,
+        "channelID": 550,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 569,
+    "name": "Rete 8",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "569_0",
+        "name": "Rete 8",
+        "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/dd01eec16f934937b790b24d4a7c7916/chunklist_b4628000.m3u8",
+        "isActive": true,
+        "channelID": 569,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 584,
+    "name": "Set Tv Cilento",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "584_0",
+        "name": "Set Tv Cilento",
+        "url": "https://stream1.aswifi.it/settv/live/index.m3u8",
+        "isActive": true,
+        "channelID": 584,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 599,
+    "name": "Teatro Tv",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "599_0",
+        "name": "Teatro Tv",
+        "url": "https://m.iostream.it/hls/teatrotv/teatrotv.m3u8",
+        "isActive": true,
+        "channelID": 599,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 605,
+    "name": "Tele Bruzzano",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "605_0",
+        "name": "Tele Bruzzano",
+        "url": "https://playerssl.telemia.tv/fileadmin/hls/Telebruzzano/telebruzzano_mediachunks.m3u8",
+        "isActive": true,
+        "channelID": 605,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 660,
+    "name": "Tele Sirio",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "660_0",
+        "name": "Tele Sirio",
+        "url": "https://www.telesirio.it/live/stream.m3u8",
+        "isActive": true,
+        "channelID": 660,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 672,
+    "name": "Telecittà Padova",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "672_0",
+        "name": "Telecittà Padova",
+        "url": "https://tango.wifi4all.it/telecitta/telecitta.m3u8",
+        "isActive": true,
+        "channelID": 672,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 693,
+    "name": "Tuscia Sabina 2000Tv",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "693_0",
+        "name": "Tuscia Sabina 2000Tv",
+        "url": "http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/chunks.m3u8",
+        "isActive": true,
+        "channelID": 693,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 700,
+    "name": "Tv Yes",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "700_0",
+        "name": "Tv Yes",
+        "url": "https://stream1.aswifi.it/radioyes/live/index.m3u8",
+        "isActive": true,
+        "channelID": 700,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 702,
+    "name": "Tv7 News",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "702_0",
+        "name": "Tv7 News",
+        "url": "http://217.61.26.46:8080/hls/news.m3u8",
+        "isActive": true,
+        "channelID": 702,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 703,
+    "name": "Tv7 Triveneta",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "703_0",
+        "name": "Tv7 Triveneta",
+        "url": "http://217.61.26.46:8080/hls/triveneta.m3u8",
+        "isActive": true,
+        "channelID": 703,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 713,
+    "name": "Video Nola",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "713_0",
+        "name": "Video Nola",
+        "url": "http://stream1.aswifi.it/videonola/live/index.m3u8",
+        "isActive": true,
+        "channelID": 713,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 723,
+    "name": "NHK World",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "723_0",
+        "name": "NHK World",
+        "url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8",
+        "isActive": true,
+        "channelID": 723,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 741,
+    "name": "Alcarria TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "741_0",
+        "name": "Alcarria TV",
+        "url": "http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8",
+        "isActive": true,
+        "channelID": 741,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 759,
+    "name": "Trece",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "759_0",
+        "name": "Trece",
+        "url": "https://stream.rpc.com.py/live/trece_src.m3u8",
+        "isActive": true,
+        "channelID": 759,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 797,
+    "name": "Telemadrid",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "797_0",
+        "name": "Telemadrid",
+        "url": "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8",
+        "isActive": true,
+        "channelID": 797,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 798,
+    "name": "La Otra",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "798_0",
+        "name": "La Otra",
+        "url": "https://laotrahls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_1.m3u8",
+        "isActive": true,
+        "channelID": 798,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 799,
+    "name": "Canal Sur Andalucía",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "799_0",
+        "name": "Canal Sur Andalucía",
+        "url": "https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8",
+        "isActive": true,
+        "channelID": 799,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 800,
+    "name": "La 7 CYLTV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "800_0",
+        "name": "La 7 CYLTV",
+        "url": "https://cdnlive.shooowit.net/la7live/smil:channel1.smil/chunklist_b2200000.m3u8",
+        "isActive": true,
+        "channelID": 800,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 801,
+    "name": "La 8 León",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "801_0",
+        "name": "La 8 León",
+        "url": "https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/chunklist_b2200000.m3u8",
+        "isActive": true,
+        "channelID": 801,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 802,
+    "name": "Canal Extremadura",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "802_0",
+        "name": "Canal Extremadura",
+        "url": "https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1.smil/chunklist_b1500000.m3u8",
+        "isActive": true,
+        "channelID": 802,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 804,
+    "name": "EITB1",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "804_0",
+        "name": "EITB1",
+        "url": "https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8",
+        "isActive": true,
+        "channelID": 804,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 805,
+    "name": "EITB2",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "805_0",
+        "name": "EITB2",
+        "url": "https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8",
+        "isActive": true,
+        "channelID": 805,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 810,
+    "name": "À Punt TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "810_0",
+        "name": "À Punt TV",
+        "url": "https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8",
+        "isActive": true,
+        "channelID": 810,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 850,
+    "name": "GIT",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "850_0",
+        "name": "GIT",
+        "url": "https://stream.uagit.tv/gittv.m3u8",
+        "isActive": true,
+        "channelID": 850,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 852,
+    "name": "HTK",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "852_0",
+        "name": "HTK",
+        "url": "http://stream.ntktv.ua/s/ntk/ntk.m3u8",
+        "isActive": true,
+        "channelID": 852,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 861,
+    "name": "NTA",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "861_0",
+        "name": "NTA",
+        "url": "http://95.67.106.10/hls/nta_ua_hi/index.m3u8",
+        "isActive": true,
+        "channelID": 861,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 864,
+    "name": "Perviy Delovoy",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "864_0",
+        "name": "Perviy Delovoy",
+        "url": "http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8",
+        "isActive": true,
+        "channelID": 864,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 867,
+    "name": "Pravda TYT",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "867_0",
+        "name": "Pravda TYT",
+        "url": "http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8",
+        "isActive": true,
+        "channelID": 867,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 868,
+    "name": "Pryamyi",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "868_0",
+        "name": "Pryamyi",
+        "url": "http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8",
+        "isActive": true,
+        "channelID": 868,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 882,
+    "name": "Z Zaporozhye",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "882_0",
+        "name": "Z Zaporozhye",
+        "url": "https://stream.ztv.zp.ua/hls/live.m3u8",
+        "isActive": true,
+        "channelID": 882,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 884,
+    "name": "Retro TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "884_0",
+        "name": "Retro TV",
+        "url": "https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/profile_1/chunklist.m3u8",
+        "isActive": true,
+        "channelID": 884,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 887,
+    "name": "Rev'n",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "887_0",
+        "name": "Rev'n",
+        "url": "https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/profile_1/chunklist.m3u8",
+        "isActive": true,
+        "channelID": 887,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 891,
+    "name": "NASA TV Public",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "891_0",
+        "name": "NASA TV Public",
+        "url": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8",
+        "isActive": true,
+        "channelID": 891,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  }
+]

@@ -76,6 +76,10 @@ linuxmi@linuxmi:~/www.linuxmi.com$ sudo zypper install smplayer
 [电视眼](http://www.tvyan.com/)    
 [TVVTVV](http://tvvtvv.com/)    
 
+[全球电视直播](http://www.10000top.com/)    
+
+
+
 ### 3、打开直播的网站，找一个喜欢的电视台播放，
 
 当正常播放的时候，猫爪就会显示抓到的资源数，

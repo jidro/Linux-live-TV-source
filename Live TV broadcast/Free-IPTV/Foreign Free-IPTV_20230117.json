@@ -1,0 +1,2957 @@
+[
+  {
+    "id": 1,
+    "name": "ALBDREAMS TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "1_0",
+        "name": "ALBDREAMS TV",
+        "url": "http://live.albavision.net:1123/live/albdreams.m3u8",
+        "isActive": true,
+        "channelID": 1,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 2,
+    "name": "ATD USA",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "2_0",
+        "name": "ATD USA",
+        "url": "http://46.99.146.236/0.m3u8",
+        "isActive": true,
+        "channelID": 2,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 3,
+    "name": "Peace TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "3_0",
+        "name": "Peace TV",
+        "url": "http://82.114.67.178:8081/hls/PeaceTV.m3u8",
+        "isActive": true,
+        "channelID": 3,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 4,
+    "name": "TopEstrada TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "4_0",
+        "name": "TopEstrada TV",
+        "url": "http://live.topestrada.com/live/topestrada/tracks-v1a1/index.m3u8",
+        "isActive": true,
+        "channelID": 4,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 5,
+    "name": "FS1 Salzburg",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "5_0",
+        "name": "FS1 Salzburg",
+        "url": "http://stream.fs1.tv:8080/hls/webstream.m3u8",
+        "isActive": true,
+        "channelID": 5,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 6,
+    "name": "Ländle Tv",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "6_0",
+        "name": "Ländle Tv",
+        "url": "https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8",
+        "isActive": true,
+        "channelID": 6,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 7,
+    "name": "Teins TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "7_0",
+        "name": "Teins TV",
+        "url": "http://live1.markenfunk.com/t1/live/chunklist.m3u8",
+        "isActive": true,
+        "channelID": 7,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 8,
+    "name": "Tirol TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "8_0",
+        "name": "Tirol TV",
+        "url": "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8",
+        "isActive": true,
+        "channelID": 8,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 9,
+    "name": "Bloomberg Australia",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "9_0",
+        "name": "Bloomberg Australia",
+        "url": "https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8",
+        "isActive": true,
+        "channelID": 9,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 10,
+    "name": "All Sports",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "10_0",
+        "name": "All Sports",
+        "url": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8",
+        "isActive": true,
+        "channelID": 10,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 11,
+    "name": "Paraná Turismo - github.com/Free-IPTV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "11_0",
+        "name": "Paraná Turismo - github.com/Free-IPTV",
+        "url": "http://200.189.113.201/hls/tve.m3u8",
+        "isActive": true,
+        "channelID": 11,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 12,
+    "name": "Rede Gospel",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "12_0",
+        "name": "Rede Gospel",
+        "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8",
+        "isActive": true,
+        "channelID": 12,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 13,
+    "name": "TV Birigui",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "13_0",
+        "name": "TV Birigui",
+        "url": "https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8",
+        "isActive": true,
+        "channelID": 13,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 14,
+    "name": "TV Câmara",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "14_0",
+        "name": "TV Câmara",
+        "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+        "isActive": true,
+        "channelID": 14,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 15,
+    "name": "TV Pai Eterno",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "15_0",
+        "name": "TV Pai Eterno",
+        "url": "https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8",
+        "isActive": true,
+        "channelID": 15,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 16,
+    "name": "TV Verdes Campos SAT",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "16_0",
+        "name": "TV Verdes Campos SAT",
+        "url": "https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8",
+        "isActive": true,
+        "channelID": 16,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 17,
+    "name": "Meteonews",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "17_0",
+        "name": "Meteonews",
+        "url": "https://streaming.meteonews.net/hls/stream.m3u8",
+        "isActive": true,
+        "channelID": 17,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 18,
+    "name": "TV Berlin",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "18_0",
+        "name": "TV Berlin",
+        "url": "https://live2.telvi.de/hls/tvberlin_hd720.m3u8",
+        "isActive": true,
+        "channelID": 18,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 19,
+    "name": "Fashion TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "19_0",
+        "name": "Fashion TV",
+        "url": "http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8",
+        "isActive": true,
+        "channelID": 19,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 20,
+    "name": "101TV Malaga",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "20_0",
+        "name": "101TV Malaga",
+        "url": "https://limited38.todostreaming.es/live/101tv-web101tv.m3u8",
+        "isActive": true,
+        "channelID": 20,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 21,
+    "name": "Alacanti TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "21_0",
+        "name": "Alacanti TV",
+        "url": "https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8",
+        "isActive": true,
+        "channelID": 21,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 22,
+    "name": "Canal 2000 La Solana",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "22_0",
+        "name": "Canal 2000 La Solana",
+        "url": "http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8",
+        "isActive": true,
+        "channelID": 22,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 23,
+    "name": "Canal 25 Barbastro",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "23_0",
+        "name": "Canal 25 Barbastro",
+        "url": "http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8",
+        "isActive": true,
+        "channelID": 23,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 24,
+    "name": "Canal 56",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "24_0",
+        "name": "Canal 56",
+        "url": "https://videos.canal56.com/directe/stream/index.m3u8",
+        "isActive": true,
+        "channelID": 24,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 25,
+    "name": "Canal Malaga",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "25_0",
+        "name": "Canal Malaga",
+        "url": "http://canalmalaga-tv-live.flumotion.com/chunks.m3u8",
+        "isActive": true,
+        "channelID": 25,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 26,
+    "name": "Canal San Roque",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "26_0",
+        "name": "Canal San Roque",
+        "url": "https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8",
+        "isActive": true,
+        "channelID": 26,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 27,
+    "name": "Canal Sierra de Cádiz",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "27_0",
+        "name": "Canal Sierra de Cádiz",
+        "url": "http://217.125.136.93:8080/canalsierradecadiz1080.m3u8",
+        "isActive": true,
+        "channelID": 27,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 28,
+    "name": "CostadelSol TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "28_0",
+        "name": "CostadelSol TV",
+        "url": "https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8",
+        "isActive": true,
+        "channelID": 28,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 29,
+    "name": "Costa Noroeste",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "29_0",
+        "name": "Costa Noroeste",
+        "url": "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8",
+        "isActive": true,
+        "channelID": 29,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 30,
+    "name": "Imás TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "30_0",
+        "name": "Imás TV",
+        "url": "https://secure3.todostreaming.es/live/imastv-livestream.m3u8",
+        "isActive": true,
+        "channelID": 30,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 31,
+    "name": "Junta Castilla y León",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "31_0",
+        "name": "Junta Castilla y León",
+        "url": "https://16escalones-live2.flumotion.com/chunks.m3u8",
+        "isActive": true,
+        "channelID": 31,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 32,
+    "name": "Mírame TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "32_0",
+        "name": "Mírame TV",
+        "url": "https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8",
+        "isActive": true,
+        "channelID": 32,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 33,
+    "name": "PequeRadio TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "33_0",
+        "name": "PequeRadio TV",
+        "url": "http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8",
+        "isActive": true,
+        "channelID": 33,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 34,
+    "name": "Popular TV Cantabria",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "34_0",
+        "name": "Popular TV Cantabria",
+        "url": "https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8",
+        "isActive": true,
+        "channelID": 34,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 35,
+    "name": "Punt 3 Vall Uixó",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "35_0",
+        "name": "Punt 3 Vall Uixó",
+        "url": "https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8",
+        "isActive": true,
+        "channelID": 35,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 36,
+    "name": "Solidaria TV España",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "36_0",
+        "name": "Solidaria TV España",
+        "url": "https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8",
+        "isActive": true,
+        "channelID": 36,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 37,
+    "name": "TeleRibera",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "37_0",
+        "name": "TeleRibera",
+        "url": "http://37.187.7.106/teleribera/live.m3u8",
+        "isActive": true,
+        "channelID": 37,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 38,
+    "name": "Tuya La Janda TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "38_0",
+        "name": "Tuya La Janda TV",
+        "url": "http://185.210.20.13:8080/0.m3u8",
+        "isActive": true,
+        "channelID": 38,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 39,
+    "name": "TV4 La Vall",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "39_0",
+        "name": "TV4 La Vall",
+        "url": "https://limited09.todostreaming.es/live/tarson-livestream.m3u8",
+        "isActive": true,
+        "channelID": 39,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 40,
+    "name": "Visión 6 TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "40_0",
+        "name": "Visión 6 TV",
+        "url": "https://secure3.todostreaming.es/live/visionseis-livestream.m3u8",
+        "isActive": true,
+        "channelID": 40,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 41,
+    "name": "A2i TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "41_0",
+        "name": "A2i TV",
+        "url": "https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8",
+        "isActive": true,
+        "channelID": 41,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 42,
+    "name": "A2i Music",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "42_0",
+        "name": "A2i Music",
+        "url": "https://stream.sen-gt.com/A2iMusic/myStream/chunklist_w652109108.m3u8",
+        "isActive": true,
+        "channelID": 42,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 43,
+    "name": "A2i Religion",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "43_0",
+        "name": "A2i Religion",
+        "url": "https://stream.sen-gt.com/A2iReligion/myStream/chunklist_w672043691.m3u8",
+        "isActive": true,
+        "channelID": 43,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 44,
+    "name": "Bip TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "44_0",
+        "name": "Bip TV",
+        "url": "https://biptv.tv/live/biptvstream_orig/index.m3u8",
+        "isActive": true,
+        "channelID": 44,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 45,
+    "name": "CGTN France",
+    "isActive": true,
+    "group": "央视",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "45_0",
+        "name": "CGTN France",
+        "url": "http://livefr.cgtn.com/1000f/prog_index.m3u8",
+        "isActive": true,
+        "channelID": 45,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 46,
+    "name": "ONE GOLF",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "46_0",
+        "name": "ONE GOLF",
+        "url": "http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8",
+        "isActive": true,
+        "channelID": 46,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 47,
+    "name": "CHOICE",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "47_0",
+        "name": "CHOICE",
+        "url": "https://vod.streams.ovh:3528/stream/play.m3u8",
+        "isActive": true,
+        "channelID": 47,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 48,
+    "name": "ERT World - github.com/Free-IPTV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "48_0",
+        "name": "ERT World - github.com/Free-IPTV",
+        "url": "http://wpso.com:1936/hls/wzra.m3u8",
+        "isActive": true,
+        "channelID": 48,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 49,
+    "name": "Greek TV London",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "49_0",
+        "name": "Greek TV London",
+        "url": "https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8",
+        "isActive": true,
+        "channelID": 49,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 50,
+    "name": "MESSATIDA TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "50_0",
+        "name": "MESSATIDA TV",
+        "url": "https://vod.streams.ovh:3037/stream/play.m3u8",
+        "isActive": true,
+        "channelID": 50,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 51,
+    "name": "MGR TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "51_0",
+        "name": "MGR TV",
+        "url": "https://vod.streams.ovh:3876/stream/play.m3u8",
+        "isActive": true,
+        "channelID": 51,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 52,
+    "name": "Nea TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "52_0",
+        "name": "Nea TV",
+        "url": "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8",
+        "isActive": true,
+        "channelID": 52,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 53,
+    "name": "Star",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "53_0",
+        "name": "Star",
+        "url": "https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8",
+        "isActive": true,
+        "channelID": 53,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 54,
+    "name": "TV Creta",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "54_0",
+        "name": "TV Creta",
+        "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
+        "isActive": true,
+        "channelID": 54,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 55,
+    "name": "Balaton TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "55_0",
+        "name": "Balaton TV",
+        "url": "https://stream.iptvservice.eu/hls/balatontv.m3u8",
+        "isActive": true,
+        "channelID": 55,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 56,
+    "name": "Bonum TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "56_0",
+        "name": "Bonum TV",
+        "url": "https://stream.y5.hu/stream/stream_bonum/stream.m3u8",
+        "isActive": true,
+        "channelID": 56,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 57,
+    "name": "Halom TV - github.com/Free-IPTV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "57_0",
+        "name": "Halom TV - github.com/Free-IPTV",
+        "url": "http://stream.battanet.hu:8080/hls/livestream1/1_2/index.m3u8",
+        "isActive": true,
+        "channelID": 57,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 58,
+    "name": "TV7 Bekescsaba",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "58_0",
+        "name": "TV7 Bekescsaba",
+        "url": "https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8",
+        "isActive": true,
+        "channelID": 58,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 59,
+    "name": "VTV Füzesabony",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "59_0",
+        "name": "VTV Füzesabony",
+        "url": "https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8",
+        "isActive": true,
+        "channelID": 59,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 60,
+    "name": "Ashrafi Channel",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "60_0",
+        "name": "Ashrafi Channel",
+        "url": "http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8",
+        "isActive": true,
+        "channelID": 60,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 61,
+    "name": "B4U Kadak",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "61_0",
+        "name": "B4U Kadak",
+        "url": "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com",
+        "isActive": true,
+        "channelID": 61,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 62,
+    "name": "Channel NewsAsia",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "62_0",
+        "name": "Channel NewsAsia",
+        "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+        "isActive": true,
+        "channelID": 62,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 63,
+    "name": "Dunya News",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "63_0",
+        "name": "Dunya News",
+        "url": "http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8",
+        "isActive": true,
+        "channelID": 63,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 64,
+    "name": "Hulchul TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "64_0",
+        "name": "Hulchul TV",
+        "url": "http://cdn12.henico.net:8080/live/jbani/index.m3u8",
+        "isActive": true,
+        "channelID": 64,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 65,
+    "name": "Prime Canada TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "65_0",
+        "name": "Prime Canada TV",
+        "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8",
+        "isActive": true,
+        "channelID": 65,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 66,
+    "name": "Al-Sharqiya",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "66_0",
+        "name": "Al-Sharqiya",
+        "url": "https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w1408191520.m3u8",
+        "isActive": true,
+        "channelID": 66,
+        "status": "可用"
+      },
+      {
+        "id": "66_1",
+        "name": "Al-Sharqiya News",
+        "url": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist_w449457930.m3u8",
+        "isActive": true,
+        "channelID": 66,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 67,
+    "name": "Al-Rasheed",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "67_0",
+        "name": "Al-Rasheed",
+        "url": "https://media1.livaat.com/AL-RASHEED-HD/tracks-v1a1/mono.m3u8",
+        "isActive": true,
+        "channelID": 67,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 68,
+    "name": "Dijlah Tarab",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "68_0",
+        "name": "Dijlah Tarab",
+        "url": "https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8",
+        "isActive": true,
+        "channelID": 68,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 69,
+    "name": "Dijlah TV - github.com/Free-IPTV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "69_0",
+        "name": "Dijlah TV - github.com/Free-IPTV",
+        "url": "https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8",
+        "isActive": true,
+        "channelID": 69,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 70,
+    "name": "Aurora Arte",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "70_0",
+        "name": "Aurora Arte",
+        "url": "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8",
+        "isActive": true,
+        "channelID": 70,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 71,
+    "name": "Lucania Channel",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "71_0",
+        "name": "Lucania Channel",
+        "url": "http://wms.shared.streamshow.it/lucaniatv/mp4:lucaniatv/chunklist_w852349934.m3u8",
+        "isActive": true,
+        "channelID": 71,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 72,
+    "name": "RTV San Marino",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "72_0",
+        "name": "RTV San Marino",
+        "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8",
+        "isActive": true,
+        "channelID": 72,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 73,
+    "name": "Stereo 5 TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "73_0",
+        "name": "Stereo 5 TV",
+        "url": "https://stream1.aswifi.it/stereo5/live/index.m3u8",
+        "isActive": true,
+        "channelID": 73,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 74,
+    "name": "TeleVideo Agrigento",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "74_0",
+        "name": "TeleVideo Agrigento",
+        "url": "https://59d7d6f47d7fc.streamlock.net/tva/tva/chunklist_w2057719642.m3u8",
+        "isActive": true,
+        "channelID": 74,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 75,
+    "name": "TV7 News",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "75_0",
+        "name": "TV7 News",
+        "url": "http://217.61.26.46:8080/hls/news.m3u8",
+        "isActive": true,
+        "channelID": 75,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 76,
+    "name": "TV7 Triveneta",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "76_0",
+        "name": "TV7 Triveneta",
+        "url": "http://217.61.26.46:8080/hls/triveneta.m3u8",
+        "isActive": true,
+        "channelID": 76,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 77,
+    "name": "QVC Japan  - github.com/Free-IPTV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "77_0",
+        "name": "QVC Japan  - github.com/Free-IPTV",
+        "url": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8",
+        "isActive": true,
+        "channelID": 77,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 78,
+    "name": "Tokyo MX1",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "78_0",
+        "name": "Tokyo MX1",
+        "url": "https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8",
+        "isActive": true,
+        "channelID": 78,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 79,
+    "name": "Tokyo MX2",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "79_0",
+        "name": "Tokyo MX2",
+        "url": "https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8",
+        "isActive": true,
+        "channelID": 79,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 80,
+    "name": "Kommu TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "80_0",
+        "name": "Kommu TV",
+        "url": "http://31.10.19.12:8066/live/999/0.m3u8",
+        "isActive": true,
+        "channelID": 80,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 81,
+    "name": "Meer TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "81_0",
+        "name": "Meer TV",
+        "url": "http://593aed234297b.streamlock.net/meervandaag/meervandaag/chunklist_w733465808.m3u8",
+        "isActive": true,
+        "channelID": 81,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 82,
+    "name": "Omroep Tilburg",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "82_0",
+        "name": "Omroep Tilburg",
+        "url": "https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/chunklist_w1521128841_b1894400_slNLD.m3u8",
+        "isActive": true,
+        "channelID": 82,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 83,
+    "name": "RTV Amstelveen",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "83_0",
+        "name": "RTV Amstelveen",
+        "url": "https://live.rtva.nl/live/zender.m3u8",
+        "isActive": true,
+        "channelID": 83,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 84,
+    "name": "TV Valkenburg",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "84_0",
+        "name": "TV Valkenburg",
+        "url": "https://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8",
+        "isActive": true,
+        "channelID": 84,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 85,
+    "name": "4FUN TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "85_0",
+        "name": "4FUN TV",
+        "url": "https://stream.4fun.tv:8888/hls/4f_med/index.m3u8",
+        "isActive": true,
+        "channelID": 85,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 86,
+    "name": "Telewizja Regionalna TVT",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "86_0",
+        "name": "Telewizja Regionalna TVT",
+        "url": "http://gargoyle.tomkow.pl/hls/tvt.m3u8",
+        "isActive": true,
+        "channelID": 86,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 87,
+    "name": "Telewizja Republika",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "87_0",
+        "name": "Telewizja Republika",
+        "url": "https://ec28-waw1.waw2.cache.orange.pl/jupiter/o2-cl7/ssl/live/tvrepublika/live-tvrepublika-450k.m3u8",
+        "isActive": true,
+        "channelID": 87,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 88,
+    "name": "TV K Kujawy",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "88_0",
+        "name": "TV K Kujawy",
+        "url": "http://stream.tvkujawy.pl:8080/live/broadcast.m3u8",
+        "isActive": true,
+        "channelID": 88,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 89,
+    "name": "JOJ",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "89_0",
+        "name": "JOJ",
+        "url": "https://nn.geo.joj.sk/hls/joj-720.m3u8",
+        "isActive": true,
+        "channelID": 89,
+        "status": "可用"
+      },
+      {
+        "id": "89_1",
+        "name": "JOJ Family",
+        "url": "https://nn.geo.joj.sk/hls/family-540.m3u8",
+        "isActive": true,
+        "channelID": 89,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 90,
+    "name": "LocAll",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "90_0",
+        "name": "LocAll",
+        "url": "http://tv.geniusnet.sk:8081/localltv/pl.m3u8",
+        "isActive": true,
+        "channelID": 90,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 91,
+    "name": "Plus",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "91_0",
+        "name": "Plus",
+        "url": "https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8",
+        "isActive": true,
+        "channelID": 91,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 92,
+    "name": "Severka TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "92_0",
+        "name": "Severka TV",
+        "url": "http://88.212.7.11/live/test_severka_web_player/playlist.m3u8",
+        "isActive": true,
+        "channelID": 92,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 93,
+    "name": "Ahi TV Kirsehir",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "93_0",
+        "name": "Ahi TV Kirsehir",
+        "url": "http://yayin3.canlitv.com:1935/canlitv/ahitv/chunklist.m3u8",
+        "isActive": true,
+        "channelID": 93,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 94,
+    "name": "ASTV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "94_0",
+        "name": "ASTV",
+        "url": "https://waw2.artiyerelmedya.net/astv/bant1/chunks.m3u8",
+        "isActive": true,
+        "channelID": 94,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 95,
+    "name": "Berat TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "95_0",
+        "name": "Berat TV",
+        "url": "https://cdn-berattv.yayin.com.tr/berattv/berattv/chunklist_w401133734.m3u8",
+        "isActive": true,
+        "channelID": 95,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 96,
+    "name": "Besiktas Web TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "96_0",
+        "name": "Besiktas Web TV",
+        "url": "https://s01.vpis.io/besiktas/besiktas.m3u8",
+        "isActive": true,
+        "channelID": 96,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 97,
+    "name": "Beyaz TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "97_0",
+        "name": "Beyaz TV",
+        "url": "https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8",
+        "isActive": true,
+        "channelID": 97,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 98,
+    "name": "BRTV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "98_0",
+        "name": "BRTV",
+        "url": "https://waw2.artiyerelmedya.net/brtv/bant1/chunks.m3u8",
+        "isActive": true,
+        "channelID": 98,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 99,
+    "name": "Can TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "99_0",
+        "name": "Can TV",
+        "url": "http://canbroadcast.com:7000/canlican/tv.m3u8",
+        "isActive": true,
+        "channelID": 99,
+        "status": "可用"
+      },
+      {
+        "id": "99_1",
+        "name": "Mercan TV",
+        "url": "https://waw2.artiyerelmedya.net/mercantv/bant1/chunks.m3u8",
+        "isActive": true,
+        "channelID": 99,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 2
+  },
+  {
+    "id": 100,
+    "name": "Ciftci Tv",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "100_0",
+        "name": "Ciftci Tv",
+        "url": "https://waw2.artiyerelmedya.net/ciftcitv/bant1/chunks.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0",
+        "isActive": true,
+        "channelID": 100,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 101,
+    "name": "DIM TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "101_0",
+        "name": "DIM TV",
+        "url": "https://waw2.artiyerelmedya.net/dimtv/bant1/chunks.m3u8",
+        "isActive": true,
+        "channelID": 101,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 102,
+    "name": "Dost TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "102_0",
+        "name": "Dost TV",
+        "url": "https://dost.stream.emsal.im/tv/live.m3u8",
+        "isActive": true,
+        "channelID": 102,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 103,
+    "name": "ER TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": true,
+    "channels": [
+      {
+        "id": "103_0",
+        "name": "ER TV",
+        "url": "https://waw2.artiyerelmedya.net/ertv/bant1/chunks.m3u8",
+        "isActive": true,
+        "channelID": 103,
+        "status": "可用"
+      },
+      {
+        "id": "103_1",
+        "name": "Leominster TV Educational",
+        "url": "http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8",
+        "isActive": true,
+        "channelID": 103,
+        "status": "可用"
+      },
+      {
+        "id": "103_2",
+        "name": "Leominster TV Government",
+        "url": "http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8",
+        "isActive": true,
+        "channelID": 103,
+        "status": "可用"
+      },
+      {
+        "id": "103_3",
+        "name": "Leominster TV Public",
+        "url": "http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8",
+        "isActive": true,
+        "channelID": 103,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 4
+  },
+  {
+    "id": 104,
+    "name": "ETV Manisa",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "104_0",
+        "name": "ETV Manisa",
+        "url": "https://broadcasttr.com:446/manisaetv/bant1/chunklist.m3u8",
+        "isActive": true,
+        "channelID": 104,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 105,
+    "name": "Gaziantep Olay Tv",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "105_0",
+        "name": "Gaziantep Olay Tv",
+        "url": "https://waw2.artiyerelmedya.net/olaytv/bant1/chunks.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0",
+        "isActive": true,
+        "channelID": 105,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 106,
+    "name": "TGRT EU",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "106_0",
+        "name": "TGRT EU\t",
+        "url": "https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8",
+        "isActive": true,
+        "channelID": 106,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 107,
+    "name": "Guneydoğu TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "107_0",
+        "name": "Guneydoğu TV",
+        "url": "http://stream2.taksimbilisim.com:1935/gtv/bant1/chunklist.m3u8",
+        "isActive": true,
+        "channelID": 107,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 108,
+    "name": "Icel TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "108_0",
+        "name": "Icel TV",
+        "url": "https://broadcasttr.com:446/iceltv/bant1/chunklist_w1752343703.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0",
+        "isActive": true,
+        "channelID": 108,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 109,
+    "name": "KANAL AVRUPA",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "109_0",
+        "name": "KANAL AVRUPA",
+        "url": "http://51.15.2.151/hls/kanalavrupa.m3u8",
+        "isActive": true,
+        "channelID": 109,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 110,
+    "name": "Kanal 7 Avrupa",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "110_0",
+        "name": "Kanal 7 Avrupa HD",
+        "url": "https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8",
+        "isActive": true,
+        "channelID": 110,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 111,
+    "name": "Kanal 68",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "111_0",
+        "name": "Kanal 68",
+        "url": "https://waw2.artiyerelmedya.net/kanal68/bant1/chunks.m3u8?hash=3e0bbf2c55e462f4edf05c003ecdfcb6",
+        "isActive": true,
+        "channelID": 111,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 112,
+    "name": "Kanal Z",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "112_0",
+        "name": "Kanal Z",
+        "url": "https://waw2.artiyerelmedya.net/kanalz/bant1/chunks.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0",
+        "isActive": true,
+        "channelID": 112,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 113,
+    "name": "Kent Deha TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "113_0",
+        "name": "Kent Deha TV",
+        "url": "https://waw2.artiyerelmedya.net/dehatv/bant1/chunks.m3u8",
+        "isActive": true,
+        "channelID": 113,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 114,
+    "name": "Kent TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "114_0",
+        "name": "Kent TV",
+        "url": "https://waw2.artiyerelmedya.net/38kenttv/bant1/chunks.m3u8",
+        "isActive": true,
+        "channelID": 114,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 115,
+    "name": "Life TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "115_0",
+        "name": "Life TV",
+        "url": "https://waw2.artiyerelmedya.net/lifetv/bant1/chunks.m3u8",
+        "isActive": true,
+        "channelID": 115,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 116,
+    "name": "Mavi Karadeniz TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "116_0",
+        "name": "Mavi Karadeniz TV",
+        "url": "https://waw2.artiyerelmedya.net/mavikaradeniz/bant1/chunks.m3u8",
+        "isActive": true,
+        "channelID": 116,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 117,
+    "name": "Öncü TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "117_0",
+        "name": "Öncü TV",
+        "url": "https://broadcasttr.com:446/oncurtv/bant1/chunklist_w882499504.m3u8",
+        "isActive": true,
+        "channelID": 117,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 118,
+    "name": "Sat7 Türk",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "118_0",
+        "name": "Sat7 Türk",
+        "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_720p/chunks_dvr.m3u8",
+        "isActive": true,
+        "channelID": 118,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 119,
+    "name": "Semerkand TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "119_0",
+        "name": "Semerkand TV",
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/chunklist_b500000.m3u8",
+        "isActive": true,
+        "channelID": 119,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 120,
+    "name": "Sinop Yildiz TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "120_0",
+        "name": "Sinop Yildiz TV",
+        "url": "https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8",
+        "isActive": true,
+        "channelID": 120,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 121,
+    "name": "Show TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "121_0",
+        "name": "Show TV",
+        "url": "https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8",
+        "isActive": true,
+        "channelID": 121,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 122,
+    "name": "tivi TÜRK",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "122_0",
+        "name": "tivi TÜRK",
+        "url": "https://stream.tiviturk.de/live/tiviturk.m3u8",
+        "isActive": true,
+        "channelID": 122,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 123,
+    "name": "TRT Çocuk",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "123_0",
+        "name": "TRT Çocuk",
+        "url": "http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8",
+        "isActive": true,
+        "channelID": 123,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 124,
+    "name": "TV4 HD Türkiye",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "124_0",
+        "name": "TV4 HD Türkiye",
+        "url": "https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8",
+        "isActive": true,
+        "channelID": 124,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 125,
+    "name": "TV 52",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "125_0",
+        "name": "TV 52",
+        "url": "https://broadcasttr.com:446/tv52/bant1/chunklist_w846204715.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0",
+        "isActive": true,
+        "channelID": 125,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 126,
+    "name": "TV A",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "126_0",
+        "name": "TV A",
+        "url": "https://waw2.artiyerelmedya.net/tva/bant1/chunks.m3u8?hash=2ed1974639ec674a33ed440298136dcd",
+        "isActive": true,
+        "channelID": 126,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 127,
+    "name": "TVnet",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "127_0",
+        "name": "TVnet",
+        "url": "https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8",
+        "isActive": true,
+        "channelID": 127,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 128,
+    "name": "UçanKuş TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "128_0",
+        "name": "UçanKuş TV",
+        "url": "https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8",
+        "isActive": true,
+        "channelID": 128,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 129,
+    "name": "VTV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "129_0",
+        "name": "VTV",
+        "url": "https://waw2.artiyerelmedya.net/kanalv/bant1/chunks.m3u8",
+        "isActive": true,
+        "channelID": 129,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 131,
+    "name": "92 News UK",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "131_0",
+        "name": "92 News UK",
+        "url": "https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8",
+        "isActive": true,
+        "channelID": 131,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 132,
+    "name": "Arise News",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "132_0",
+        "name": "Arise News",
+        "url": "http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8",
+        "isActive": true,
+        "channelID": 132,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 133,
+    "name": "CGTN",
+    "isActive": true,
+    "group": "央视",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "133_0",
+        "name": "CGTN ",
+        "url": "http://live.cgtn.com/500/prog_index.m3u8",
+        "isActive": true,
+        "channelID": 133,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 134,
+    "name": "Filmon 360",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "134_0",
+        "name": "Filmon 360",
+        "url": "https://www.filmon.com/vr-streams/4136.high/playlist.m3u8",
+        "isActive": true,
+        "channelID": 134,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 135,
+    "name": "Sheffield Live TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "135_0",
+        "name": "Sheffield Live TV",
+        "url": "http://tv.sheffieldlive.org/hls/main.m3u8",
+        "isActive": true,
+        "channelID": 135,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 136,
+    "name": "American Kennel Club",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "136_0",
+        "name": "American Kennel Club",
+        "url": "https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8",
+        "isActive": true,
+        "channelID": 136,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 137,
+    "name": "AWE",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "137_0",
+        "name": "AWE",
+        "url": "http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8",
+        "isActive": true,
+        "channelID": 137,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 138,
+    "name": "Chive TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "138_0",
+        "name": "Chive TV",
+        "url": "http://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8",
+        "isActive": true,
+        "channelID": 138,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 139,
+    "name": "Fido TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "139_0",
+        "name": "Fido TV",
+        "url": "http://n1.klowdtv.net/live3/fido_720p/chunks.m3u8",
+        "isActive": true,
+        "channelID": 139,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 140,
+    "name": "HUMRAAZ TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "140_0",
+        "name": "HUMRAAZ TV",
+        "url": "http://cdn61.liveonlineservices.com/hls/humraaz.m3u8",
+        "isActive": true,
+        "channelID": 140,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 141,
+    "name": "OAN Encore",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "141_0",
+        "name": "OAN Encore",
+        "url": "https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/512x288_875600/index.m3u8",
+        "isActive": true,
+        "channelID": 141,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 142,
+    "name": "One America News",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "142_0",
+        "name": "One America News",
+        "url": "http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8",
+        "isActive": true,
+        "channelID": 142,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 143,
+    "name": "Pop",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "143_0",
+        "name": "Pop",
+        "url": "http://n1.klowdtv.net/live2/pop_720p/chunks.m3u8",
+        "isActive": true,
+        "channelID": 143,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 144,
+    "name": "QVC Live",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "144_0",
+        "name": "QVC Live",
+        "url": "http://n1.klowdtv.net/live2/qvclive_720p/chunks.m3u8",
+        "isActive": true,
+        "channelID": 144,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 145,
+    "name": "Youtoo America",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "145_0",
+        "name": "Youtoo America",
+        "url": "https://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b1128000.m3u8",
+        "isActive": true,
+        "channelID": 145,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 146,
+    "name": "CCX Media - Minnesota",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "146_0",
+        "name": "CCX Media - Minnesota",
+        "url": "http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8",
+        "isActive": true,
+        "channelID": 146,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 147,
+    "name": "DC Council Channel",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "147_0",
+        "name": "DC Council Channel",
+        "url": "http://video.oct.dc.gov/out/u/15_12.m3u8",
+        "isActive": true,
+        "channelID": 147,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 148,
+    "name": "HTV 1 - Houston Television",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "148_0",
+        "name": "HTV 1 - Houston Television",
+        "url": "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8",
+        "isActive": true,
+        "channelID": 148,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 149,
+    "name": "Southeastern Channel",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "149_0",
+        "name": "Southeastern Channel",
+        "url": "http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8",
+        "isActive": true,
+        "channelID": 149,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 150,
+    "name": "TSTV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "150_0",
+        "name": "TSTV",
+        "url": "http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8",
+        "isActive": true,
+        "channelID": 150,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 151,
+    "name": "White Plains Community Media",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "151_0",
+        "name": "White Plains Community Media",
+        "url": "http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8",
+        "isActive": true,
+        "channelID": 151,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 152,
+    "name": "Honor TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "152_0",
+        "name": "Honor TV",
+        "url": "https://a.jsrdn.com/broadcast/d5b48/+0000/high/c.m3u8",
+        "isActive": true,
+        "channelID": 152,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 153,
+    "name": "Monarch TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "153_0",
+        "name": "Monarch TV",
+        "url": "https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8",
+        "isActive": true,
+        "channelID": 153,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  },
+  {
+    "id": 154,
+    "name": "Movie Kingdom TV",
+    "isActive": true,
+    "group": "其他",
+    "hasChildren": false,
+    "channels": [
+      {
+        "id": "154_0",
+        "name": "Movie Kingdom TV",
+        "url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8",
+        "isActive": true,
+        "channelID": 154,
+        "status": "可用"
+      }
+    ],
+    "status": "可用",
+    "hasCheckedNum": 1
+  }
+]

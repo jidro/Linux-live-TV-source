@@ -1,2 +1,0 @@
-#! /bin/sh
-/usr/lib/firefox-esr/firefox-esr %u https://www.1905.com/cctv6/live/

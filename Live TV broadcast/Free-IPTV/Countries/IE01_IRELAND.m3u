@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="*** IRELAND - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/IF4p2pM.png" group-title="IRELAND",*** IRELAND - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="RTE News Now" tvg-id="RTENewsNow.ie" group-title="IRELAND" tvg-logo="https://i.imgur.com/ySHyGRQ.png",RTE News Now
-https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
-#EXTINF:-1 tvg-name="TG4 IE" tvg-id="" tvg-logo="https://i.imgur.com/TT9kAEp.png" group-title="IRELAND",TG4 IE
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8

@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="*** LIECHTENSTEIN - github.com/Free-IPTV" group-title="LIECHTENSTEIN" tvg-logo="https://i.imgur.com/Cs6U2K4.png",*** LIECHTENSTEIN - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-name="Kommu TV" tvg-id="KommuTV.li" group-title="LIECHTENSTEIN" tvg-logo="https://i.imgur.com/hNA8pC9.png",Kommu TV
-http://31.10.19.12:8066/live/999/0.m3u8

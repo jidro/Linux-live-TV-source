@@ -1,2 +1,0 @@
-#! /bin/sh
-/usr/lib/firefox-esr/firefox-esr %u http://tv.cctv.com/live/

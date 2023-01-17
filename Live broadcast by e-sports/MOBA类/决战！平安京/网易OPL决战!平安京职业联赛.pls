@@ -1,6 +1,0 @@
-[playlist]
-NumberOfEntries=2
-File1=https://txdirect.flv.huya.com/huyalive/78941969-2639365894-11335990196907802624-3120368178-10057-A-0-1.flv?wsSecret=5dc085492a5b553c0ff29b1ad78a5965&wsTime=5fb798cd&seqid=1605867729382&ctyp=huya_tars&fs=bgct&u=0&t=100&sv=2011191002
-Title1=OPL HUYA Live
-File2=https://3graurmt18yzdrcb1fa3do.ourdvsss.com/pull.cc.netease.com/pushstation/206a70371ebb3abc589d3987817.flv?wsSecret=6ccb115ae77f8352b6f9cb2b3eba5f18&wsTime=5fb797c2&wsiphost=ipdbme&wshc_tag=0&wsts_tag=5fb797c3&wsid_tag=6f11a792
-Title2=OPL CC Live
