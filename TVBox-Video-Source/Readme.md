@@ -1,451 +1,262 @@
-# TVbox配置接口分享
+# 使用说明:
 
-## TVBox接口导航：
+> **前提：**
+> 
+> 使用的`APP`支持多源仓库。
 
-- 月光宝盒BOX -导航
-  
-  https://ygbhbox.xyz/
-  
-- 肥猫 | ✎ℳ𝓪𝓸
-  
-  https://肥猫.love/
-  
-- 饭太硬 | 导航
-  
-  https://饭太硬.top/
-  
-- 大聪明 | 应用边界 - 星辰大海 不负遇见
-  
-  https://yydsys.top/
-  
+在设置内给予软件存储权限，
 
-## TVBox接口：
+下载本地包，
 
-> 这几个接口地址随便挑一个来用即可
+将名为`TVBox`解压后的本地包复制到设备根目录（内部储存）。
 
-- https://raw.liucn.cc/box/m.json
-  
-- https://raw.liucn.cc/box/xiaopingguo.json
-  
-- https://agit.ai/liucn/box/raw/branch/main/m.json
-  
-- https://liu673cn.github.io/box/m.json
-  
-- https://raw.iqiq.io/liu673cn/box/main/m.json
-  
-- https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json
-  
-- https://dxawi.github.io/0/0.json
-  
-- https://download.kstore.space/download/2863/01.txt
-  
-- https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
-  
-- https://cdn.jsdelivr.net/gh/chengxueli818913/maoTV@main/44.txt
-  
-- https://freed.yuanhsing.cf/TVBox/meowcf.json
-  
-- https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json
-  
-- https://pastebin.com/raw/gtbKvnE1
-  
-- https://pastebin.com/raw/sbPpDm9G
-  
-- https://cdn.jsdelivr.net/gh/GaiVmao/dianshiyuan@main/yuan2.txt
-  
-- https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json
-  
-- https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json
-  
-- https://agit.ai/hu/hcr/raw/branch/master/MMM.txt
-  
-- https://freed.yuanhsing.cf/TVBox/meowcf.json
-  
-- https://github.com/YuanHsing/freed/raw/master/TVBox/meow.json
-  
-- https://dxawi.github.io/0/0.json
-  
-- https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json
-  
-- https://leezn.github.io/TVBox/py.json
-  
-- https://leezn.github.io/TVBox/js.json
-  
-- http://home.jundie.top:81/top98.json
-  
-- http://pandown.pro/tvbox/tvbox.json
-  
-- https://try.gitea.io/xcxc8/mytv/raw/branch/main/TV.json
-  
-- https://agit.ai/hu/hcr/raw/branch/master/MMM.txt
-  
-- http://52bsj.vip:98/wuai
-  
+> **注意：**
+> 
+> 根据下载方式或解压方式的不同，
+> 
+> 下载的本地包可能需重命名为`TVBox`。
 
-> ……
+> **注意：**
+> 
+> 本地包解压后若是文件夹，则不用新建`TVBox`文件夹，重命名为`TVBox`即可，
+> 
+> 若解压后是多个文件夹和文件，则需新建名为`TVBox`的文件夹，
+> 
+> 将解压后的多个文件夹和文件复制或移动到新建文件夹`TVBox`内。
 
-- https://freed.yuanhsing.cf/TVBox/meowcf.json
+> **注意：**
+> 
+> 电视上使用本地包要安装小白文件管理器操作。
+> 
+> 用U盘复制解压后的本地包到电视根目录。
+> 
+> 小白文件管理器进入后选全部，选本机磁盘，进去第一层就是根目录。
+> 
+> 复制完成后不要急于拔出U盘，需等待一段时间完成文件写入。
+
+保证本地包解压后的文件都在设备根目录的名为`TVBox`内。
+
+本地包放置到设备根目录后就可以到软件内输入链接了，
+
+重置APP后点击首页的"仓库"或者"配置"，
+
+扫码输入链接地址。
+
+> **提示：**
+> 
+> 仓库名字随便取，
+> 
+> 也可以为空不填。
+
+> **注意：**
+> 
+> 手机和电视要在同一个局域网内，
+> 
+> 且同频段2.4G或5G网络。
+
+用手机自带浏览器扫描二维码，
+
+在当前界面点选右下角"仓库推送"，
+
+> **提示：**
+> 
+> 没有"仓库推送"就选"配置"，
+
+按要求在第二栏添加本地仓库链接。
+
+链接在本说明的“多仓配置接口”处复制，
+
+复制时不要有空格。
+
+## 不用U盘配置TVBox多仓版本地接口的方法
+
+- 在手机上下载本地接口包后备用。
+
+- 在手机和盒子（或者电视机）双端安装上超卓文件管理器或ES文件浏览器。
+
+- 通过超卓浏览器上传或ES中的“快传”功能将已在手机端的本地接口压缩包传送到盒子（或者电视机）上。
+
+- 解压到内部储存或esShare文件夹内。
+
+- 将解压后的文件夹重命名为`TVBox`。
   
-- https://0a.fit/ewKZv
-  
-- https://pastebin.com/raw/gtbKvnE1
-  
-- https://la.kstore.space/download/3376/001.txt
-  
-- https://la.kstore.space/download/3376/xpg.txt
-  
-- https://la.kstore.space/download/3376/fns.txt
-  
-- 家庭接口(戏曲、相声、动画、央视、书法、艺术等等)
-  
-  https://gitee.com/haitang123/abc/raw/master/o.bmp
-  
-- 七七
-  
-  https://gitee.com/liugd1005/home-tvbox/raw/master/gg1005.json.
-  
-- 接口短链：
-  
-  http://gg.gg/gg1005
-  
-  或
-  
-  http://52bsj.vip:98/gg1005
-  
-  > gg.gg服务器不稳定，
+  > **注意：**
   > 
-  > 两个短链可以切换使用，
+  > 注意字母大小写。
+
+- 打开主目录下的内部储存或`esShare`文件夹将本地接口文件夹拷贝后粘贴到内部储存或主目录下。
+  
+  > **提示：**
   > 
-  > 或直接使用七七长链。
-  
-- 下面两个是多仓版(可视TV Max)的接口，tvbox应该也通用
-  
-  https://raw.liucn.cc/box/dm.txt
-  
-  https://itvbox.cc/可视TV/云星日记/仓库.json
-  
-- 下面两个是多仓版魔改版本(影视仓)的接口
-  
-  备用
-  
-  http://tv.nxog.top/
-  
-  主线
-  
-  https://agit.ai/n/b/raw/branch/master/o/n.json
-  
-- https://freed.yuanhsing.cf/TVBox/meowcf.json
-  
-- http://byyds.top/w.txt
-  
-- https://0a.fit/ewKZv
-  
-- https://pastebin.com/raw/gtbKvnE1
-  
+  > 亦可解压到内部储存目录
+  > 
+  > 再重命名文件夹。
 
-> ……
+- 打开`TVBox`（或者其他`TVBox改版`），在首页点击仓库，用浏览器扫码后推送。
+  
+  > 推送：`clan://<localhost>/TVBox/<name.json>`即可。
+  > 
+  > 推送路径说明：
+  > 
+  > `localhost` → 盒子（或者电视机）根目录名；
+  > `TVBox` → 本地包文件夹名；
+  > `name.json` →本地接口文件夹内的配置文件名。
 
-- https://freed.yuanhsing.cf/TVBox/meowcf.json
-  
-- https://agit.ai/guot54/ygbh/raw/branch/master/xpg.json
-  
-- https://gitee.com/liugd1005/home-tvbox/raw/master/gg1005.json
-  
+## 单仓使用方法:
 
-### TVBox多仓版仓库链接填写和多仓接口
+- 在设置中给软件存储权限。
 
-- https://raw.liucn.cc/box/dm.txt
-  
+- 下载本地包。
 
-> ……
+- 把名为TVBox解压后的本地包放到设备根目录里。
 
-- https://box.nxog.top/d2
-  
-- https://box.nxog.top/d1
-  
-- http://tv.nxog.top/d1/
-  
-- http://tv.nxog.top/d2/
-  
-- http://tv.nxog.top/d3/
-  
+- 在设置中”配置地址“里面填写该格式的链接：`clan://<localhost>/TVBox/<xx.json>`。
 
-> **名称一定要写“多仓”两字，**
+- 即可使用本地配置了。
+  
+  > **注意：**
+  > 
+  > 接口可复制本说明中”接口配置“或”半本地接口“里的链接。
+  > 
+  > "xx"代表接口文件名。
+  > 
+  > 上面链接仅举例不可用！！！
+
+## 查找阿里`token`方法：
+
+- 手机端下载安装阿里云盘APP。
+
+- 注册账号并登陆。
+  
+  > **提示：**
+  > 
+  > 登陆后可退出APP。
+
+- 打开手机文件管理器按照下面路径查找`token`码。    
+  
+  手机找到路径：
+  
+  `Android` -> `data` -> `com.alicloud.databox` -> `files` -> `logs` ->
+   `trace` -> `网盘useid` -> `yunpan中的“网盘userid”` 
+  
+  > **注意：**
+  > 
+  > `yunpan中的“网盘userid”`一般为一串数字，
+  > 
+  > 若登录过多个网盘账号，
+  > 
+  > `trace` 这个文件夹内就会有多个`网盘ID`最终在对应网盘的`yunpan`文件夹里面，
+  > 
+  > 会看到很多`log`结尾的文件，
+  > 
+  > 这就是登录的日志文件，
+  > 
+  > 点击查看最新日期的`log`日志文件，
+  > 
+  > 查找 `refreshToken` 后面则是`你的token` 。
+
+### 本地包替换路径是 :
+
+`内部储存/TVBox/jar/alitoken.txt`
+
+将`32位编码`替换成`自己的token`。
+
+
+## 接口配置：
+
+### 纯本地接口：
+
+```shell
+clan://localhost/TVBox/lib/无忧TV.json
+clan://localhost/TVBox/lib/无忧.json
+clan://localhost/TVBox/lib/无忧ali.json
+clan://localhost/TVBox/lib/弯弯.json
+clan://localhost/TVBox/Hk/XYQTVBox.txt
+clan://localhost/TVBox/JS/js.json
+clan://localhost/TVBox/py/py.txt
+clan://localhost/TVBox/lib/动漫.txt
+clan://localhost/TVBox/lib/云星家庭.json
+clan://localhost/TVBox/lib/云星哔哩.json
+clan://localhost/TVBox/lib/云星阿里.json
+clan://localhost/TVBox/lib/肥猫.txt
+clan://localhost/TVBox/lib/无名1.txt
+clan://localhost/TVBox/lib/夜魔.txt
+clan://localhost/TVBox/lib/cms.txt
+```
+
+### 半本地接口：
+
+```shell
+clan://localhost/TVBox/lib/运输车.txt
+clan://localhost/TVBox/lib/菜妮丝.txt
+clan://localhost/TVBox/lib/巧计.txt
+clan://localhost/TVBox/lib/唐三.txt
+clan://localhost/TVBox/lib/俊佬.txt
+clan://localhost/TVBox/lib/老刘备.json
+clan://localhost/TVBox/lib/多多.txt
+clan://localhost/TVBox/lib/南风XC.json
+clan://localhost/TVBox/lib/月光.json
+clan://localhost/TVBox/lib/分享者.json
+clan://localhost/TVBox/lib/饭太硬.txt
+clan://localhost/TVBox/lib/小马.txt
+```
+
+### 多仓配置接口:
+
+> **注意：**
 > 
-> **否则无效，**
+> 以下为“本地仓库”接口，
 > 
-> **地址填写上面任意一个，**
+> 包含以上所有接口，
 > 
-> **点击确定**
-> 
-> **两个多仓接口，**
-> 
-> **二维码推送，**
-> 
-> **基本上一网打尽了**
+> 仅支持多仓版本,
 
-- http://5.nxog.top/m/dc/api/api/50/tv/update_yuan
-  
-- http://5.nxog.top/m/dc/api/api/51/tv/update_yuan
-  
-- http://rihou.cc
-  
-- http://x.rihou.cc
-  
-- https://fastly.jsdelivr.net/gh/tv189ymail/ku2023@main/A1/ck.json
-  
-- https://raw.liucn.cc/box/dm.txt
-  
-- https://gitlab.com/duomv/apps/-/raw/main/fast.json
-  
-- https://gitlab.com/duomv/apps/-/raw/main/duo.json
-  
+------
 
-- https://agit.ai/l/l/raw/branch/master/o.json
-  
-- https://agit.ai/n/b/raw/branch/master/o/n.json
-  
-- https://agit.ai/pinghui/xinghe/raw/branch/master/jiating.txt
-  
+#### 使用方法:
 
-> ……
+- 复制下面链接到软件首页，
 
-#### Github RAW 加速服务
+- 点击仓库，
 
-- 源码
-  
-  https://gitcdn.top/https://github.com/liu673cn/box/raw/main/m.json
-  
-- 香港
-  
-  https://raw.iqiq.io/liu673cn/box/main/m.json
-  
-- 新加坡
-  
-  https://raw.kgithub.com/liu673cn/box/main/m.json
-  
-- 日本
-  
-  https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json
-  
-  https://cdn.staticaly.com/gh/liu673cn/box/main/m.json
-  
-  https://raw.fastgit.org/liu673cn/box/main/m.json
-  
-- 韩国
-  
-  https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json
-  
-  https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/m.json
-  
-  https://gcore.jsdelivr.net/gh/liu673cn/box@main/m.json
-  
-  https://raw.githubusercontents.com/liu673cn/box/main/m.json
-  
+- 给仓库命名，
 
-#### Github 静态加速
+- 粘贴下面链接，
 
-- https://cdn.staticaly.com/gh/liu673cn/box/main/m.json
-  
-- https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
-  
-- https://purge.jsdelivr.net/gh/
-  
+- 点击确定。
 
-### 推荐接口：
+------
 
-- TVBox云星接口（[itv的-生活日记-itvbox云星日记](http://itvbox.cc/tvbox/%E4%BA%91%E6%98%9F%E6%97%A5%E8%AE%B0/1.m3u8)）
+- 蜂蜜TV本地（专用）：  
   
-  https://maoyingshi.cc/tvbox/云星日记/1.m3u8
-  
-  http://itvbox.cc/tvbox/云星日记/1.m3u8
-  
+  ```shell
+  file://TVBox/local-warehouse.json
+  ```
 
-- TVBox应用多多家庭版
+- 蜂蜜直播（专用）：  
   
-  https://yydsys.top/duo/v.json
-  
+  ```shell
+  file://TVBox/tv/live.txt
+  ```
 
-- TVBox饭太硬接口
+- 本地多仓 （备用）： 
   
-  http://饭太硬.ga/tv
-  
-  http://饭太硬.top/tv
-  
+  ```shell
+  clan://localhost/TVBox/local-warehouse.json
+  ```
 
-- TVBox肥猫接口
-  
-  http://我不是.肥猫.love:63/接口禁止贩卖
-  
-- js收集源
-  
-  https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
-  
-- 唐三接口
-  
-  https://hutool.ml/tang
-  
-  https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json
-  
-- dwawi线路
-  
-  http://dxawi.github.io/0/0.json
-  
-- 老刘备用
-  
-  https://raw.liucn.cc/box/m.json
-  
-- TVBox星河接口
-  
-  https://pan.css.lc/api/v3/file/get/89944/1_%E5%85%AC%E4%BC%97%E5%8F%B7%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E7%BB%B4%E6%8A%A4%E6%9B%B4%E6%96%B0.txt?sign=TK-f6wSUHkZ2A3gpMRzd7NDAJI9dvqDaJE_U-lekrVg%3D%3A0
-  
-- 南风接口
-  
-  https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
-  
-- 采妮诗
-  
-  https://tvbox.cainisi.cf
-  
-- 4K云盘接口
-  
-  http://9xi4o.tk/0725.json
-  
-- TVBox小苹果接口
-  
-  https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json
-  
-- 小雅JS接口
-  
-  http://drpy.site/js1
-  
-- 月光宝盒
-  
-  http://52bsj.vip:98/cl
-  
-  月光宝盒家庭
-  
-  https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒
-  
-  月光宝盒影视
-  
-  https://jihulab.com/ygbh1/box/-/raw/main/ys.json
-  
-- TVBbox乱世接口
-  
-  http://www.dmtv.ml/mao/single.json
-  
-- TVBox分享者
-  
-  https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8
-  
-- 不良帅
-  
-  https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8
-  
-- 蚂蚁论坛接口
-  
-  https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8
-  
-- kvymin
-  
-  https://agit.ai/kvymin/TV/raw/branch/master/Box.json
-  
-- ABC线路
-  
-  https://agit.ai/n/b/raw/branch/a/b/c.json
-  
-- zzz1线路
-  
-  https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json
-  
-- 爬虫线路
-  
-  https://tv.ouhaibo3.repl.co/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=5&jar=index2
-  
-- 道长T4 TVBox接口
-  
-  http://101.34.67.237/config/3
-  
-  https://pastebin.com/raw/5NHaxyGR
-  
-- 欧歌主线
-  
-  http://lengniuge.eu.org/box.php?url=http://1.nxog.top/nxog/ou1.php?url=http://1.nxog.top&xl=1&b=%E6%AC%A7%E6%AD%8C
-  
-- JS线路
-  
-  https://tv.ouhaibo3.repl.co/m/111.php?ou=%E6%AC%A7%E6%AD%8C&jar=XBiu&mz=XBiu&xl=5
-  
-- xbiu和xyq
-  
-  https://tv.ouhaibo3.repl.co/m/111.php?ou=%E6%AC%A7%E6%AD%8C&jar=XBiu&mz=XBiu&xl=5
-  
-- 巧计（巧儿TVBox接口）
-  
-  http://pandown.pro/tvbox/tvbox.json
-  
-  https://agit.ai/relax/adcc/raw/branch/master/tvbox.json
-  
-- 俊佬（俊哥/俊于）
-  
-  http://home.jundie.top:81/top98.json
-  
-- 莱妮丝 （XBPQ）
-  
-  https://tvbox.cainisi.cf
-  
-- 神器
-  
-  https://神器每日推送.tk/pz.json
-  
-- FongMi
-  
-  https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
-  
-  https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json
-  
-- 小米 小暴脾气
-  
-  http://xhww.fun:63/小米/DEMO.json
-  
-- 骚 0
-  
-  https://xhdwc.tk/0
-  
-- 霜辉月明 py
-  
-  https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
-  
-- 高天流云 js
-  
-  https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
-  
-  高天流云 XYQ
-  
-  https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json
-  
-- 运输车
-  
-  https://github.moeyy.xyz/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json
-  
-- 多多家庭
-  
-  https://yydsys.top/duo
-  
+- 本地+在线多仓 （优选）：  
+  
+  ```shell
+  clan://localhost/TVBox/lib/ksck.json
+  ```
 
-## 直播线路
+- 绿茶仓库（需自行添加）：  
+  
+  ```shell
+  clan://localhost/TVBox/lib/99.json
+  ```
 
-- https://tv.nxog1.repl.co/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=zb&xl=1
-  
-- https://agit.ai/hu/hcr/raw/branch/master/MMM.txt
-  
-- https://0a.fit/ewKZv
-  
-- https://pastebin.com/raw/gtbKvnE1
-  
-- https://pastebin.com/raw/sbPpDm9G
-  
-- https://wds.ecsxs.com/223843.txt
-  
-- https://tv.nxog1.repl.co/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=zb&xl=1
+------
+
+请大家认真阅读。
