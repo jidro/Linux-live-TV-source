@@ -81,6 +81,17 @@
   
 - http://52bsj.vip:98/wuai
   
+- https://raw.iqiq.io/PizazzGY/TVBox/main/api.json
+  
+  https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
+  
+  > 去广告源：
+  > 
+  > - https://raw.iqiq.io/PizazzGY/TVBox/main/api2.json
+  >   
+  > - https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api2.json
+  >   
+  
 
 > ……
 
@@ -155,7 +166,6 @@
 ### TVBox多仓版仓库链接填写和多仓接口
 
 - https://raw.liucn.cc/box/dm.txt
-  
 
 > ……
 
@@ -200,7 +210,6 @@
   
 - https://gitlab.com/duomv/apps/-/raw/main/duo.json
   
-
 - https://agit.ai/l/l/raw/branch/master/o.json
   
 - https://agit.ai/n/b/raw/branch/master/o/n.json
@@ -260,19 +269,16 @@
   
   http://itvbox.cc/tvbox/云星日记/1.m3u8
   
-
 - TVBox应用多多家庭版
   
   https://yydsys.top/duo/v.json
   
-
 - TVBox饭太硬接口
   
   http://饭太硬.ga/tv
   
   http://饭太硬.top/tv
   
-
 - TVBox肥猫接口
   
   http://我不是.肥猫.love:63/接口禁止贩卖
@@ -449,3 +455,4 @@
 - https://wds.ecsxs.com/223843.txt
   
 - https://tv.nxog1.repl.co/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=zb&xl=1
+  
