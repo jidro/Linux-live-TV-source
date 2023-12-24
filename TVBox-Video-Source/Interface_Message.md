@@ -270,6 +270,10 @@
 - [喵影视线路](http://meowtv.cn/tv)    
   
   http://meowtv.cn/tv
+
+- [Relax线路](https://agit.ai/relax/adcc/src/branch/master/tvbox.json)        
+  
+  https://agit.ai/relax/adcc/src/branch/master/tvbox.json)
   
 - [业余线路](https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json)        
   
