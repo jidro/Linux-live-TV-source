@@ -263,183 +263,82 @@
 
 ### 推荐接口：
 
-- TVBox云星接口（[itv的-生活日记-itvbox云星日记](http://itvbox.cc/tvbox/%E4%BA%91%E6%98%9F%E6%97%A5%E8%AE%B0/1.m3u8)）
+- [肥猫线路](http://肥猫.live)
+  http://肥猫.live
   
-  https://maoyingshi.cc/tvbox/云星日记/1.m3u8
+- [喵影视线路](http://meowtv.cn/tv)
+  http://meowtv.cn/tv
   
-  http://itvbox.cc/tvbox/云星日记/1.m3u8
+- [业余线路](https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json)
+  https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json
   
-- TVBox应用多多家庭版
-  
-  https://yydsys.top/duo/v.json
-  
-- TVBox饭太硬接口
-  
-  http://饭太硬.ga/tv
-  
-  http://饭太硬.top/tv
-  
-- TVBox肥猫接口
-  
-  http://我不是.肥猫.love:63/接口禁止贩卖
-  
-- js收集源
-  
-  https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
-  
-- 唐三接口
-  
-  https://hutool.ml/tang
-  
-  https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json
-  
-- dwawi线路
-  
-  http://dxawi.github.io/0/0.json
-  
-- 老刘备用
-  
-  https://raw.liucn.cc/box/m.json
-  
-- TVBox星河接口
-  
-  https://pan.css.lc/api/v3/file/get/89944/1_%E5%85%AC%E4%BC%97%E5%8F%B7%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E7%BB%B4%E6%8A%A4%E6%9B%B4%E6%96%B0.txt?sign=TK-f6wSUHkZ2A3gpMRzd7NDAJI9dvqDaJE_U-lekrVg%3D%3A0
-  
-- 南风接口
-  
-  https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
-  
-- 采妮诗
-  
-  https://tvbox.cainisi.cf
-  
-- 4K云盘接口
-  
-  http://9xi4o.tk/0725.json
-  
-- TVBox小苹果接口
-  
-  https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json
-  
-- 小雅JS接口
-  
-  http://drpy.site/js1
-  
-- 月光宝盒
-  
-  http://52bsj.vip:98/cl
-  
-  月光宝盒家庭
-  
-  https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒
-  
-  月光宝盒影视
-  
-  https://jihulab.com/ygbh1/box/-/raw/main/ys.json
-  
-- TVBbox乱世接口
-  
-  http://www.dmtv.ml/mao/single.json
-  
-- TVBox分享者
-  
-  https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8
-  
-- 不良帅
-  
-  https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8
-  
-- 蚂蚁论坛接口
-  
-  https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8
-  
-- kvymin
-  
-  https://agit.ai/kvymin/TV/raw/branch/master/Box.json
-  
-- ABC线路
-  
+- [agit/abc线路](https://agit.ai/n/b/raw/branch/a/b/c.json)
   https://agit.ai/n/b/raw/branch/a/b/c.json
   
-- zzz1线路
+- [月光宝盒](https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json)
+  https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json
   
+- [欧歌线路](http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2)
+  http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2
+  
+- [星辰线路](http://8.210.232.168/xc.json)
+  http://8.210.232.168/xc.json
+  
+- [zzz1线路](https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json)
   https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json
   
-- 爬虫线路
+- [小马线路](https://szyyds.cn/tv/x.json)
+  https://szyyds.cn/tv/x.json
   
-  https://tv.ouhaibo3.repl.co/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=5&jar=index2
+- [夜猫子](https://jihulab.com/ymz1231/xymz/-/raw/main/ymz)
+  https://jihulab.com/ymz1231/xymz/-/raw/main/ymz
   
-- 道长T4 TVBox接口
+- [高天流云](https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json)
+  https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
   
-  http://101.34.67.237/config/3
+- [南风线路](https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json)
+  https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
   
-  https://pastebin.com/raw/5NHaxyGR
+- [潇洒线路](https://cn.kstore.space/download/2863/01.txt)
+  https://cn.kstore.space/download/2863/01.txt
   
-- 欧歌主线
+- [胖鸭线路](https://agit.ai/cyl518/yl/raw/branch/master/ml.json)
+  https://agit.ai/cyl518/yl/raw/branch/master/ml.json
   
-  http://lengniuge.eu.org/box.php?url=http://1.nxog.top/nxog/ou1.php?url=http://1.nxog.top&xl=1&b=%E6%AC%A7%E6%AD%8C
+- [运输车](https://weixine.net/ysc.json)
+  https://weixine.net/ysc.json
   
-- JS线路
+- [饭太硬线路](http://饭太硬.top/tv)
+  http://饭太硬.top/tv
   
-  https://tv.ouhaibo3.repl.co/m/111.php?ou=%E6%AC%A7%E6%AD%8C&jar=XBiu&mz=XBiu&xl=5
+- [不良帅线路](https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8)
+  https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8
   
-- xbiu和xyq
+- [分享者线路](https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8)
+  https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8
   
-  https://tv.ouhaibo3.repl.co/m/111.php?ou=%E6%AC%A7%E6%AD%8C&jar=XBiu&mz=XBiu&xl=5
-  
-- 巧计（巧儿TVBox接口）
-  
-  http://pandown.pro/tvbox/tvbox.json
-  
-  https://agit.ai/relax/adcc/raw/branch/master/tvbox.json
-  
-- 俊佬（俊哥/俊于）
-  
-  http://home.jundie.top:81/top98.json
-  
-- 莱妮丝 （XBPQ）
-  
-  https://tvbox.cainisi.cf
-  
-- 神器
-  
-  https://神器每日推送.tk/pz.json
-  
-- FongMi
-  
-  https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
-  
-  https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json
-  
-- 小米 小暴脾气
-  
-  http://xhww.fun:63/小米/DEMO.json
-  
-- 骚 0
-  
-  https://xhdwc.tk/0
-  
-- 霜辉月明 py
-  
-  https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
-  
-- 高天流云 js
-  
-  https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
-  
-  高天流云 XYQ
-  
-  https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json
-  
-- 运输车
-  
-  https://github.moeyy.xyz/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json
-  
-- 多多家庭
-  
-  https://yydsys.top/duo
+- [福利线路](https://pastebin.com/raw/u9Z12TYi)
+  https://pastebin.com/raw/u9Z12TYi
   
 
+------
+
+- [吾爱线路](http://52bsj.vip:98/wuai)
+  http://52bsj.vip:98/wuai
+  
+- [香雅情线路](https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json)
+  https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
+  
+- [老刘备线路](https://raw.liucn.cc/box/m.json)
+  https://raw.liucn.cc/box/m.json
+  
+- [小米线路](http://xhww.fun:63/小米/DEMO.json)
+  http://xhww.fun:63/小米/DEMO.json
+  
+- [道长线路](https://pastebin.com/raw/5NHaxyGR)
+  https://pastebin.com/raw/5NHaxyGR
+
+  
 ## 直播线路
 
 - https://tv.nxog1.repl.co/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=zb&xl=1
