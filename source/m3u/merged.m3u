@@ -149,8 +149,6 @@ https://0472.org/hls/cgtna.m3u8
 http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="直播中国",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",支持作者
-https://vd3.bdstatic.com/mda-rkaittm5s06vzzyq/sc/cae_h264/1762869883709304452/mda-rkaittm5s06vzzyq.mp4
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="卫视频道",安徽卫视
 http://124.116.183.146:9901/tsfile/live/0130_1.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="卫视频道",安徽卫视
@@ -407,7 +405,7 @@ https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
 http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="电影频道",倩女幽魂道道道
 http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="国外直播",天映经典
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",天映经典
 http://pull-vivek.speedws.com/live/aaatyjd.flv
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="体育频道",安徽影视
 https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
@@ -461,9 +459,9 @@ http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="少儿频道",黑龙江少儿
 https://ls.qingting.fm/live/4972/64k.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",广东珠江
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",广东珠江
 http://gmxw.7766.org:808/hls/83/index.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",广东珠江
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",广东珠江
 http://183.11.239.36:808/hls/83/index.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="卫视频道",延边卫视
 https://srs.iyb983.cn:443/video/CYS/index.m3u8
@@ -497,7 +495,7 @@ http://drive.mxmy.net:8888/udp/239.3.1.164:8001
 http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="教育频道",七台河民生社教
 http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",万州三峡移民
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",万州三峡移民
 http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",万荣综合
 http://60.222.246.220:19433/hls1.m3u8
@@ -513,7 +511,7 @@ https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=2025091908013429b62173a5e24f8ea1f310d5ed32e792&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20250919080134&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=106.13.250.88&SecurityKey=20250919080134&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6c828d22c926cc843970f3f1c7455bea&ddCalcu=a6eceb815285804d72c21cf932f60c7c9834
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="电影频道",上虞文化影院
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="国外直播",上虞新商都
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",上虞新商都
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",上虞新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
@@ -521,7 +519,7 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 http://stream3.jlntv.cn:80/aac_dfgb/playlist.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",东莞新闻综合
 https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",东莞生活资讯
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",东莞生活资讯
 https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",中国蓝新闻
 http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
@@ -535,9 +533,9 @@ http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1
 http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",义马新闻综合
 http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",之江纪录
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",之江纪录
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",乐至综合
 http://175.155.106.72:89/live1/live1.m3u8
@@ -547,9 +545,9 @@ http://175.155.106.72:89/live1/live1.m3u8?zsicd
 http://175.155.106.72:89/live1/live1.m3u8?zsicd;http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",九台综合
 http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",云南娱乐
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",云南娱乐
 https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",云南都市
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",云南都市
 https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",云和新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
@@ -563,9 +561,9 @@ http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",井研综合
 http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",亳州农村
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",亳州农村
 http://zbbf2.ahbztv.com/live/418.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",亳州农村
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",亳州农村
 http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",什邡新闻
 http://live.sfrmt.com:85/live/zhpd.m3u8?zsicd
@@ -573,21 +571,21 @@ http://live.sfrmt.com:85/live/zhpd.m3u8?zsicd
 https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4ded9841ac34f63cdbd3aec647ef
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",任丘综合
 https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",伊犁哈萨克
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",伊犁哈萨克
 http://110.153.180.106:55555/out_3/index.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",伊犁哈萨克
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",伊犁哈萨克
 http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",伊犁经济法制
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",伊犁经济法制
 http://110.153.180.106:55555/out_4/index.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",伊犁经济法制
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",伊犁经济法制
 http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",伊犁维吾尔
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",伊犁维吾尔
 http://110.153.180.106:55555/out_2/index.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",伊犁维吾尔
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",伊犁维吾尔
 http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",余姚姚江文化
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",余姚姚江文化
 https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",余姚姚江文化
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",余姚姚江文化
 http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",余姚新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
@@ -617,7 +615,7 @@ http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
 http://live.dxhmt.cn:9081/tv/11522-1.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",光山综合
 http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",六安公共
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",六安公共
 http://ls.qingting.fm/live/1794199.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",六安新闻综合
 http://ls.qingting.fm/live/267.m3u8
@@ -637,7 +635,7 @@ http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
 http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",内乡综合
 http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",内蒙经济
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",内蒙经济
 https://ls.qingting.fm/live/1885/64k.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",内黄综合
 http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
@@ -649,15 +647,15 @@ http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?zhend
 https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",北京新闻
 https://ls.qingting.fm/live/339/64k.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",北京生活
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",北京生活
 https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="教育频道",北京科教
 http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",北京青年
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",北京青年
 http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",南京十八
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",南京十八
 http://gslbmgsplive.miguvideo.com/migu/kailu/nanjingsb/50/20230719/index.m3u8?msisdn=202509190801349730ff2fd0254ae4ad096d68d3fc7f35&mdspid=&spid=699067&netType=0&sid=5910021864&pid=2028597139&timestamp=20250919080134&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838151753&ParentNodeID=-99&assertID=5910021864&client_ip=106.13.250.88&SecurityKey=20250919080134&promotionId=&mvid=5900006207&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b0d57eedc76b6ea1b6b460ea0a8ac2d3&ddCalcu=3bd0e2d1c58a708eae0dace7066b46be6ab1
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",南京十八
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",南京十八
 http://gslbmgsplive.miguvideo.com/migu/kailu/nanjingsb/50/20230719/index.m3u8?msisdn=2025102308014162d44288f10c4a84b8b27a5f80ee99fd&mdspid=&spid=699067&netType=0&sid=5910021864&pid=2028597139&timestamp=20251023080141&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838151753&ParentNodeID=-99&assertID=5910021864&client_ip=106.13.250.83&SecurityKey=20251023080141&promotionId=&mvid=5900006207&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=5a6e4ed4765e04fdb8e8bd37c3607a6c&ddCalcu=c56aea627e80406e3dc47736d5be80e48fbd
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="教育频道",南京教科
 http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
@@ -673,9 +671,9 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/nanjingxwzh/50/20230719/index.m3u8?
 http://gslbmgsplive.miguvideo.com/migu/kailu/nanjingxwzh/50/20230719/index.m3u8?msisdn=20251023080141b90781bc871243ca9ccefdd19990364a&mdspid=&spid=699067&netType=0&sid=5910021863&pid=2028597139&timestamp=20251023080141&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838109047&ParentNodeID=-99&assertID=5910021863&client_ip=106.13.250.83&SecurityKey=20251023080141&promotionId=&mvid=5900006203&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=147e2c56380633b791b7bb2fc8bdccc9&ddCalcu=91c4ec72ce8d20bc85c6f328b0b673b31b97
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",南国都市
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",南宁公共
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",南宁公共
 http://hls.nntv.cn/nnlive/GGPD_24.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",南宁都市生活
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",南宁都市生活
 http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",南通新闻综合
 http://gslbmgsplive.miguvideo.com/migu/kailu/ntxwzh/51/20250604/index.m3u8?msisdn=202509190801352ef9ff3bad3f4a65b064683f87e439c3&mdspid=&spid=699067&netType=0&sid=5910022178&pid=2028597139&timestamp=20250919080135&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=955227985&ParentNodeID=-99&assertID=5910022178&client_ip=106.13.250.88&SecurityKey=20250919080135&promotionId=&mvid=5900006706&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=98aea868da861defcb53a7c9f1ba5a81&ddCalcu=1988eaa15e5aa0b816f89dca78a6315dbecf
@@ -697,37 +695,37 @@ http://stream3.jlntv.cn:80/aac_slgb/playlist.m3u8
 http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",古县综合
 https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",句容党建
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",句容党建
 http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="电影频道",句容影院
 http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",可克达拉综合
 http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",叶县
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",叶县
 http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",叶县
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",叶县
 http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8#
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",合肥新闻
 http://112.27.235.94:8000/hls/18/index.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",吉林乡村
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",吉林乡村
 https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",名山综合
 https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",周口扶沟
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",周口扶沟
 http://live.dxhmt.cn:9081/tv/11621-1.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",哈密一套
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",哈密一套
 https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",哈密三套
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",哈密三套
 https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",哈密二套
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",哈密二套
 https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",哈尔滨娱乐
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",哈尔滨娱乐
 https://stream.hrbtv.net/ylpd/sd/live.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",唐河一套
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",唐河一套
 http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",唐河一套
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",唐河一套
 http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8?zhend#http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",唐河一套
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",唐河一套
 http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8?zhend
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",嘉兴新闻综合
 http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
@@ -753,13 +751,13 @@ https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;tp
 https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",夹江新闻综合
 http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",奎屯哈萨克语
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",奎屯哈萨克语
 http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",宁夏经济
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",宁夏经济
 https://ls.qingting.fm/live/1841/64k.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",安徽国际
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",安徽国际
 https://www.ahtv.cn/folder9000/folder20193?channelIndex=6
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",安徽导视
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",安徽导视
 http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="体育频道",安徽综艺体育
 http://112.27.235.94:8000/hls/25/index.m3u8
@@ -771,7 +769,7 @@ https://ls.qingting.fm/live/5022203/64k.m3u8
 http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",宜兴新闻
 http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",宜兴紫砂
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",宜兴紫砂
 http://3gvod.zjgonline.com.cn:1935/live/_definst_/xinwenzonghe_app/chunklist.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",宜阳综合
 http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
@@ -789,7 +787,7 @@ http://live.dxhmt.cn:9081/tv/10421-1.m3u8
 http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",宝丰综合
 http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",山东生活
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",山东生活
 http://ls.qingting.fm/live/60260.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",嵊州新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
@@ -805,35 +803,35 @@ http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
 http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8?zhend
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",巩义新闻综合
 http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8?zhend?
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",常熟民生
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",常熟民生
 http://3gvod.zjgonline.com.cn:1935/live/_definst_/shehuishenghuo_app/chunklist.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",平泉综合
 https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",平湖新闻综合
 http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",平湖民生休闲
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",平湖民生休闲
 http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",平湖民生休闲
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",平湖民生休闲
 http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",平遥新闻综合
 https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",广东民生
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",广东民生
 http://183.11.239.36:808/hls/18/index.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",广元综合
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",广州新闻
 http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",广州竞赛
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",广州竞赛
 http://8.138.7.223/tv/gzjs.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",广德生活
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",广德生活
 https://live.gdtv.ah.cn/live/newsTV.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",广西国际
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",广西国际
 https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",广西国际
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",广西国际
 https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",广西国际
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",广西国际
 http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",广西新闻
 https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
@@ -843,7 +841,7 @@ http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
 http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",庆元综合
 http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",延边2
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",延边2
 http://stream5.jlntv.cn/wq/playlist.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="直播中国",开化国家公园
 http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
@@ -855,11 +853,11 @@ http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed
 http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",开化新闻综合
 http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",开封文化旅游
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",开封文化旅游
 http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",开封文化旅游
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",开封文化旅游
 http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8?zhend
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",开封文化旅游
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",开封文化旅游
 http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8?zhend,
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",开封新闻综合
 http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8?zhend
@@ -873,13 +871,13 @@ http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
 http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",扶沟综合
 http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?zhend
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",敦化一套
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",敦化一套
 http://stream8.jlntv.cn/dhtv/playlist.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",数码时代
 http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",文山州公共
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",文山州公共
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",文山州公共
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",文山州公共
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",文山州新闻综合
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund
@@ -889,7 +887,7 @@ http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",文成综合
 http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed?
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="国外直播",新乡县电视台
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",新乡县电视台
 http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",新县综合
 http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
@@ -905,7 +903,7 @@ http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1
 http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8?zhend
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",新昌新闻综合
 https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="国外直播",新昌生活
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",新昌生活
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",新沂新闻
 http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"
@@ -925,17 +923,17 @@ http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
 http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend?
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",新闻综合
 https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",方城一套
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",方城一套
 http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",方城一套
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",方城一套
 http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?zhend
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",无锡娱乐
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",无锡娱乐
 https://stream.thmz.com/wxtv2/playlist.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",无锡娱乐
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",无锡娱乐
 http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=5ff4061f1706166872
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",无锡娱乐
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",无锡娱乐
 http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=acffe97a1704940314
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",无锡娱乐
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",无锡娱乐
 http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=978cd8731706199708
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",无锡新闻综合
 http://stream.thmz.com/wxtv1/playlist.m3u8
@@ -945,29 +943,29 @@ http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv1/
 http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",无锡新闻综合
 http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",无锡生活
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",无锡生活
 https://stream.thmz.com/wxtv4/playlist.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",无锡生活
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",无锡生活
 http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",无锡生活
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",无锡生活
 http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",无锡经济
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",无锡经济
 https://stream.thmz.com/wxtv5/playlist.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",无锡经济
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",无锡经济
 http://stream.thmz.com/wxtv5/playlist.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",无锡经济
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",无锡经济
 http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",无锡经济
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",无锡经济
 http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",无锡经济
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",无锡经济
 http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",无锡都市资讯
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",无锡都市资讯
 http://stream.thmz.com/wxtv3/playlist.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",无锡都市资讯
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",无锡都市资讯
 http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",无锡都市资讯
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",无锡都市资讯
 http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",无锡都市资讯
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",无锡都市资讯
 http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708#http://stream.thmz.com/wxtv3/playlist.m3u8#http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",旺苍新闻综合
 http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
@@ -979,7 +977,7 @@ https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",普陀新闻综合
 http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",普陀电视台
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",普陀电视台
 https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",朝天综合
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
@@ -1011,7 +1009,7 @@ https://ls.qingting.fm/live/20198/64k.m3u8
 https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",武进新闻
 https://live.wjyanghu.com/live/CH1.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",武进生活
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",武进生活
 http://live.wjyanghu.com/live/CH2.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",永嘉新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
@@ -1023,9 +1021,9 @@ http://play.kankanlive.com/live/1720408280309109.m3u8
 https://play.kankanlive.com/live/1652755738635915.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",江夏新闻综合
 http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",江苏城市
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",江苏城市
 http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=202509030900312c5ad926e30449e5b9405f27a3fde9a6&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20250903090031&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=106.13.250.83&SecurityKey=20250903090031&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3712225a575d903704881b6443f50a06&ddCalcu=6307va1a02x52af2354a4567b51d89804307&sv=10004&ct=android
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",江苏城市
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",江苏城市
 http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=2025102308014130dd0a5e627f42499c11a2ab2361d34e&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20251023080141&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=106.13.250.83&SecurityKey=20251023080141&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=5d7ae839a5e5f0b92b0a6b3471204437&ddCalcu=753de4724a60e02813794a35be65af00bb29
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="教育频道",江苏教育
 http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsjiaoyu/600/index.m3u8?msisdn=20250903090031d7e536b9e78c4a42b0841922e44a4a36&mdspid=&spid=699067&netType=0&sid=5500287493&pid=2028597139&timestamp=20250903090031&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=628008321&ParentNodeID=-99&assertID=5500287493&client_ip=106.13.250.83&SecurityKey=20250903090031&promotionId=&mvid=5101012819&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d3e3bd992ebf554d360ba9b83b9b179d&ddCalcu=dd93v7ea13bbba9db93982be9bafb505643d&sv=10004&ct=android
@@ -1043,15 +1041,15 @@ http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
 http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",沭阳综合
 https://shuyang-tv-hls.cm.jstv.com:443/shuyang-tv/shuyangzh.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",河北农民
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",河北农民
 https://ls.qingting.fm/live/1650/64k.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",河北农民
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",河北农民
 http://ls.qingting.fm/live/1650.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",河北农民
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",河北农民
 https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",河北都市
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",河北都市
 https://radio.pull.hebtv.com/live/hebnczx.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",河源公共
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",河源公共
 http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",河源综合
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
@@ -1077,33 +1075,33 @@ http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
 http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",洞头综合
 http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8?zzhed?
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",津南一套
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",津南一套
 http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",济源电视一套
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",济源电视一套
 http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",济源电视一套
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",济源电视一套
 http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8?zhend
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江休闲台
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江休闲台
 http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",浙江公共新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",浙江公共新闻
 http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江国际
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江国际
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江国际
 http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江国际
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江国际
 http://ali-xwl.cztv.com/live/channel10720Plxw.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江国际
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江国际
 http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江国际
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江国际
 http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="教育频道",浙江教科
 http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="教育频道",浙江教育
 http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江数码时代
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江数码时代
 http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",浙江新闻
 http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
@@ -1115,49 +1113,49 @@ http://ali-m-l.cztv.com/channels/lantian/channel007/720p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江民生
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江民生
 http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江民生
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江民生
 http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江民生
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江民生
 http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江民生
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江民生
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江民生休闲
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江民生休闲
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江民生休闲
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江民生休闲
 http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江生活
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江生活
 http://ls.qingting.fm/live/1099.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江留学
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江留学
 http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江经济
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江经济
 http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江经济
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江经济
 http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江经济
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江经济
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江经济生活
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江经济生活
 http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江经济生活
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江经济生活
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江经济生活
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江经济生活
 http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江经济生活
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江经济生活
 http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江经济生活
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江经济生活
 http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江经视
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江经视
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江经视
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江经视
 http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江遂昌
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江遂昌
 http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江钱江
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江钱江
 http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江钱江都市
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江钱江都市
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",浙江钱江频道
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",浙江钱江频道
 http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",海南新闻
 http://ls.qingting.fm/live/1861.m3u8
@@ -1171,7 +1169,7 @@ http://live1.habctv.com/ggpdsl/sd/live.m3u8
 http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",涟水电视台综合
 http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",淅川电视
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",淅川电视
 http://live.dxhmt.cn:9081/tv/11326-1.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="电影频道",淮安影院娱乐
 http://live1.habctv.com/ysylsl/sd/live.m3u8
@@ -1183,7 +1181,7 @@ http://gslbmgsplive.miguvideo.com/wd_r2/jstv/haxinwenzonghe/600/index.m3u8?msisd
 http://gslbmgsplive.miguvideo.com/wd_r2/jstv/haxinwenzonghe/600/index.m3u8?msisdn=20251023080142941c175264e346bdb28fc24a4c0fff92&mdspid=&spid=699067&netType=0&sid=5500469363&pid=2028597139&timestamp=20251023080142&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731826&ParentNodeID=-99&assertID=5500469363&client_ip=106.13.250.83&SecurityKey=20251023080142&promotionId=&mvid=5102012618&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=228f78becdd3f1c2f4ea311cb51557e2&ddCalcu=22e2e7825f9570185bbecc1d1d33afe14cf2
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",淮安新闻综合
 http://gslbmgsplive.miguvideo.com/wd_r2/jstv/haxinwenzonghe/600/index.m3u8?msisdn=2025102408005841cc8f9eb2074fbabaeaef4617e0ca47&mdspid=&spid=699067&netType=0&sid=5500469363&pid=2028597139&timestamp=20251024080058&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731826&ParentNodeID=-99&assertID=5500469363&client_ip=106.13.250.88&SecurityKey=20251024080058&promotionId=&mvid=5102012618&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d70ba06f67ad26900d75c4f6652b7fa4&ddCalcu=4da7ef027b9ba020566f66f74acd5276d900
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",清河经济综艺
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",清河经济综艺
 https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",渑池新闻综合
 http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
@@ -1197,9 +1195,9 @@ http://live.dxhmt.cn:9081/tv/10825-1.m3u8
 http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?zhend
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",温县综合
 http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?zhend?
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",湖州公共民生
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",湖州公共民生
 http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",湖州文化娱乐
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",湖州文化娱乐
 http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",湖州新闻综合
 http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
@@ -1223,11 +1221,11 @@ http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1
 https://ls.qingting.fm/live/5043/64k.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",灵宝新闻综合
 http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?zhend
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",烟台公共
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",烟台公共
 http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",烟台新闻综合
 http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",烟台经济科技
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",烟台经济科技
 http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",玛纳斯综合
 http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
@@ -1235,9 +1233,9 @@ http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
 https://stream.hrbtv.net/zxpd/sd/live.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",甘孜综合
 http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",甘肃经济
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",甘肃经济
 https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",甘肃都市
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",甘肃都市
 https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",登封综合
 http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
@@ -1251,7 +1249,7 @@ http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766
 http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",福建新闻
 http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",福建经济
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",福建经济
 http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",禹州综合
 http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -1261,9 +1259,9 @@ https://play.kankanlive.com/live/1680577080200944.m3u8
 http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="财经频道",第一财经
 http://ls.qingting.fm/live/276.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",绍兴公共
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",绍兴公共
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",绍兴电视台公共
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",绍兴电视台公共
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",缙云新闻综合
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
@@ -1275,13 +1273,13 @@ http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
 http://stream8.jlntv.cn/shulan/sd/live.m3u8?_upt=332db6421699196585
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",苍南新闻综合
 https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",苏州文化生活
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",苏州文化生活
 https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",苏州生活资讯
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",苏州生活资讯
 https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",苏州社会经济
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",苏州社会经济
 https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",茶频道
 http://drive.mxmy.net:8888/udp/239.3.1.165:8001
@@ -1299,19 +1297,19 @@ http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
 http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",荥阳综合
 http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",营山电视台
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",营山电视台
 http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",萧山新闻综合
 https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",萧山生活
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",萧山生活
 https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",萧山生活
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",萧山生活
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",萧山生活
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",萧山生活
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed?
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",萧山综合
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",衡水公共
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",衡水公共
 http://ls.qingting.fm/live/2810.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",衢江新闻综合
 http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
@@ -1331,7 +1329,7 @@ https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65ju
 https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",西安新闻
 http://112.46.105.20:8009/hls/28/index.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",西安都市
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",西安都市
 http://112.46.105.20:8009/hls/29/index.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",诸暨新闻综合
 https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
@@ -1343,29 +1341,29 @@ http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",象山综合
 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",赣州公共
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",赣州公共
 https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526334096251.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",赣州新闻
 https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526329228525.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",辉南新闻综合
 http://stream5.jlntv.cn/hn/sd/live.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",辽宁都市
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",辽宁都市
 https://ls.qingting.fm/live/1099/64k.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",通化县综合
 http://stream3.jlntv.cn:80/aac_thxgb/playlist.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",通海电视台
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",通海电视台
 https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",遂昌综合
 http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",邓州新闻
 http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",邢台生活
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",邢台生活
 https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",邢台综合
 http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",邢台综合
 https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",邯郸公共频道
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",邯郸公共频道
 https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",邯郸新闻
 https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
@@ -1395,7 +1393,7 @@ http://live.dxhmt.cn:9081/tv/11024-1.m3u8
 http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",重庆新闻
 http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",金川乡村
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",金川乡村
 http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",金川新闻综合
 http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
@@ -1403,7 +1401,7 @@ http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
 http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",铜陵新闻综合
 https://ls.qingting.fm/live/21303/64k.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",镇江二套社会民生
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",镇江二套社会民生
 http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",镇江新闻综合
 http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
@@ -1417,9 +1415,9 @@ https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
 http://cnpull.sccnfb.com:80/live/123456.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",长沙新闻综合
 http://ls.qingting.fm/live/4877.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",长白山电视台
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",长白山电视台
 http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",长白朝语
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",长白朝语
 http://hplayer1.juyun.tv:80/camera/11344136.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",陇川综合
 https://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8
@@ -1429,7 +1427,7 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisd
 http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=20251023080139c026415ca4654e0cb51f36f8105eb6a1&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20251023080139&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.83&SecurityKey=20251023080139&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=101f9c0a14d24dc78aa97137482db06c&ddCalcu=c160e012bf6d902c804a71341d7294adac87
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="体育频道",陕西体育休闲
 http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=20251024080056953be86c14d64c758cd4dbf06a58c942&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20251024080056&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.88&SecurityKey=20251024080056&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d18ceaa4887dd90437843aedd252e8e7&ddCalcu=7de1e882ec62e05a2ad4d8e8a73d4d897034
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",陕西公共
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",陕西公共
 http://ls.qingting.fm/live/1222.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",陕西新闻咨询
 http://112.46.105.20:8009/hls/18/index.m3u8
@@ -1439,23 +1437,23 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisd
 http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=202510230801447f8d4c3a1a3c4ca1bd0de217472d80f2&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20251023080144&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=106.13.250.83&SecurityKey=20251023080144&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6ed563603d847927c8983a33d5b70e32&ddCalcu=263eeed2056760b356d0333da834879982c7
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",陕西新闻资讯
 http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=202510240800591ee112712ed2473aa0d84b8ea3046959&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20251024080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=106.13.250.88&SecurityKey=20251024080059&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=5661fd15cfb5726d7c6a1eb652fdb094&ddCalcu=4596e062b16df0fd21556cbfeb15a762c67d
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",陕西秦腔
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",陕西秦腔
 http://112.46.105.20:8009/hls/22/index.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",陕西都市青春
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",陕西都市青春
 http://112.46.105.20:8009/hls/19/index.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",陕西都市青春
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",陕西都市青春
 http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=20250919080136b45ee433a7cf4d688994f00b794d176d&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20250919080136&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=106.13.250.88&SecurityKey=20250919080136&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9db1317be8c80566b10f130aebe87c29&ddCalcu=992decb1716830e1b7ebae083c18f00516b6
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",陕西都市青春
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",陕西都市青春
 http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=202510230801444202628b64cc49f4bfb9f6b1dfb1f491&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20251023080144&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=106.13.250.83&SecurityKey=20251023080144&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=83284c876ebb25ecdf72f4eb4dd5a006&ddCalcu=6803e022a86540dcd847b6ee4bfb2275fedc
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",陕西都市青春
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",陕西都市青春
 http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=2025102408005947806826798c44e4b89b7ed86b1ba04f&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20251024080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=106.13.250.88&SecurityKey=20251024080059&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=52c95103cb01acfba0783bb6dba5f262&ddCalcu=2562e2c2f96550a1b0d36cbbb0318a7c0fab
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",陕西银龄
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",陕西银龄
 http://112.46.105.20:8009/hls/20/index.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",雅安新闻综合
 https://play.yunxya.com/channellive/xinwen.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",青川综合
 http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",青田电视台
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",青田电视台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",靖宇综合
 http://stream9.jlntv.cn:80/aac_jygb/playlist.m3u8
@@ -1465,9 +1463,9 @@ http://ls.qingting.fm/live/23797.m3u8
 http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",项城新闻
 http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8#@http://live.dxhmt.cn:9081/tv/11681-1.m3u8#@http://p2.weizan.cn/978354/131995006225520039/live.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",麻栗坡电视台
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",麻栗坡电视台
 http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv?zyund
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",黄山公共生活
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",黄山公共生活
 http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",黄山新闻综合
 http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
@@ -1477,7 +1475,7 @@ http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
 http://111.53.96.67:8081/live/1/index.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",黎城综合
 http://111.53.96.67:8081/live/1/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",黑龙江文体
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",黑龙江文体
 https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",黑龙江新闻
 https://ls.qingting.fm/live/4974/64k.m3u8
@@ -1489,47 +1487,47 @@ http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",龙游新闻综合
 http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",龙游生活娱乐
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",龙游生活娱乐
 https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",龙游生活娱乐
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",龙游生活娱乐
 http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",航拍中国第二季
 http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",东丰
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",东丰
 http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",中国村庄
 http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c23da104fbade23/4000.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",九台
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",九台
 http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",人与自然
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",兵团五师双河影
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",兵团五师双河影
 https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",双辽
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",双辽
 http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",地理中国
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",奎屯汉语
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",奎屯汉语
 http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",敦化一套
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",敦化一套
 http://stream8.jlntv.cn/dhtv/playlist.m3u8?zjild
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",文山州新闻
 http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv?zyund
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",柳河
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",柳河
 http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",桦甸
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",桦甸
 http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",江津新闻
 http://222.179.155.21:1935/ch1.m3u8?zzhongqd
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",汪清
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",汪清
 http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",玛纳斯
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",玛纳斯
 http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",珲春新闻
 http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",白山公共
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",白山公共
 http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",磐石
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",磐石
 http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",自然传奇
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
@@ -1537,17 +1535,17 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb85
 http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="新闻频道",辉南新闻
 http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",通化县
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",通化县
 http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",鄂托克旗电视台
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",鄂托克旗电视台
 http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8?zneimd
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",靖宇
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",靖宇
 http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",飞碟之谜01
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",飞碟之谜02
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",龙井
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",龙井
 http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",JJ斗地主
 https://live.iill.top/douyin/685317364746
@@ -1673,7 +1671,7 @@ https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="直播中国",恒山悬空寺全景
 https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="国外直播",新疆天山
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",新疆天山
 http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="直播中国",普陀山
 https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
@@ -1737,7 +1735,7 @@ https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="直播中国",黄山
 https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="国外直播",黄山始信新道
+#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",黄山始信新道
 https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="直播中国",黄山排云亭
 https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
@@ -1753,10 +1751,6 @@ http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="直播中国",黄龙
 https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="特色直播",2026-03-14 18:29:40
-https://vd3.bdstatic.com/mda-rkaittm5s06vzzyq/sc/cae_h264/1762869883709304452/mda-rkaittm5s06vzzyq.mp4
-#EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="国外直播",www.izbds.com
-https://vd3.bdstatic.com/mda-rkaittm5s06vzzyq/sc/cae_h264/1762869883709304452/mda-rkaittm5s06vzzyq.mp4
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="综合频道",四川·巴中综合频道
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.flv
 #EXTINF:-1 timeshift="3" catchup-days="3" catchup-type="flussonic" group-title="地方频道",河南·济源一套FHD
